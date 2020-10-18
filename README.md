@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-# Just testing
+Nothing really. Just Hi.
 
 <!--
 **kimmohito/kimmohito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
