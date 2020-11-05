@@ -19,10 +19,6 @@ If you're having any question. Kindly leave a direct message on my Twitter. [@ki
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Youtube
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
 
 ## GitHub Stats
 [![Kim Mohito's github stats](https://github-readme-stats.vercel.app/api?username=kimmohito&custom_title=Kim%20Mohito&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
