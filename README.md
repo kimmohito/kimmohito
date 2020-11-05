@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/1238171999010086912/1596616511/1500x500">
+<!-- <img src="https://pbs.twimg.com/profile_banners/1238171999010086912/1596616511/1500x500"> -->
 
 Hi, I'm Kim.
 
@@ -32,10 +32,3 @@ Here are some ideas to get you started:
 -->
 
 [![Kimmohito's github stats](https://github-readme-stats.vercel.app/api?username=kimmohito&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
