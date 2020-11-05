@@ -7,9 +7,8 @@ Hi, I'm Kim.
 ## How I work
 
 ## Get in Touch
-- test
-- test
-- test
+- [Instagram](https://www.instagram.com/kimmohito)
+- [Website](https://www.kimmohito.com)
 
 
 
