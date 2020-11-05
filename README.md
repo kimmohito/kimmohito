@@ -1,6 +1,9 @@
 <img src="https://pbs.twimg.com/profile_banners/1238171999010086912/1596616511/1500x500">
+
 Hi, I'm Kim.
+
 ## My Values
+
 ## How I work
 
 ## Get in Touch 📫
