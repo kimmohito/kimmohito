@@ -4,7 +4,7 @@
 # Hello World! 👋
 My name is **Kim Mohito**. I'm a [Network Engineer]() graduated under [Cisco]() based in [Kuala Lumpur, Malaysia]() specializing in Web Development (and occasionally designing) expectional websites, applications, and everything in between.
 
-I do enjoy writing and developing stuff. For more information about what I'm working on, check out [HowTo](howto).
+I do enjoy writing and developing stuff. For more information about what I'm working on, check out [HowTo](https://github.com/kimmohito/howto).
 
 
 ## About Me 👨‍💻
