@@ -1,7 +1,7 @@
 <!-- <img src="https://pbs.twimg.com/profile_banners/1238171999010086912/1596616511/1500x500"> -->
 
 
-# Hello World! 👋
+# Hello World! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 My name is **Kim Mohito**. I'm a [Network Engineer]() graduated under [Cisco]() based in [Kuala Lumpur, Malaysia]() specializing in Web Development (and occasionally designing) expectional websites, applications, and everything in between.
 
 I do enjoy writing and developing stuff. For more information about what I'm working on, check out [HowTo](https://github.com/kimmohito/howto).
