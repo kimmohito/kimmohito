@@ -17,6 +17,7 @@ If you're having any question. Kindly leave a direct message on my Twitter. [@ki
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Test](https://dev.to/kimmohito/test-aml)
 <!-- BLOG-POST-LIST:END -->
 
 
