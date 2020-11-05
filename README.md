@@ -20,6 +20,7 @@ If you're having any question. Kindly leave a direct message on my Twitter. [@ki
 
 ## Blog posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [New](https://dev.to/kimmohito/new-56o2)
 - [Test](https://dev.to/kimmohito/test-aml)
 <!-- BLOG-POST-LIST:END -->
 
