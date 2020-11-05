@@ -14,10 +14,9 @@ Hyper active
 <!-- BLOG-POST-LIST:END -->
 
 
-# Blog posts
-<!-- YOUTUBE-LIST:START -->
-- [Test](https://dev.to/kimmohito/test-aml)
-<!-- YOUTUBE-LIST:END -->
+# Youtube
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 
 <!--
