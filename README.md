@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Kimmohito's github stats](https://github-readme-stats.vercel.app/api?username=kimmohito)](https://github.com/anuraghazra/github-readme-stats)
+[![Kimmohito's github stats](https://github-readme-stats.vercel.app/api?username=kimmohito&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
