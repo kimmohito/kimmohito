@@ -5,11 +5,6 @@ My name is **Kim Mohito**.
 ## My Values
 Hyper active
 
-## Get in Touch
-- [Instagram](https://www.instagram.com/kimmohito)
-- [Website](https://www.kimmohito.com)
-
-
 <!--
 **kimmohito/kimmohito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
