@@ -1,3 +1,19 @@
+# Kim Mohito --- @kimmohito
+Hi, I'm Kim.
+
+## My Values
+
+
+## How I work
+
+## Get in Touch
+- test
+- test
+- test
+
+
+
+
 ### Hi there 👋
 Nothing really. Just Hi.
 
