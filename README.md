@@ -10,6 +10,7 @@ Hyper active
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Test](https://dev.to/kimmohito/test-aml)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
