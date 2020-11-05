@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Kim's github stats](https://github-readme-stats.vercel.app/api?username=kimmohito&show_icons=true&icon_color=cccccc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Kim's github stats](https://github-readme-stats.vercel.app/api?username=kimmohito&show_icons=true&title_color=111111&icon_color=cccccc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
