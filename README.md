@@ -6,7 +6,7 @@ Hi, I'm Kim.
 
 ## How I work
 
-## Get in Touch
+## Get in Touch 📫
 - [Instagram](https://www.instagram.com/kimmohito)
 - [Website](https://www.kimmohito.com)
 
