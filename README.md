@@ -10,7 +10,7 @@ I do enjoy writing and developing stuff. For more information about what I'm wor
 ## About Me 👨‍💻
 I believe in the world of free education where people can discover unlimited resoruce of knowledge. My goal is to always build a products that provide handful methods of inetperating information by sharing.
 
-Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.edu.my), I started a developer community at [RojakCube](https://www.rojakcube.com) and joined the enginneering team at [SilverByte]() where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.edu.my), I started a developer community at [RojakCube](https://www.rojakcube.com) and joined the enginneering team at [SilverByte](https://www.silverbyte.my) where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
 ## Ask Me 💬
 If you're having any question. Kindly leave a direct message on my Twitter. [@kimmohito](https://www.twitter.com/kimmohito)
