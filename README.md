@@ -5,10 +5,7 @@ My name is **Kim Mohito**.
 ## My Values
 Hyper active
 
-## Get in Touch
-- [Instagram](https://www.instagram.com/kimmohito)
-- [Website](https://www.kimmohito.com)
-
+[![Kim's github stats](https://github-readme-stats.vercel.app/api?username=kimmohito&show_icons=true&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kimmohito/kimmohito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,5 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Kim's github stats](https://github-readme-stats.vercel.app/api?username=kimmohito&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
