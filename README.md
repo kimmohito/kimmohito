@@ -6,8 +6,6 @@ My name is **Kim Mohito**. I'm a Network Engineer based in Kuala Lumpur, Malaysi
 
 
 ## Previous Education
-| Year | Description |
-| ---- | ----------- |
 | 2020 | **Bachelor in Network System**<br>[Universiti Kuala Lumpur MIIT (Malaysian Institute of Information Technology)](https://www.unikl.edu.my)   |
 
 
