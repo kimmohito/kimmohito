@@ -15,16 +15,16 @@ Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.e
 ## Ask Me 💬
 If you're having any question. Kindly leave a direct message on my Twitter. [@kimmohito](https://www.twitter.com/kimmohito)
 
-## What I've been working on
+## What I've been working on 📊
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimmohito&hide_title=true&hide_border=true&langs_count=5)
 
-## Blog posts
+## Blog posts 📝
 <!-- BLOG-POST-LIST:START -->
 - [Test](https://dev.to/kimmohito/test-aml)
 <!-- BLOG-POST-LIST:END -->
 
 
-## GitHub Stats
+## GitHub Stats 🐈
 [![Kim Mohito's github stats](https://github-readme-stats.vercel.app/api?username=kimmohito&custom_title=Kim%20Mohito&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
