@@ -1,4 +1,4 @@
-# Kim Mohito --- @kimmohito
+# Kim Mohito - @kimmohito
 Hi, I'm Kim.
 
 ## My Values
