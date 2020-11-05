@@ -3,18 +3,12 @@
 My name is **Kim Mohito**.
 
 ## My Values
+Hyper active
 
-## How I work
-
-## Get in Touch 📫
+## Get in Touch
 - [Instagram](https://www.instagram.com/kimmohito)
 - [Website](https://www.kimmohito.com)
 
-
-
-
-### Hi there 👋
-Nothing really. Just Hi.
 
 <!--
 **kimmohito/kimmohito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
