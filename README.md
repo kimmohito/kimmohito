@@ -1,4 +1,4 @@
-# Kim Mohito - @kimmohito
+# About Me 👋
 Hi, I'm Kim.
 
 ## My Values
