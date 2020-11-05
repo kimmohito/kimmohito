@@ -3,25 +3,15 @@
 
 # Hello World! 👋
 My name is **Kim Mohito**. I'm a [Network Engineer]() graduated under [Cisco]() based in [Kuala Lumpur, Malaysia]() specializing in Web Development (and occasionally designing) expectional websites, applications, and everything in between.
-
 I do enjoy writing and developing stuff. For more information about what I'm working on, check out [HowTo](howto).
 
-<<<<<<< Updated upstream
-## Previous Education
-| 2020 | **Bachelor in Network System**<br>[Universiti Kuala Lumpur MIIT (Malaysian Institute of Information Technology)](https://www.unikl.edu.my)   |
-=======
+
 ## About Me 👨‍💻
 I believe in the world of free education where people can discover unlimited resoruce of knowledge. My goal is to always build a products that provide handful methods of inetperating information by sharing.
-
 Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.edu.my), I started a developer community at [RojakCube](https://www.rojakcube.com) and joined the enginneering team at [SilverByte]() where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
 ## Ask Me 💬
 If you're having any question. Kindly leave a direct message on my Twitter. [@kimmohito](https://www.twitter.com/kimmohito)
-
-## Language
-<%= octicon "terminal", :height => 16 %>
->>>>>>> Stashed changes
-
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
