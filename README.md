@@ -1,6 +1,6 @@
 # Hi, my name is Kim Mohito 👋
 
-<img src="https://www.gogoprint.com.my/media/catalog/product/cache/1/small_image/9df78eab33525d08d6e5fb8d27136e95/b/a/banner.png">
+<img src="https://twitter.com/rojakcube/header_photo">
 
 
 Hi, I'm Kim.
