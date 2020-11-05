@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Kimmohito's github stats](https://github-readme-stats.vercel.app/api?username=kimmohito&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kim's github stats](https://github-readme-stats.vercel.app/api?username=kimmohito&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
