@@ -5,9 +5,6 @@ My name is **Kim Mohito**. I'm a writer
 ## My Values
 Hyper active
 
-[![Kim Mohito's github stats](https://github-readme-stats.vercel.app/api?username=kimmohito&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Test](https://dev.to/kimmohito/test-aml)
@@ -23,6 +20,7 @@ Hyper active
 - [Gosu.ai | dog as Invoker](https://www.youtube.com/watch?v=j2MEW4BmHrY)
 <!-- YOUTUBE:END -->
 
+[![Kim Mohito's github stats](https://github-readme-stats.vercel.app/api?username=kimmohito&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kimmohito/kimmohito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
