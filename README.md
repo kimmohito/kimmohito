@@ -1,11 +1,14 @@
 <!-- <img src="https://pbs.twimg.com/profile_banners/1238171999010086912/1596616511/1500x500"> -->
-# Hi there 👋
-My name is **Kim Mohito**. I'm a writer
 
-## My Values
-Hyper active
 
-[![Kim Mohito's github stats](https://github-readme-stats.vercel.app/api?username=kimmohito&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+# Hello 👋👨‍💻
+My name is **Kim Mohito**. I'm a Network Engineer based in Kuala Lumpur, Malaysia specializing in Web development (and occasionally designing) expectional websites, applications, and everything in between.
+
+
+## Previous Education
+| Year | Description |
+| ---- | ----------- |
+| 2020 | **Bachelor in Network System**<br>[Universiti Kuala Lumpur MIIT (Malaysian Institute of Information Technology)](https://www.unikl.edu.my)   |
 
 
 ## Blog posts
