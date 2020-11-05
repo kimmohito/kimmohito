@@ -1,11 +1,13 @@
 <!-- <img src="https://pbs.twimg.com/profile_banners/1238171999010086912/1596616511/1500x500"> -->
 # Hi there 👋
-My name is **Kim Mohito**.
+My name is **Kim Mohito**. I'm a writer
 
 ## My Values
 Hyper active
 
-[![Kim's github stats](https://github-readme-stats.vercel.app/api?username=kimmohito&show_icons=true&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)
+[![Kim Mohito's github stats](https://github-readme-stats.vercel.app/api?username=kimmohito&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kimmohito/kimmohito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
