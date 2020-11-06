@@ -28,10 +28,10 @@ Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.e
 -->
 
 ## Things I've been working on 📊
-[![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimmohito&hide_title=true&hide_border=true&langs_count=6)]()
+[![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimmohito&hide_title=true&hide_border=true&langs_count=6)](#)
 
 ## GitHub Stats 👨‍💻
-[![Kim Mohito's github stats](https://github-readme-stats.vercel.app/api?username=kimmohito&hide_title=true&hide_border=true)]()
+[![Kim Mohito's github stats](https://github-readme-stats.vercel.app/api?username=kimmohito&hide_title=true&hide_border=true)](#)
 
 <!--
 **kimmohito/kimmohito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
