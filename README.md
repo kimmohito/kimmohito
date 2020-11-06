@@ -9,7 +9,7 @@ Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.e
 ## Contact Me 💬
 If you're having any question. Kindly leave a direct message on my Twitter. [@kimmohito](https://www.twitter.com/kimmohito)
 
-Feel like an expert? Make sure that you've installed `npm` on your machine and check this out:
+Feel like an expert? Make sure `npm` package is installed on your machine and check this out:
 ```sh
 $ npx kimmohito
 ```
