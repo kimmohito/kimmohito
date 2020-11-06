@@ -8,6 +8,12 @@ Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.e
 
 ## Contact Me 💬
 [![Twitter Badge](https://img.shields.io/badge/-%40kimmohito-brightgreen)](https://www.twitter.com/kimmohito)
+[![Twitter Badge](https://img.shields.io/badge/-%40kimmohito-brightgreen)](https://www.twitter.com/kimmohito)
+[![Twitter Badge](https://img.shields.io/badge/-%40kimmohito-brightgreen)](https://www.twitter.com/kimmohito)
+[![Twitter Badge](https://img.shields.io/badge/-%40kimmohito-brightgreen)](https://www.twitter.com/kimmohito)
+[![Twitter Badge](https://img.shields.io/badge/-%40kimmohito-brightgreen)](https://www.twitter.com/kimmohito)
+
+
 If you're having any question. Kindly leave a direct message on my Twitter. [@kimmohito](https://www.twitter.com/kimmohito)
 
 Feel like an expert? Make sure `npm` package is installed on your machine and check this out:
