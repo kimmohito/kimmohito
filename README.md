@@ -34,7 +34,6 @@ $ npx kimmohito
 
 ## Lates Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
-- [New](https://dev.to/kimmohito/new-56o2)
 - [Test](https://dev.to/kimmohito/test-aml)
 <!-- BLOG-POST-LIST:END -->
 
