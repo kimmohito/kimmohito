@@ -7,6 +7,7 @@ My name is **Kim Mohito**. I'm a [Network Engineer]() graduated under [Cisco]() 
 Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.edu.my), I started a developer community at [RojakCube](https://www.rojakcube.com) and joined the enginneering team at [SilverByte](https://www.silverbyte.my) where I work on a wide variety of interesting and meaningful projects on a daily basis. I do enjoy writing and developing stuff. For more information about what I'm working on, check out on [HowTo](https://github.com/kimmohito/howto).
 
 ## Contact Me 💬
+[test](https://img.shields.io/badge/-%40kimmohito-brightgreen)
 If you're having any question. Kindly leave a direct message on my Twitter. [@kimmohito](https://www.twitter.com/kimmohito)
 
 Feel like an expert? Make sure `npm` package is installed on your machine and check this out:
