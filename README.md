@@ -9,6 +9,11 @@ Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.e
 ## Contact Me 💬
 If you're having any question. Kindly leave a direct message on my Twitter. [@kimmohito](https://www.twitter.com/kimmohito)
 
+Feel like an expert? Make sure that you've installed `npm` on your machine and check this out:
+```sh
+$ npx kimmohito
+```
+
 ## Things I've been working on 👨‍💻
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimmohito&hide_title=true&hide_border=true&langs_count=5)
 
