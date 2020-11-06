@@ -12,10 +12,10 @@ I believe in the world of free education where people can discover unlimited res
 
 Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.edu.my), I started a developer community at [RojakCube](https://www.rojakcube.com) and joined the enginneering team at [SilverByte](https://www.silverbyte.my) where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
-## Ask Me 💬
+## Contact Me 💬
 If you're having any question. Kindly leave a direct message on my Twitter. [@kimmohito](https://www.twitter.com/kimmohito)
 
-## What I've been working on 📊
+## Things I've been working on 📊
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimmohito&hide_title=true&hide_border=true&langs_count=5)
 
 ## Blog posts 📝
