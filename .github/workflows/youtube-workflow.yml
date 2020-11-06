@@ -1,4 +1,4 @@
-name: Latest stack overflow activity
+name: Latest Youtube Videos
 on:
   schedule:
     - cron: '0 * * * *' # Runs every hour, on the hour
@@ -12,4 +12,4 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           commit_message: "Updated readme with the latest YouTube video"
-          feed_list: "https://stackoverflow.com/feeds/user/4214976"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCnsIaJK9zEXAqXJsexevOfA"
