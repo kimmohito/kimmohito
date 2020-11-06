@@ -6,20 +6,6 @@ My name is **Kim Mohito**. I'm a [Network Engineer]() graduated under [Cisco]() 
 
 Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.edu.my), I started a developer community at [RojakCube](https://www.rojakcube.com) and joined the enginneering team at [SilverByte](https://www.silverbyte.my) where I work on a wide variety of interesting and meaningful projects on a daily basis. I do enjoy writing and developing stuff. For more information about what I'm working on, check out on [BagaiMana](https://github.com/kimmohito/bagaimana).
 
-<!--
-GitHub
-LinkedIn
-Twitter
-Dev
-Youtube
-Steam
-Twitch
-Xbox
-Facebook
-Instagram
-Reddit
--->
-
 ## Contact Me 💬
 [![Youtube Badge](https://img.shields.io/badge/-Kim%20Mohito-111?style=flat-square&logo=dev.to&logoColor=fff)](https://dev.to/kimmohito)
 [![LinkedIn Badge](https://img.shields.io/badge/-Kim%20Mohito-0e76a8?style=flat-square&logo=linkedin&logoColor=fff)](https://linkedin.com/in/kimmohito)
@@ -37,14 +23,16 @@ $ npx kimmohito
 - [Test](https://dev.to/kimmohito/test-aml)
 <!-- BLOG-POST-LIST:END -->
 
+<!--
 ## Lates Youtube Video 📹
-<!-- YOUTUBE:START -->
+-- YOUTUBE:START --
 - [Gosu.ai rampage moment | dog as Tidehunter](https://www.youtube.com/watch?v=hZgWxY_Q5Ns)
 - [Gosu.ai | dog as Faceless Void](https://www.youtube.com/watch?v=DdI3AXQv0uY)
 - [Gosu.ai | Rampage | dog as Faceless Void](https://www.youtube.com/watch?v=tZiFkE9gDmw)
 - [Gosu.ai | dog as Pudge](https://www.youtube.com/watch?v=QWw98O8_9uc)
 - [Gosu.ai | dog as Invoker](https://www.youtube.com/watch?v=j2MEW4BmHrY)
-<!-- YOUTUBE:END -->
+-- YOUTUBE:END --
+-->
 
 ## Things I've been working on 📊
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimmohito&hide_title=true&hide_border=true&langs_count=6)
