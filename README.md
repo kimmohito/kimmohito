@@ -16,7 +16,7 @@ Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.e
 If you're having any question. Kindly leave a direct message on my Twitter. [@kimmohito](https://www.twitter.com/kimmohito)
 
 ## What I've been working on 📊
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimmohito&hide_title=true&hide_border=true&langs_count=1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Blog posts 📝
 <!-- BLOG-POST-LIST:START -->
