@@ -8,10 +8,8 @@ Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.e
 
 ## Contact Me 💬
 [![Twitter Badge](https://img.shields.io/badge/-%40kimmohito-00acee?style=for-the-badge&logo=twitter&logoColor=fff)](https://www.twitter.com/kimmohito)
-[![Twitter Badge](https://img.shields.io/badge/-%40kimmohito-brightgreen)](https://www.twitter.com/kimmohito)
-[![Twitter Badge](https://img.shields.io/badge/-%40kimmohito-brightgreen)](https://www.twitter.com/kimmohito)
-[![Twitter Badge](https://img.shields.io/badge/-%40kimmohito-brightgreen)](https://www.twitter.com/kimmohito)
-[![Twitter Badge](https://img.shields.io/badge/-%40kimmohito-brightgreen)](https://www.twitter.com/kimmohito)
+
+[![LinkedIn Badge](https://img.shields.io/badge/-%40kimmohito-00acee?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kimmohito)
 
 Feel like an expert? Make sure `npm` package is installed on your machine and check this out:
 ```sh
