@@ -2,7 +2,7 @@
 
 
 # <Hello World!/> <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-My name is **Kim Mohito**. I'm a [Network Engineer]() graduated under [Cisco]() based in [Kuala Lumpur, Malaysia]() specializing in Web Development (and occasionally designing) expectional websites, applications, and everything in between. I believe in the world of free education where people can discover unlimited resoruce of knowledge without worrying about how much they should spend for the intel. My goal is to always build a products that provide handful methods of inetperating information by sharing.
+My name is **Kim Mohito**. I'm a [Network Engineer]() graduated under [Cisco]() based in [Kuala Lumpur, Malaysia]() specializing in Web Development (and occasionally designing) expectional websites, applications, and everything in between.
 
 Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.edu.my), I started a developer community at [RojakCube](https://www.rojakcube.com) and joined the enginneering team at [SilverByte](https://www.silverbyte.my) where I work on a wide variety of interesting and meaningful projects on a daily basis. I do enjoy writing and developing stuff. For more information about what I'm working on, check out on [HowTo](https://github.com/kimmohito/howto).
 
