@@ -7,7 +7,7 @@ My name is **Kim Mohito**. I'm a [Network Engineer]() graduated under [Cisco]() 
 I do enjoy writing and developing stuff. For more information about what I'm working on, check out on [HowTo](https://github.com/kimmohito/howto).
 
 
-## About Me 👨‍💻
+## About Me 👨‍💻 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
 I believe in the world of free education where people can discover unlimited resoruce of knowledge. My goal is to always build a products that provide handful methods of inetperating information by sharing.
 
 Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.edu.my), I started a developer community at [RojakCube](https://www.rojakcube.com) and joined the enginneering team at [SilverByte](https://www.silverbyte.my) where I work on a wide variety of interesting and meaningful projects on a daily basis.
