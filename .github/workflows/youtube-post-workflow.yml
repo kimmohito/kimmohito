@@ -1,15 +1,15 @@
-name: Latest Youtube Videos
+name: "Update `kimmohito/README.md` with latest Youtube Videos"
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
+  schedule:
+    - cron: '0 * * * *'
 jobs:
-  update-readme-with-stack-overflow:
-    name: Update this repo's README with latest YouTube video
+  update-readme-with-youtube:
+    name: "Update `kimmohito/README.md` with latest Youtube Videos"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
-          commit_message: "Updated readme with the latest YouTube video"
+          commit_message: "Update `kimmohito/README.md` with latest Youtube Videos"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCnsIaJK9zEXAqXJsexevOfA"
