@@ -26,7 +26,6 @@ Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.e
 [![Arduino](https://img.shields.io/badge/Arduino-333?logo=arduino&style=flat-square)](https://arduino.cc/)
 [![Python](https://img.shields.io/badge/Python-333?logo=python&style=flat-square)](https://python.org/)
 
-
 ### Tools
 [![Git](https://img.shields.io/badge/Git-333?logo=Git&style=flat-square)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-333?logo=github&style=flat-square)](https://github.com)
@@ -49,7 +48,6 @@ Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.e
 [![Atom](https://img.shields.io/badge/Atom-333?logo=atom&logoColor=green&style=flat-square)](#)
 [![Vim](https://img.shields.io/badge/Vim-333?logo=vim&style=flat-square)](#)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-333?logo=android-studio&style=flat-square)](#)
-
 ### OS
 [![MacOS](https://img.shields.io/badge/MacOS-333?logo=apple&style=flat-square)](#)
 [![Windows](https://img.shields.io/badge/Windows%2010-333?logo=windows&logoColor=blue&style=flat-square)](#)
@@ -63,7 +61,6 @@ Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.e
 [![Fedora](https://img.shields.io/badge/Fedora-333?logo=fedora&logoColor=0B57A4&style=flat-square)](#)
 [![Nix OS](https://img.shields.io/badge/NixOS-333?logo=nixos&style=flat-square)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-333?logo=arch-linux&style=flat-square)](#)
-
 
 ## Lates Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
