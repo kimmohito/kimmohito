@@ -7,7 +7,7 @@ I'm a [Network Engineer]() based in [Kuala Lumpur, Malaysia](https://www.google.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
-Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.edu.my), I joined the engineering team at [SilverByte](https://www.silverbyte.my) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.edu.my), I joined the engineering team at @SilverByte where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
 [![DevTo](https://img.shields.io/badge/DEV-eee?logo=dev.to&logoColor=eee&labelColor=333&style=for-the-badge)](https://dev.to/kimmohito)
 [![Twitter](https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=00acee&labelColor=333&style=for-the-badge)](https://twitter.com/kimmohito)
