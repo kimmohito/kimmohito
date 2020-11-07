@@ -17,16 +17,9 @@ Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.e
 - [Test](https://dev.to/kimmohito/test-aml)
 <!-- BLOG-POST-LIST:END -->
 
-<!--
 ## Lates Youtube Video 📹
--- YOUTUBE:START --
-- [Gosu.ai rampage moment | dog as Tidehunter](https://www.youtube.com/watch?v=hZgWxY_Q5Ns)
-- [Gosu.ai | dog as Faceless Void](https://www.youtube.com/watch?v=DdI3AXQv0uY)
-- [Gosu.ai | Rampage | dog as Faceless Void](https://www.youtube.com/watch?v=tZiFkE9gDmw)
-- [Gosu.ai | dog as Pudge](https://www.youtube.com/watch?v=QWw98O8_9uc)
-- [Gosu.ai | dog as Invoker](https://www.youtube.com/watch?v=j2MEW4BmHrY)
--- YOUTUBE:END --
--->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ## Things I've been working on 📊
 [![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimmohito&hide_title=true&hide_border=true&langs_count=6)](#)
