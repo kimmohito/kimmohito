@@ -1,16 +1,16 @@
-name: "Update `kimmohito/README.md` with latest Blog Post"
+name: "Update blog post on kimmohito/README.md"
 on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch :
 jobs:
   update-readme-with-blog:
-    name: "Update `kimmohito/README.md` with latest Blog Post"
+    name: "Update blog post on kimmohito/README.md"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          commit_message: "Update `kimmohito/README.md` with latest Blog Post"
+          commit_message: "Update blog post on kimmohito/README.md"
           feed_list: "https://dev.to/feed/kimmohito" 
           # feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
