@@ -1,23 +1,3 @@
-<style>
-    nav{
-        position: sticky;
-        top: 0;
-        background: red;
-        display: block;
-        z-index: 1;
-    }
-    nav a{
-        padding: 10px;
-        background: red;
-        display: inline-block;
-    }
-</style>
-<nav>
-    <a href="a">test</a>
-    <a href="a">test</a>
-    <a href="a">test</a>
-</nav>
-
 <!-- <img src="https://pbs.twimg.com/profile_banners/1238171999010086912/1596616511/1500x500"> -->
 
 
