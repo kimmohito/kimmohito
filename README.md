@@ -6,6 +6,9 @@ My name is **Kim Mohito**. I'm a [Network Engineer]() graduated under [Cisco]() 
 
 Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.edu.my), I started a developer community at [RojakCube](https://www.rojakcube.com) and joined the enginneering team at [SilverByte](https://www.silverbyte.my) where I work on a wide variety of interesting and meaningful projects on a daily basis. I do enjoy writing and developing stuff. For more information about what I'm working on, check out on [BagaiMana](https://github.com/kimmohito/bagaimana).
 
+### Languages
+[![PHP](https://img.shields.io/badge/PHP-eee?logo=php&logoColor=&labelColor=333)]()
+
 [![Youtube Badge](https://img.shields.io/badge/-Kim%20Mohito-111?style=flat-square&logo=dev.to&logoColor=fff)](https://dev.to/kimmohito)
 [![LinkedIn Badge](https://img.shields.io/badge/-Kim%20Mohito-0e76a8?style=flat-square&logo=linkedin&logoColor=fff)](https://linkedin.com/in/kimmohito)
 [![Twitter Badge](https://img.shields.io/badge/-%40kimmohito-00acee?style=flat-square&logo=twitter&logoColor=fff)](https://twitter.com/kimmohito)
