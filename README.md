@@ -1,4 +1,20 @@
-<!-- <img src="https://pbs.twimg.com/profile_banners/1238171999010086912/1596616511/1500x500"> -->
+<link href="assets/font/fontawesome-free-5.14.0-web/css/all.css" rel="stylesheet">
+
+<!--##### Banner #####-->
+<a href="https://kimmohito.github.io"><img src="banner.png"></a>
+
+<!--##### Social Button #####-->
+<nav>
+<a href=""><i class="fab fa-github"></i></a>
+<a href=""><i class="fab fa-github"></i></a>
+<a href=""><i class="fab fa-github"></i></a>
+<a href=""><i class="fab fa-github"></i></a>
+<a href=""><i class="fab fa-github"></i></a>
+</nav>
+
+
+<!-- 
+<img src="https://pbs.twimg.com/profile_banners/1238171999010086912/1596616511/1500x500"> 
 
 
 # Hey! <a href="https://kimmohito.rojakcube.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
@@ -53,19 +69,19 @@ Shortly after graduating from [Universiti Kuala Lumpur MIIT](https://www.unikl.e
 
 
 ## Lates Blog Posts 📝
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 - [Hello world!](https://dev.to/kimmohito/hello-world-6lf)
 - [Test](https://dev.to/kimmohito/test-aml)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END 
 
 <!--
 ## Lates Youtube Video 📹
 -- YOUTUBE:START --
 -- YOUTUBE:END --
--->
+
 
 ## Things I've been working on 📊
-[![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimmohito&hide_title=true&hide_border=true&langs_count=6)](#)
+[![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimmohito&hide_title=true&hide_border=true&langs_count=10)](#)
 
 ## GitHub Stats 👨‍💻
 [![Kim Mohito's github stats](https://github-readme-stats.vercel.app/api?username=kimmohito&hide_title=true&hide_border=true)](#)
