@@ -3,16 +3,6 @@
 <!--##### Banner #####-->
 <a href="https://kimmohito.github.io"><img src="banner.png"></a>
 
-<!--##### Social Button #####-->
-<nav>
-<a href="">a<i class="fab fa-github"></i></a>
-<a href="">b<i class="fab fa-github"></i></a>
-<a href="">c<i class="fab fa-github"></i></a>
-<a href="">d<i class="fab fa-github"></i></a>
-<a href="">e<i class="fab fa-github"></i></a>
-</nav>
-
-
 <!-- 
 <img src="https://pbs.twimg.com/profile_banners/1238171999010086912/1596616511/1500x500"> 
 
