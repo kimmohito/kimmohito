@@ -1,4 +1,4 @@
-<link href="assets/font/fontawesome-free-5.14.0-web/css/all.css" rel="stylesheet">
+<link href="https://kimmohito.github.io/assets/css/main.css" rel="stylesheet">
 
 <!--##### Banner #####-->
 <a href="https://kimmohito.github.io"><img src="banner.png"></a>
