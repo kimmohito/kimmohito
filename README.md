@@ -1,3 +1,10 @@
+<style>
+  body{
+    background: red;
+  }
+</style>
+
+
 <link href="https://kimmohito.github.io/assets/css/main.css" rel="stylesheet">
 
 <!--##### Banner #####-->
