@@ -1,6 +1,6 @@
 # 👨‍💻 Hello World! <a href="https://kimmohito.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<img src="boromir-email.jpg" align="right" width="200">
+<a href="me-when-i-add-a-meme-to-an-email.jpg"><img src="boromir-email.jpg" align="right" width="200"></a>
 
 My name is [Kim Mohito](https://kimmohito.github.io). I'm a [Network Engineer](#) based in [Kuala Lumpur, Malaysia](https://www.google.com/maps/place/Kuala+Lumpur,+Federal+Territory+of+Kuala+Lumpur/data=!4m2!3m1!1s0x31cc49c701efeae7:0xf4d98e5b2f1c287d?sa=X&ved=2ahUKEwjp2te69e_sAhWozTgGHbhjCasQ8gEwK3oECAwQAQ) specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
