@@ -6,6 +6,8 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 
 If you have any enquiries, feel free to send me some meme to [kimmohito@gmail.com](mailto:kimmohito@gmail.com).
 
+<img src="boromir-email.jpg" align="right" width="200">
+
 ## 🙋‍♂️ Catch me on
 [![](https://img.shields.io/twitter/follow/kimmohito?label=Twitter&style=social)](https://twitter.com/kimmohito)
 [![](https://img.shields.io/badge/-fff?style=social&logo=linkedin&logoColor=0e76a8&label=LinkedIn)](#)
