@@ -1,12 +1,12 @@
 # 👨‍💻 Hello World! <a href="https://kimmohito.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
+<img src="boromir-email.jpg" align="right" width="200">
+
 My name is [Kim Mohito](https://kimmohito.github.io). I'm a [Network Engineer](#) based in [Kuala Lumpur, Malaysia](https://www.google.com/maps/place/Kuala+Lumpur,+Federal+Territory+of+Kuala+Lumpur/data=!4m2!3m1!1s0x31cc49c701efeae7:0xf4d98e5b2f1c287d?sa=X&ved=2ahUKEwjp2te69e_sAhWozTgGHbhjCasQ8gEwK3oECAwQAQ) specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
 Shortly after graduating from [Diploma in Network Security](#) at [German Malaysian Institute](#), I pursue my [Degree in Network System](#) at [Universiti Kuala Lumpur MIIT](https://www.unikl.edu.my). I started a programming community in Malaysia known as [RojakCube](https://rojakcube.com). I joined the engineering team at [SilverByte](https://silverbyte.my) where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
 If you have any enquiries, feel free to send me some meme to [kimmohito@gmail.com](mailto:kimmohito@gmail.com).
-
-<img src="boromir-email.jpg" align="right" width="200">
 
 ## 🙋‍♂️ Catch me on
 [![](https://img.shields.io/twitter/follow/kimmohito?label=Twitter&style=social)](https://twitter.com/kimmohito)
