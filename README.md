@@ -10,10 +10,10 @@ If you have any enquiries, feel free to send me some meme to [kimmohito@gmail.co
 
 ## 🙋‍♂️ Catch me on
 [![](https://img.shields.io/twitter/follow/kimmohito?label=Twitter&style=social)](https://twitter.com/kimmohito)
-[![](https://img.shields.io/badge/-fff?style=social&logo=linkedin&logoColor=0e76a8&label=LinkedIn)](#)
-[![](https://img.shields.io/badge/-fff?style=social&logo=github&logoColor=111&label=GitHub)](#)
-[![](https://img.shields.io/badge/-fff?style=social&logo=dev.to&logoColor=111&label=Dev.to)](#)
-[![](https://img.shields.io/badge/-fff?style=social&logo=youtube&logoColor=f00&label=YouTube)](#)
+[![](https://img.shields.io/badge/-fff?style=social&logo=linkedin&logoColor=0e76a8&label=LinkedIn)](https://linkedin.com/in/kimmohito)
+[![](https://img.shields.io/badge/-fff?style=social&logo=github&logoColor=111&label=GitHub)](https://github.com/kimmohito)
+[![](https://img.shields.io/badge/-fff?style=social&logo=dev.to&logoColor=111&label=Dev.to)](https://dev.to/kimmohito)
+[![](https://img.shields.io/badge/-fff?style=social&logo=youtube&logoColor=f00&label=YouTube)](https://youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA)
 
 
 ## 👷 Tech & tools
