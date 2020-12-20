@@ -98,6 +98,8 @@ If you have any enquiries, feel free to send me some meme to [kimmohito@gmail.co
 
 ## 👨‍🏫 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Hello world!](https://dev.to/kimmohito/hello-world-6lf)
+- [Test](https://dev.to/kimmohito/test-aml)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍🚀 Latest Youtube Video
