@@ -1,59 +1,121 @@
 <!--##### HEADER #####-->
 <img src="header.jpg">
-
+<div align="center">
 
 <!--##### ABOUT #####-->
-<div align="center">
+## 🙋‍♂️ Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
 
-## 👨‍💻 Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
+My name is [Kim Mohito](https://www.google.com/search?q=Kim+Mohito&rlz=1C1CHBF_enMY920MY920&oq=Kim+Mohito&aqs=chrome..69i57j69i59l3j69i64j69i61j69i60l2.279j0j9&sourceid=chrome&ie=UTF-8). I'm a certified [Network Engineer](https://www.google.com/search?q=Network+Engineer&rlz=1C1CHBF_enMY920MY920&oq=Network+Engineer&aqs=chrome..69i57j69i59j69i60.377j0j9&sourceid=chrome&ie=UTF-8) under [Cisco](https://www.google.com/search?q=Cisco&rlz=1C1CHBF_enMY920MY920&oq=Cisco&aqs=chrome..69i57j69i59l4j69i60j69i61j69i60.298j0j9&sourceid=chrome&ie=UTF-8). Currently a part-time [Web Developer](https://www.google.com/search?q=Web+Developer&rlz=1C1CHBF_enMY920MY920&oq=Web+Developer&aqs=chrome..69i57j69i64j69i60l3.238j0j9&sourceid=chrome&ie=UTF-8) and Programming Tutor, based in [Kuala Lumpur, Malaysia](https://www.google.com/search?q=Kuala+Lumpur&rlz=1C1CHBF_enMY920MY920&oq=Kuala+Lumpur&aqs=chrome..69i57j69i59j69i60l3.279j0j9&sourceid=chrome&ie=UTF-8) specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
-My name is [Kim Mohito](https://kimmohito.github.io). I'm a certified [Network Engineer](#) by [Cisco](#), networking hardware company. Currently a part-time Web Developer and Programming Tutor, based in [Kuala Lumpur, Malaysia](https://www.google.com/maps/place/Kuala+Lumpur,+Federal+Territory+of+Kuala+Lumpur/data=!4m2!3m1!1s0x31cc49c701efeae7:0xf4d98e5b2f1c287d?sa=X&ved=2ahUKEwjp2te69e_sAhWozTgGHbhjCasQ8gEwK3oECAwQAQ) specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.my/electrical-engineering/diploma-in-industrial-electronics-network-security/) at [German Malaysian Institute](https://www.google.com/search?q=german+malaysian+institute&rlz=1C1CHBF_enMY920MY920&oq=german+malaysian+institute&aqs=chrome..69i57j69i61.5658j0j4&sourceid=chrome&ie=UTF-8), I pursue my [Bachelor's Degree in Network System](https://www.unikl.edu.my/programme/bachelor-of-engineering-technology-hons-in-networking-systems/) at [Universiti Kuala Lumpur MIIT](https://www.google.com/search?q=unkl+miit&rlz=1C1CHBF_enMY920MY920&oq=unkl+miit&aqs=chrome..69i57.2169j0j4&sourceid=chrome&ie=UTF-8). I started a programming community in Malaysia known as [RojakCube](https://rojakcube.com). I joined the engineering team at [SilverByte](https://silverbyte.my) where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
-Shortly after graduating from [Diploma in Network Security](#) at [German Malaysian Institute](#), I pursue my [Degree in Network System](#) at [Universiti Kuala Lumpur MIIT](https://www.unikl.edu.my). I started a programming community in Malaysia known as [RojakCube](https://rojakcube.com). I joined the engineering team at [SilverByte](https://silverbyte.my) where I work on a wide variety of interesting and meaningful projects on a daily basis.
-
-</div>
-
-
-<!--##### RIGS A& GEARS #####-->
-<div align="center">
-
-## 👷 My RIGs & Gears
-<table>
-<!-- Desktop -->
-<tr><td><img title="Laptop" alt="Laptop" src="https://img.icons8.com/color/2x/4a90e2/laptop.png" width=20/></td><td><a href="https://www.google.com/search?q=MSI+GF63+Thin+95c&rlz=1C1CHBF_enMY920MY920&oq=MSI+GF63+Thin+95c&aqs=chrome..69i57.300j0j9&sourceid=chrome&ie=UTF-8">MSI GF63 Thin 95c</a></td></tr>
-<!-- CPU -->
-<tr><td><img title="CPU" alt="CPU" src="https://img.icons8.com/color/2x/processor.png" width=20/></td><td><a href="https://www.google.com/search?q=Intel+Core+i5-9300h+2.40GHz&rlz=1C1CHBF_enMY920MY920&oq=Intel+Core+i5-9300h+2.40GHz&aqs=chrome..69i57.553j0j9&sourceid=chrome&ie=UTF-8">Intel Core i5-9300h 2.40GHz</a></td></tr>
-<!-- SSD -->
-<tr><td><img title="SSD" alt="SSD" src="https://img.icons8.com/color/2x/ssd.png" width=20/></td><td><a href="https://www.google.com/search?q=1TB+Kingston+NVMe+M.2&rlz=1C1CHBF_enMY920MY920&oq=1TB+Kingston+NVMe+M.2&aqs=chrome..69i57j69i60j69i61.294j0j4&sourceid=chrome&ie=UTF-8">1TB Kingston NVMe M.2</a></td></tr>
-<!-- HDD -->
-<tr><td><img title="HDD" alt="HDD" src="https://img.icons8.com/color/2x/hdd.png" width=20/></td><td><a href="https://www.google.com/search?q=1TB+Seagate+SATA+2.5%22+5400RPM&rlz=1C1CHBF_enMY920MY920&oq=1TB+Seagate+SATA+2.5%22+5400RPM&aqs=chrome..69i57.608j0j9&sourceid=chrome&ie=UTF-8">1TB Seagate SATA 2.5" 5400RPM</a></td></tr>
-<!-- RAM-->
-<tr><td><img title="RAM" alt="RAM" src="https://img.icons8.com/color/2x/4a90e2/memory-slot.png" width=20/></td><td><a href="https://www.google.com/search?q=16GB+DDR4+Kingston+SODIMM+2666MHz&rlz=1C1CHBF_enMY920MY920&oq=16GB+DDR4+Kingston+SODIMM+2666MHz&aqs=chrome..69i57j69i60.491j0j9&sourceid=chrome&ie=UTF-8">16GB DDR4 Kingston SODIMM 2666MHz</a><br><a href="https://www.google.com/search?q=8GB+DDR4+Kingston+SODIMM+2666MHz&rlz=1C1CHBF_enMY920MY920&oq=8GB+DDR4+Kingston+SODIMM+2666MHz&aqs=chrome..69i57j69i61j69i60.300j0j9&sourceid=chrome&ie=UTF-8">8GB DDR4 Kingston SODIMM 2666MHz</a></td></tr><tr>
-<!-- GPU -->
-<td><img title="GPU" alt="GPU" src="https://img.icons8.com/color/2x/4a90e2/video-card.png" width=20/></td><td><a href="https://www.google.com/search?q=Nvidia+GeForce+GTX+1650&rlz=1C1CHBF_enMY920MY920&oq=Nvidia+GeForce+GTX+1650&aqs=chrome..69i57.417j0j9&sourceid=chrome&ie=UTF-8">Nvidia GeForce GTX 1650</a></td></tr>
-<!-- Monitor -->
-<td><img title="Monitor" alt="Monitor" src="https://img.icons8.com/color/2x/monitor.png" width=20/></td><td><a href="https://www.google.com/search?q=Dell+P2417H+24%22+HDMI&rlz=1C1CHBF_enMY920MY920&oq=Dell+P2417H+24%22+HDMI&aqs=chrome..69i57.320j0j9&sourceid=chrome&ie=UTF-8">Dell P2417H 24" HDMI</a></td></tr>
-<!-- Keyboard -->
-<td><img title="Keyboard" alt="Keyboard" src="https://img.icons8.com/color/2x/keyboard.png" width=20/></td><td><a href="https://www.google.com/search?q=MSI+GK701&rlz=1C1CHBF_enMY920MY920&oq=MSI+GK701&aqs=chrome..69i57.358j0j9&sourceid=chrome&ie=UTF-8">MSI GK701</a></td></tr>
-<!-- Mouse -->
-<td><img title="Mouse" alt="Mouse" src="https://img.icons8.com/color/2x/4a90e2/mouse.png" width=20/></td><td><a href="https://www.google.com/search?q=Logitech+G502+Hero&rlz=1C1CHBF_enMY920MY920&oq=Logitech+G502+Hero&aqs=chrome..69i57j69i59l3j69i60l3.406j0j9&sourceid=chrome&ie=UTF-8">Logitech G502 Hero</a></td></tr>
-<!-- Cooling Pad-->
-<td><img title="Cooling Pad" alt="Cooling Pad" src="https://img.icons8.com/color/2x/fan-speed.png" width=20/></td><td><a href="https://www.google.com/search?q=Cooler+Master+NotePal+L1+17%22&rlz=1C1CHBF_enMY920MY920&oq=Cooler+Master+NotePal+L1+17%22&aqs=chrome..69i57j69i60l2.348j0j9&sourceid=chrome&ie=UTF-8">Cooler Master NotePal L1 17"</a></td></tr>
-<!-- Cooling Pad-->
-<td><img title="Operating System" alt="Operating System" src="https://img.icons8.com/color/2x/operating-system.png" width=20/></td><td><a href="https://www.google.com/search?q=Windows+10+Pro&rlz=1C1CHBF_enMY920MY920&oq=Windows+10+Pro&aqs=chrome..69i57j69i61j69i60l2.404j0j9&sourceid=chrome&ie=UTF-8">Windows 10 Pro</a></td></tr>
-</table>
-
-
-
-
-### 🙋‍♂️ Catch me on
-
-<a href="https://kimmohito.github.io" title="Website" target="blank"><img alt="Website" src="https://img.icons8.com/color/2x/domain.png" width=30/></a>
+<!--#### ACTIVE SOCIAL APPS #####-->
+<a href="mailto:kimmohito@gmail.com" title="Email" target="blank"><img alt="Email" src="https://img.icons8.com/color/2x/email.png" width=30/></a>
 <a href="https://github.com/kimmohito" title="GitHub" target="blank"><img alt="GitHub" src="https://img.icons8.com/color/2x/github.png" width=30/></a>
 <a href="https://linkedin.com/in/kimmohito" title="LinkedIn" target="blank"><img alt="LinkedIn" src="https://img.icons8.com/color/2x/linkedin.png" width=30/></a>
 <a href="https://twitter.com/kimmohito" title="Twitter" target="blank"><img alt="Twitter" src="https://img.icons8.com/color/2x/twitter.png" width=30/></a>
-<a href="https://youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA" title="YouTube" target="blank"><img alt="YouTube" src="https://img.icons8.com/color/2x/play-button.png" width=30/></a>
+<a href="https://facebook.com/kimmohito" title="Facebook" target="blank"><img alt="Facebook" src="https://img.icons8.com/color/2x/facebook.png" width=30/></a>
+<a href="https://instagram.com/kimmohito" title="Instagram" target="blank"><img alt="Instagram" src="https://img.icons8.com/color/2x/instagram.png" width=30/></a>
+<a href="https://www.youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA" title="YouTube" target="blank"><img alt="YouTube" src="https://img.icons8.com/color/2x/play-button.png" width=30/></a>
 <a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/color/2x/codepen.png" width=30/></a>
+
+<!--##### RIGS A& GEARS #####-->
+## 👨‍💻 My RIGs & Gears
+<table>
+<!-- Desktop -->
+<tr><td><img title="Laptop" alt="Laptop" src="https://img.icons8.com/color/2x/4a90e2/laptop.png" width=30/></td><td><a href="https://www.msi.com/Laptop/GF63-Thin-9SX-GTX">MSI GF63 Thin 95c</a></td></tr>
+<!-- CPU -->
+<tr><td><img title="CPU" alt="CPU" src="https://img.icons8.com/color/2x/processor.png" width=30/></td><td><a href="https://ark.intel.com/content/www/us/en/ark/products/191075/intel-core-i5-9300h-processor-8m-cache-up-to-4-10-ghz.html">Intel® Core™ i5-9300H Processor</a></td></tr>
+<!-- SSD -->
+<tr><td><img title="SSD" alt="SSD" src="https://img.icons8.com/color/2x/ssd.png" width=30/></td><td><a href="https://www.kingston.com/en/ssd/a2000-nvme-pcie-ssd?Capacity=1000GB">1TB Kingston A2000 NVMe PCIe SSD</a></td></tr>
+<!-- HDD -->
+<tr><td><img title="HDD" alt="HDD" src="https://img.icons8.com/color/2x/hdd.png" width=30/></td><td><a href="https://www.seagate.com/www-content/datasheets/pdfs/barracuda-2-5-DS1907-3-2005GB-en_AS.pdf">1TB Seagate Barracuda SATA 2.5" 5400RPM</a></td></tr>
+<!-- RAM-->
+<tr><td><img title="RAM" alt="RAM" src="https://img.icons8.com/color/2x/4a90e2/memory-slot.png" width=30/></td><td><a href="https://www.kingston.com/dataSheets/KVR26S19D8_16.pdf">16GB DDR4 Kingston SODIMM 2666MHz</a><br><a href="https://www.kingston.com/dataSheets/KVR26S19S8_8.pdf">8GB DDR4 Kingston SODIMM 2666MHz</a></td></tr><tr>
+<!-- GPU -->
+<td><img title="GPU" alt="GPU" src="https://img.icons8.com/color/2x/4a90e2/video-card.png" width=30/></td><td><a href="https://www.google.com/search?q=Nvidia+GeForce+GTX+1650&rlz=1C1CHBF_enMY920MY920&oq=Nvidia+GeForce+GTX+1650&aqs=chrome..69i57.417j0j9&sourceid=chrome&ie=UTF-8">Nvidia GeForce GTX 1650</a></td></tr>
+<!-- Monitor -->
+<td><img title="Monitor" alt="Monitor" src="https://img.icons8.com/color/2x/monitor.png" width=30/></td><td><a href="https://www.dell.com/yu/business/p/dell-p2417h-monitor/pd">Dell P2417H 24"</a></td></tr>
+<!-- Keyboard -->
+<td><img title="Keyboard" alt="Keyboard" src="https://img.icons8.com/color/2x/keyboard.png" width=30/></td><td><a href="https://www.msi.com/Gaming-Gear/GK-701-Mechanical-GAMING-Keyboard/Specification">MSI GK701</a></td></tr>
+<!-- Mouse -->
+<td><img title="Mouse" alt="Mouse" src="https://img.icons8.com/color/2x/4a90e2/mouse.png" width=30/></td><td><a href="https://www.logitechg.com/en-us/products/gaming-mice/g502-hero-gaming-mouse.html">Logitech G502 Hero</a></td></tr>
+<!-- Speaker -->
+<td><img title="Headset" alt="Headset" src="https://img.icons8.com/color/2x/headset.png" width=30/></td><td><a href="https://www.logitechg.com/en-my/products/gaming-audio/pro-gaming-headset.html">Logitech Pro</a></td></tr>
+<!-- Cooling Pad -->
+<td><img title="Cooling Pad" alt="Cooling Pad" src="https://img.icons8.com/color/2x/fan-speed.png" width=30/></td><td><a href="https://www.coolermaster.com/catalog/coolers/notebook-cooler/notepal-l1">Cooler Master NotePal L1 17"</a></td></tr>
+</table>
+
+## 👷 My Tech & Tools
+<table>
+
+<tr>
+    <td>
+        <!-- Operating System -->
+        <a href="" title="Operating System" target="blank"><img alt="Operating System" src="https://img.icons8.com/color/2x/operating-system.png" width=30/></a>
+    </td>
+    <td>
+        <!-- Windows -->
+        <a href="https://www.microsoft.com/en-us/p/windows-10-pro/df77x4d43rkt" title="Operating System" target="blank"><img alt="Operating System" src="https://img.icons8.com/color/2x/windows8.png" width=30/></a>
+        <!-- Linux -->
+        <a href="" title="Linux" target="blank"><img alt="Linux" src="https://img.icons8.com/color/2x/linux.png" width=30/></a>
+        <!-- Debian -->
+        <a href="" title="Debian" target="blank"><img alt="Debian" src="https://img.icons8.com/color/2x/debian.png" width=30/></a>
+    </td>
+</tr>
+
+<tr>
+    <td>
+        <!-- Editor -->
+        <a href="" title="Editor" target="blank"><img alt="Editor" src="https://img.icons8.com/color/2x/design.png" width=30/></a>
+    </td>
+    <td>
+        <!-- Windows -->
+        <a href="" title="Visual Studio Code" target="blank"><img alt="Visual Studio Code" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" width=30/></a>
+        <br>
+        <!-- Adobe Photoshop -->
+        <a href="" title="Adobe Photoshop" target="blank"><img alt="Adobe Photoshop" src="https://img.icons8.com/color/2x/adobe-photoshop.png" width=30/></a>
+        <br>
+        <!-- Microsoft Word -->
+        <a href="" title="Microsoft Word" target="blank"><img alt="Microsoft Word" src="https://img.icons8.com/color/2x/microsoft-word-2019.png" width=30/></a>
+        <!-- Microsoft Excel -->
+        <a href="" title="Microsoft Excel" target="blank"><img alt="Microsoft Exel" src="https://img.icons8.com/color/2x/microsoft-excel-2019.png" width=30/></a>
+    </td>
+</tr>
+
+<tr>
+    <td>
+        <!-- Language -->
+        <a href="" title="Language" target="blank"><img alt="Language" src="https://img.icons8.com/color/2x/code-file.png" width=30/></a>
+    </td>
+    <td>
+        <!-- HTML5 -->
+        <a href="" title="HTML" target="blank"><img alt="HTML" src="https://img.icons8.com/color/2x/html-5.png" width=30/></a>
+        <!-- CSS3 -->
+        <a href="" title="CSS3" target="blank"><img alt="CSS3" src="https://img.icons8.com/color/2x/css3.png" width=30/></a>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td>
+        <!-- Tools -->
+        <a href="" title="Language" target="blank"><img alt="Language" src="https://img.icons8.com/color/2x/full-tool-storage-box-.png" width=30/></a>
+    </td>
+    <td>
+        <!-- Git -->
+        <a href="" title="Git" target="blank"><img alt="Git" src="https://img.icons8.com/color/2x/git.png" width=30/></a>
+        <!-- Wireshark -->
+        <a href="" title="Wireshark" target="blank"><img alt="Wireshark" src="https://img.icons8.com/color/2x/shark.png" width=30/></a>
+    </td>
+</tr>
+
+
+
+</table>
+
+## 🦸 My Hobbies & interest
 
 
 ### Skills
