@@ -1,13 +1,14 @@
 <img src="header.jpg">
 
-<a href="https://kimmohito.github.io" align="center">
+<div align="center">
+<a href="https://kimmohito.github.io">
 <img alt="ko" src="https://img.icons8.com/ios/2x/hiragana-ko.png" height="40">
 <img alt="n" src="https://img.icons8.com/ios/2x/hiragana-n.png" height="40">
 <img alt="ni" src="https://img.icons8.com/ios/2x/hiragana-ni.png" height="40">
 <img alt="chi" src="https://img.icons8.com/ios/2x/hiragana-chi.png" height="40">
 <img alt="ha" src="https://img.icons8.com/ios/2x/hiragana-ha.png" height="40">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40">
-</a><br>
+</a></div><br>
 
 Hello world! My name is [Kim Mohito](https://kimmohito.github.io). I'm a certified [Network Engineer](#) by [Cisco](#), networking hardware company. Currently a part-time developer, based in [Kuala Lumpur, Malaysia](https://www.google.com/maps/place/Kuala+Lumpur,+Federal+Territory+of+Kuala+Lumpur/data=!4m2!3m1!1s0x31cc49c701efeae7:0xf4d98e5b2f1c287d?sa=X&ved=2ahUKEwjp2te69e_sAhWozTgGHbhjCasQ8gEwK3oECAwQAQ) specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
