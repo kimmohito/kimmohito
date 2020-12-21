@@ -15,16 +15,21 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 
 
 ## 🙋‍♂️ Catch me on
-<a href="https://kimmohito.github.io" title="Website" target="blank"><img alt="Website" src="https://img.icons8.com/ios/2x/domain.png" height=40/></a>
-<a href="mailto:kimmohito@gmail.com" title="Email" target="blank"><img alt="Email" src="https://img.icons8.com/ios/2x/email.png" height=40/></a>
-<a href="https://linkedin.com/in/kimmohito" title="LinkedIn" target="blank"><img alt="LinkedIn" src="https://img.icons8.com/ios/2x/linkedin.png" height=40/></a>
-<a href="https://twitter.com/kimmohito" title="Twitter" target="blank"><img alt="Twitter" src="https://img.icons8.com/ios/2x/twitter.png" height=40/></a>
-<a href="https://youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA" title="YouTube" target="blank"><img alt="YouTube" src="https://img.icons8.com/ios/2x/play-button.png" height=40/></a>
-<a href="" title="Discord" target="blank"><img alt="Discord" src="https://img.icons8.com/ios/2x/discord-logo.png" height=40/></a>
-<a href="" title="Instagram" target="blank"><img alt="Instagram" src="https://img.icons8.com/ios/2x/instagram-new.png" height=40/></a>
-<a href="" title="Steam" target="blank"><img alt="Steam" src="https://img.icons8.com/ios/2x/steam.png" height=40/></a>
-<a href="" title="Reddit" target="blank"><img alt="Reddit" src="https://img.icons8.com/ios/2x/reddit.png" height=40/></a>
 
+<div align="center">
+<a href="https://kimmohito.github.io" title="Website" target="blank"><img alt="Website" src="https://img.icons8.com/ios/2x/domain.png" height=30/></a>
+<a href="mailto:kimmohito@gmail.com" title="Email" target="blank"><img alt="Email" src="https://img.icons8.com/ios/2x/email.png" height=30/></a>
+<a href="https://linkedin.com/in/kimmohito" title="LinkedIn" target="blank"><img alt="LinkedIn" src="https://img.icons8.com/ios/2x/linkedin.png" height=30/></a>
+<a href="https://twitter.com/kimmohito" title="Twitter" target="blank"><img alt="Twitter" src="https://img.icons8.com/ios/2x/twitter.png" height=30/></a>
+<a href="https://youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA" title="YouTube" target="blank"><img alt="YouTube" src="https://img.icons8.com/ios/2x/play-button.png" height=30/></a>
+<a href="" title="Discord" target="blank"><img alt="Discord" src="https://img.icons8.com/ios/2x/discord-logo.png" height=30/></a>
+<a href="" title="Instagram" target="blank"><img alt="Instagram" src="https://img.icons8.com/ios/2x/instagram-new.png" height=30/></a>
+<a href="" title="Steam" target="blank"><img alt="Steam" src="https://img.icons8.com/ios/2x/steam.png" height=30/></a>
+<a href="" title="Reddit" target="blank"><img alt="Reddit" src="https://img.icons8.com/ios/2x/reddit.png" height=30/></a>
+
+
+
+</div>
 
 
 
@@ -32,6 +37,7 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 
 ## 👷 Tools & Tech
 
+<div align="center">
 <!-- Operating System -->
 <a href="" title="Windows" target="blank"><img alt="Windows" src="https://img.icons8.com/ios/2x/windows8.png" height=30></a>
 <a href="" title="MacOS" target="blank"><img alt="MacOS" src="https://img.icons8.com/ios/2x/mac-os.png" height=30></a>
@@ -53,7 +59,7 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 
 
 
-
+</div>
 
 
 
@@ -82,7 +88,7 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 
 
 ## 👨‍💻 Things I've been working on
-<div align="center"><img alt="WakaTime Stats" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimmohito&hide_title=true&hide_border=true&langs_count=10&bg_color=0000&text_color=666"></div>
+<div align="center"><img alt="WakaTime Stats" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimmohito&hide_title=true&hide_border=true&langs_count=30&bg_color=0000&text_color=666"></div>
 
 
 
@@ -107,7 +113,7 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 <img src="footer.jpg">
 
 <!-- 
-<img src="https://pbs.twimg.com/profile_banners/1238171999010086912/1596616511/1500x500"> 
+<img src="https://pbs.twimg.com/profile_banners/1238171999030086912/1596616511/1500x500"> 
 
 
 
@@ -122,11 +128,11 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 ## 👷 Tech & tools
 - 🖥️ Operating System
 
-    [![](https://img.shields.io/badge/Windows-00adef?logo=windows&labelColor=111&logoColor=00adef)](https://www.microsoft.com/en-au/software-download/windows10)
+    [![](https://img.shields.io/badge/Windows-00adef?logo=windows&labelColor=111&logoColor=00adef)](https://www.microsoft.com/en-au/software-download/windows30)
     [![](https://img.shields.io/badge/MacOS-eee?logo=apple&labelColor=111&logoColor=eee)](https://hackintosh.com/)
     [![](https://img.shields.io/badge/KaliLinux-yellow?logo=linux&labelColor=111&logoColor=yellow)](https://www.kali.org/downloads/)
     [![](https://img.shields.io/badge/Raspbian-bc1142?logo=raspberry-pi&labelColor=111&logoColor=bc1142)](https://raspberrypi.org/software/)
-    [![](https://img.shields.io/badge/Ubuntu-e95420?logo=ubuntu&labelColor=111&logoColor=e95420)](https://ubuntu.com/download)
+    [![](https://img.shields.io/badge/Ubuntu-e95430?logo=ubuntu&labelColor=111&logoColor=e95430)](https://ubuntu.com/download)
     [![](https://img.shields.io/badge/Debian-d70a53?logo=debian&labelColor=111&logoColor=d70a53)](https://www.debian.org/distrib/ftplistd)
     [![](https://img.shields.io/badge/CentOS-F0A91E?logo=centos&labelColor=111&logoColor=F0A91E)](https://wiki.centos.org/Download)
     [![](https://img.shields.io/badge/OpenSUSE-73BA25?logo=opensuse&labelColor=111&logoColor=73BA25)](https://software.opensuse.org/)
@@ -141,11 +147,11 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 
 - ⌨️ Text Editor
 
-    [![](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&labelColor=111&logoColor=0078d7)](https://code.visualstudio.com/)
+    [![](https://img.shields.io/badge/VS%30Code-0078d7?logo=visual-studio-code&labelColor=111&logoColor=0078d7)](https://code.visualstudio.com/)
     [![](https://img.shields.io/badge/Atom-19a959?logo=atom&labelColor=111&logoColor=19a959)](http://atom.io/)
     [![](https://img.shields.io/badge/Vim-179a33?logo=vim&labelColor=111&logoColor=179a33)](https://www.vim.org/download.php)
-    [![](https://img.shields.io/badge/Android%20Studio-4ee98c?logo=android-studio&labelColor=111&logoColor=4ee98c)](https://developer.android.com/studio)
-    [![](https://img.shields.io/badge/Arduino%20IDE-00878F?logo=arduino&labelColor=111&logoColor=00878F)](https://www.arduino.cc/en/software)
+    [![](https://img.shields.io/badge/Android%30Studio-4ee98c?logo=android-studio&labelColor=111&logoColor=4ee98c)](https://developer.android.com/studio)
+    [![](https://img.shields.io/badge/Arduino%30IDE-00878F?logo=arduino&labelColor=111&logoColor=00878F)](https://www.arduino.cc/en/software)
 
 - 💾 Language
 
@@ -173,14 +179,14 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
     [![](https://img.shields.io/badge/MariaDB-00758f?logo=mariadb&labelColor=111&logoColor=00758f)](https://mariadb.org/download/)
     [![](https://img.shields.io/badge/MongoDB-66ac3d?logo=mongodb&labelColor=111&logoColor=66ac3d)](https://www.mongodb.com/) 
     [![](https://img.shields.io/badge/PostgreSQL-31648c?logo=postgresql&labelColor=111&logoColor=31648c)](https://www.postgresql.org/download/)
-    [![](https://img.shields.io/badge/Access-af2031?logo=microsoft-access&labelColor=111&logoColor=af2031)](https://www.microsoft.com/en-us/microsoft-365/access)
+    [![](https://img.shields.io/badge/Access-af3031?logo=microsoft-access&labelColor=111&logoColor=af3031)](https://www.microsoft.com/en-us/microsoft-365/access)
 
 - 🖱️ Tools
 
     [![](https://img.shields.io/badge/Git-f34f29?logo=git&labelColor=111&logoColor=f34f29)](http://git-scm.com/download)
     [![](https://img.shields.io/badge/GitHub-6E5494?logo=github&labelColor=111&logoColor=6E5494)](https://desktop.github.com/)
     [![](https://img.shields.io/badge/GitLab-fca326?logo=gitlab&labelColor=111&logoColor=fca326)](https://about.gitlab.com/install/)
-    [![](https://img.shields.io/badge/Firebase-F6820D?logo=firebase&labelColor=111&logoColor=F6820D)](https://firebase.google.com/docs/)
+    [![](https://img.shields.io/badge/Firebase-F6830D?logo=firebase&labelColor=111&logoColor=F6830D)](https://firebase.google.com/docs/)
     [![](https://img.shields.io/badge/WakaTime-eee?logo=wakatime&labelColor=111&logoColor=eee)](https://wakatime.com/)
     [![](https://img.shields.io/badge/Xampp-fb7a24?logo=xampp&labelColor=111&logoColor=fb7a24)](https://www.apachefriends.org/download.html)
     [![](https://img.shields.io/badge/Hugo-ff3e88?logo=hugo&labelColor=111&logoColor=ff3e88)](https://gohugo.io/documentation/)
