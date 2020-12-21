@@ -4,7 +4,7 @@
 
 
 
-## 👨‍💻 Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24">
+## 👨‍💻 Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
 
 My name is [Kim Mohito](https://kimmohito.github.io). I'm a certified [Network Engineer](#) by [Cisco](#), networking hardware company. Currently a part-time Web Developer and Programming Tutor, based in [Kuala Lumpur, Malaysia](https://www.google.com/maps/place/Kuala+Lumpur,+Federal+Territory+of+Kuala+Lumpur/data=!4m2!3m1!1s0x31cc49c701efeae7:0xf4d98e5b2f1c287d?sa=X&ved=2ahUKEwjp2te69e_sAhWozTgGHbhjCasQ8gEwK3oECAwQAQ) specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
@@ -14,66 +14,66 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 
 ### 🙋‍♂️ Catch me on
 
-<a href="https://kimmohito.github.io" title="Website" target="blank"><img alt="Website" src="https://img.icons8.com/color/2x/domain.png" height=30/></a>
-<a href="https://github.com/kimmohito" title="GitHub" target="blank"><img alt="GitHub" src="https://img.icons8.com/color/2x/github.png" height=30/></a>
-<a href="https://linkedin.com/in/kimmohito" title="LinkedIn" target="blank"><img alt="LinkedIn" src="https://img.icons8.com/color/2x/linkedin.png" height=30/></a>
-<a href="https://twitter.com/kimmohito" title="Twitter" target="blank"><img alt="Twitter" src="https://img.icons8.com/color/2x/twitter.png" height=30/></a>
-<a href="https://youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA" title="YouTube" target="blank"><img alt="YouTube" src="https://img.icons8.com/color/2x/play-button.png" height=30/></a>
-<a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/color/2x/codepen.png" height=30/></a>
+<a href="https://kimmohito.github.io" title="Website" target="blank"><img alt="Website" src="https://img.icons8.com/color/2x/domain.png" width=30/></a>
+<a href="https://github.com/kimmohito" title="GitHub" target="blank"><img alt="GitHub" src="https://img.icons8.com/color/2x/github.png" width=30/></a>
+<a href="https://linkedin.com/in/kimmohito" title="LinkedIn" target="blank"><img alt="LinkedIn" src="https://img.icons8.com/color/2x/linkedin.png" width=30/></a>
+<a href="https://twitter.com/kimmohito" title="Twitter" target="blank"><img alt="Twitter" src="https://img.icons8.com/color/2x/twitter.png" width=30/></a>
+<a href="https://youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA" title="YouTube" target="blank"><img alt="YouTube" src="https://img.icons8.com/color/2x/play-button.png" width=30/></a>
+<a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/color/2x/codepen.png" width=30/></a>
 
 
 ### 👷 My RIGs & Gears
 <table>
 <!-- Desktop -->
-<tr><td><img title="Laptop" alt="Laptop" src="https://img.icons8.com/color/2x/4a90e2/laptop.png" height=30/></td><td><a href="https://www.google.com/search?q=MSI+GF63+Thin+95c&rlz=1C1CHBF_enMY920MY920&oq=MSI+GF63+Thin+95c&aqs=chrome..69i57.300j0j9&sourceid=chrome&ie=UTF-8">MSI GF63 Thin 95c</a></td></tr>
+<tr><td><img title="Laptop" alt="Laptop" src="https://img.icons8.com/color/2x/4a90e2/laptop.png" width=30/></td><td><a href="https://www.google.com/search?q=MSI+GF63+Thin+95c&rlz=1C1CHBF_enMY920MY920&oq=MSI+GF63+Thin+95c&aqs=chrome..69i57.300j0j9&sourceid=chrome&ie=UTF-8">MSI GF63 Thin 95c</a></td></tr>
 <!-- CPU -->
-<tr><td><img title="CPU" alt="CPU" src="https://img.icons8.com/color/2x/processor.png" height=30/></td><td><a href="https://www.google.com/search?q=Intel+Core+i5-9300h+2.40GHz&rlz=1C1CHBF_enMY920MY920&oq=Intel+Core+i5-9300h+2.40GHz&aqs=chrome..69i57.553j0j9&sourceid=chrome&ie=UTF-8">Intel Core i5-9300h 2.40GHz</a></td></tr>
+<tr><td><img title="CPU" alt="CPU" src="https://img.icons8.com/color/2x/processor.png" width=30/></td><td><a href="https://www.google.com/search?q=Intel+Core+i5-9300h+2.40GHz&rlz=1C1CHBF_enMY920MY920&oq=Intel+Core+i5-9300h+2.40GHz&aqs=chrome..69i57.553j0j9&sourceid=chrome&ie=UTF-8">Intel Core i5-9300h 2.40GHz</a></td></tr>
 <!-- SSD -->
-<tr><td><img title="SSD" alt="SSD" src="https://img.icons8.com/color/2x/ssd.png" height=30/></td><td><a href="https://www.google.com/search?q=1TB+Kingston+NVMe+M.2&rlz=1C1CHBF_enMY920MY920&oq=1TB+Kingston+NVMe+M.2&aqs=chrome..69i57j69i60j69i61.294j0j4&sourceid=chrome&ie=UTF-8">1TB Kingston NVMe M.2</a></td></tr>
+<tr><td><img title="SSD" alt="SSD" src="https://img.icons8.com/color/2x/ssd.png" width=30/></td><td><a href="https://www.google.com/search?q=1TB+Kingston+NVMe+M.2&rlz=1C1CHBF_enMY920MY920&oq=1TB+Kingston+NVMe+M.2&aqs=chrome..69i57j69i60j69i61.294j0j4&sourceid=chrome&ie=UTF-8">1TB Kingston NVMe M.2</a></td></tr>
 <!-- HDD -->
-<tr><td><img title="HDD" alt="HDD" src="https://img.icons8.com/color/2x/hdd.png" height=30/></td><td><a href="https://www.google.com/search?q=1TB+Seagate+SATA+2.5%22+5400RPM&rlz=1C1CHBF_enMY920MY920&oq=1TB+Seagate+SATA+2.5%22+5400RPM&aqs=chrome..69i57.608j0j9&sourceid=chrome&ie=UTF-8">1TB Seagate SATA 2.5" 5400RPM</a></td></tr>
+<tr><td><img title="HDD" alt="HDD" src="https://img.icons8.com/color/2x/hdd.png" width=30/></td><td><a href="https://www.google.com/search?q=1TB+Seagate+SATA+2.5%22+5400RPM&rlz=1C1CHBF_enMY920MY920&oq=1TB+Seagate+SATA+2.5%22+5400RPM&aqs=chrome..69i57.608j0j9&sourceid=chrome&ie=UTF-8">1TB Seagate SATA 2.5" 5400RPM</a></td></tr>
 <!-- RAM-->
-<tr><td><img title="RAM" alt="RAM" src="https://img.icons8.com/color/2x/4a90e2/memory-slot.png" height=30/></td><td><a href="https://www.google.com/search?q=16GB+DDR4+Kingston+SODIMM+2666MHz&rlz=1C1CHBF_enMY920MY920&oq=16GB+DDR4+Kingston+SODIMM+2666MHz&aqs=chrome..69i57j69i60.491j0j9&sourceid=chrome&ie=UTF-8">16GB DDR4 Kingston SODIMM 2666MHz</a><br><a href="https://www.google.com/search?q=8GB+DDR4+SODIMM+2666MHz&rlz=1C1CHBF_enMY920MY920&oq=8GB+DDR4++SODIMM+2666MHz&aqs=chrome..69i57j69i61j69i60.321j0j9&sourceid=chrome&ie=UTF-8">8GB DDR4  SODIMM 2666MHz</a></td></tr><tr>
+<tr><td><img title="RAM" alt="RAM" src="https://img.icons8.com/color/2x/4a90e2/memory-slot.png" width=30/></td><td><a href="https://www.google.com/search?q=16GB+DDR4+Kingston+SODIMM+2666MHz&rlz=1C1CHBF_enMY920MY920&oq=16GB+DDR4+Kingston+SODIMM+2666MHz&aqs=chrome..69i57j69i60.491j0j9&sourceid=chrome&ie=UTF-8">16GB DDR4 Kingston SODIMM 2666MHz</a><br><a href="https://www.google.com/search?q=8GB+DDR4+SODIMM+2666MHz&rlz=1C1CHBF_enMY920MY920&oq=8GB+DDR4++SODIMM+2666MHz&aqs=chrome..69i57j69i61j69i60.321j0j9&sourceid=chrome&ie=UTF-8">8GB DDR4  SODIMM 2666MHz</a></td></tr><tr>
 <!-- GPU -->
-<td><img title="GPU" alt="GPU" src="https://img.icons8.com/color/2x/4a90e2/video-card.png" height=30/></td><td><a href="https://www.google.com/search?q=Nvidia+GeForce+GTX+1650&rlz=1C1CHBF_enMY920MY920&oq=Nvidia+GeForce+GTX+1650&aqs=chrome..69i57.417j0j9&sourceid=chrome&ie=UTF-8">Nvidia GeForce GTX 1650</a></td></tr>
+<td><img title="GPU" alt="GPU" src="https://img.icons8.com/color/2x/4a90e2/video-card.png" width=30/></td><td><a href="https://www.google.com/search?q=Nvidia+GeForce+GTX+1650&rlz=1C1CHBF_enMY920MY920&oq=Nvidia+GeForce+GTX+1650&aqs=chrome..69i57.417j0j9&sourceid=chrome&ie=UTF-8">Nvidia GeForce GTX 1650</a></td></tr>
 <!-- Monitor -->
-<td><img title="Monitor" alt="Monitor" src="https://img.icons8.com/color/2x/monitor.png" height=30/></td><td><a href="https://www.google.com/search?q=Dell+P2417H+24%22+HDMI&rlz=1C1CHBF_enMY920MY920&oq=Dell+P2417H+24%22+HDMI&aqs=chrome..69i57.320j0j9&sourceid=chrome&ie=UTF-8">Dell P2417H 24" HDMI</a></td></tr>
+<td><img title="Monitor" alt="Monitor" src="https://img.icons8.com/color/2x/monitor.png" width=30/></td><td><a href="https://www.google.com/search?q=Dell+P2417H+24%22+HDMI&rlz=1C1CHBF_enMY920MY920&oq=Dell+P2417H+24%22+HDMI&aqs=chrome..69i57.320j0j9&sourceid=chrome&ie=UTF-8">Dell P2417H 24" HDMI</a></td></tr>
 <!-- Keyboard -->
-<td><img title="Keyboard" alt="Keyboard" src="https://img.icons8.com/color/2x/keyboard.png" height=30/></td><td><a href="https://www.google.com/search?q=MSI+GK701&rlz=1C1CHBF_enMY920MY920&oq=MSI+GK701&aqs=chrome..69i57.358j0j9&sourceid=chrome&ie=UTF-8">MSI GK701</a></td></tr>
+<td><img title="Keyboard" alt="Keyboard" src="https://img.icons8.com/color/2x/keyboard.png" width=30/></td><td><a href="https://www.google.com/search?q=MSI+GK701&rlz=1C1CHBF_enMY920MY920&oq=MSI+GK701&aqs=chrome..69i57.358j0j9&sourceid=chrome&ie=UTF-8">MSI GK701</a></td></tr>
 <!-- Mouse -->
-<td><img title="Mouse" alt="Mouse" src="https://img.icons8.com/color/2x/4a90e2/mouse.png" height=30/></td><td><a href="https://www.google.com/search?q=Logitech+G502+Hero&rlz=1C1CHBF_enMY920MY920&oq=Logitech+G502+Hero&aqs=chrome..69i57j69i59l3j69i60l3.406j0j9&sourceid=chrome&ie=UTF-8">Logitech G502 Hero</a></td></tr>
+<td><img title="Mouse" alt="Mouse" src="https://img.icons8.com/color/2x/4a90e2/mouse.png" width=30/></td><td><a href="https://www.google.com/search?q=Logitech+G502+Hero&rlz=1C1CHBF_enMY920MY920&oq=Logitech+G502+Hero&aqs=chrome..69i57j69i59l3j69i60l3.406j0j9&sourceid=chrome&ie=UTF-8">Logitech G502 Hero</a></td></tr>
 <!-- Cooling Pad-->
-<td><img title="Cooling Pad" alt="Cooling Pad" src="https://img.icons8.com/color/2x/fan-speed.png" height=30/></td><td><a href="https://www.google.com/search?q=Cooler+Master+NotePal+L1+17%22&rlz=1C1CHBF_enMY920MY920&oq=Cooler+Master+NotePal+L1+17%22&aqs=chrome..69i57j69i60l2.348j0j9&sourceid=chrome&ie=UTF-8">Cooler Master NotePal L1 17"</a></td></tr>
+<td><img title="Cooling Pad" alt="Cooling Pad" src="https://img.icons8.com/color/2x/fan-speed.png" width=30/></td><td><a href="https://www.google.com/search?q=Cooler+Master+NotePal+L1+17%22&rlz=1C1CHBF_enMY920MY920&oq=Cooler+Master+NotePal+L1+17%22&aqs=chrome..69i57j69i60l2.348j0j9&sourceid=chrome&ie=UTF-8">Cooler Master NotePal L1 17"</a></td></tr>
 <!-- Cooling Pad-->
-<td><img title="Operating System" alt="Operating System" src="https://img.icons8.com/color/2x/operating-system.png" height=30/></td><td><a href="https://www.google.com/search?q=Windows+10+Pro&rlz=1C1CHBF_enMY920MY920&oq=Windows+10+Pro&aqs=chrome..69i57j69i61j69i60l2.404j0j9&sourceid=chrome&ie=UTF-8">Windows 10 Pro</a></td></tr>
+<td><img title="Operating System" alt="Operating System" src="https://img.icons8.com/color/2x/operating-system.png" width=30/></td><td><a href="https://www.google.com/search?q=Windows+10+Pro&rlz=1C1CHBF_enMY920MY920&oq=Windows+10+Pro&aqs=chrome..69i57j69i61j69i60l2.404j0j9&sourceid=chrome&ie=UTF-8">Windows 10 Pro</a></td></tr>
 </table>
 
 
 ### Skills
-<img alt="Ps" src="https://img.icons8.com/color/2x/adobe-photoshop.png" height=30/>
-<img alt="Ai" src="https://img.icons8.com/color/2x/adobe-illustrator.png" height=30/>
-<img alt="Xd" src="https://img.icons8.com/color/2x/adobe-xd.png" height=30/>
-<img alt="Dw" src="https://img.icons8.com/color/2x/adobe-dreamweaver.png" height=30/>
+<img alt="Ps" src="https://img.icons8.com/color/2x/adobe-photoshop.png" width=30/>
+<img alt="Ai" src="https://img.icons8.com/color/2x/adobe-illustrator.png" width=30/>
+<img alt="Xd" src="https://img.icons8.com/color/2x/adobe-xd.png" width=30/>
+<img alt="Dw" src="https://img.icons8.com/color/2x/adobe-dreamweaver.png" width=30/>
 
-<img alt="Ms Word" src="https://img.icons8.com/color/2x/microsoft-word-2019.png" height=30/>
+<img alt="Ms Word" src="https://img.icons8.com/color/2x/microsoft-word-2019.png" width=30/>
 
 
 
 
 ### Languages
-<img alt="Ai" src="https://img.icons8.com/color/2x/html-5.png" height=30/>
-<img alt="Ai" src="https://img.icons8.com/color/2x/css3.png" height=30/>
-<img alt="Ai" src="https://img.icons8.com/color/2x/javascript.png" height=30/>
-<img alt="Ai" src="https://img.icons8.com/color/2x/java.png" height=30/>
+<img alt="Ai" src="https://img.icons8.com/color/2x/html-5.png" width=30/>
+<img alt="Ai" src="https://img.icons8.com/color/2x/css3.png" width=30/>
+<img alt="Ai" src="https://img.icons8.com/color/2x/javascript.png" width=30/>
+<img alt="Ai" src="https://img.icons8.com/color/2x/java.png" width=30/>
 
-<img alt="Ai" src="https://img.icons8.com/color/2x/php.png" height=30/>
+<img alt="Ai" src="https://img.icons8.com/color/2x/php.png" width=30/>
 
 
 ### Hobbies & Interest
-<a href="" title="Coding" target="blank"><img alt="Coding" src="https://img.icons8.com/color/2x/code.png" height=30/></a>
-<a href="#" title="Chess" target="blank"><img alt="Chess" src="https://img.icons8.com/color/2x/piano.png" height=30/></a>
-<a href="https://www.chess.com/member/kimmohito" title="Chess" target="blank"><img alt="Chess" src="https://img.icons8.com/color/2x/pawn.png" height=30/></a>
-<a href="#" title="Coffee" target="blank"><img alt="Coffee" src="https://img.icons8.com/color/2x/coffee-to-go.png" height=30/></a>
+<a href="" title="Coding" target="blank"><img alt="Coding" src="https://img.icons8.com/color/2x/code.png" width=30/></a>
+<a href="#" title="Chess" target="blank"><img alt="Chess" src="https://img.icons8.com/color/2x/piano.png" width=30/></a>
+<a href="https://www.chess.com/member/kimmohito" title="Chess" target="blank"><img alt="Chess" src="https://img.icons8.com/color/2x/pawn.png" width=30/></a>
+<a href="#" title="Coffee" target="blank"><img alt="Coffee" src="https://img.icons8.com/color/2x/coffee-to-go.png" width=30/></a>
 
 
 
@@ -83,52 +83,52 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 ### Social
 
 
-<a href="mailto:kimmohito@gmail.com" title="Email" target="blank"><img alt="Email" src="https://img.icons8.com/ios/2x/email.png" height=30/></a>
-<a href="https://linkedin.com/in/kimmohito" title="LinkedIn" target="blank"><img alt="LinkedIn" src="https://img.icons8.com/ios/2x/linkedin.png" height=30/></a>
-<a href="https://twitter.com/kimmohito" title="Twitter" target="blank"><img alt="Twitter" src="https://img.icons8.com/ios/2x/twitter.png" height=30/></a>
-<a href="https://youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA" title="YouTube" target="blank"><img alt="YouTube" src="https://img.icons8.com/ios/2x/play-button.png" height=30/></a>
-<a href="https://www.9gag.com/u/kimmohito" title="9gag" target="blank"><img alt="9gag" src="https://img.icons8.com/ios/2x/9gag.png" height=30/></a>
-<a href="https://www.behance.net/kimmohito" title="Behance" target="blank"><img alt="Behance" src="https://img.icons8.com/ios/2x/behance.png" height=30/></a>
-<a href="https://kimmohito.blogspot.com" title="Blogger" target="blank"><img alt="Blogger" src="https://img.icons8.com/ios/2x/blogger.png" height=30/></a>
-<a href="https://buymeacoff.ee/kimmohito" title="Buy me a coffee" target="blank"><img alt="Buy me a coffee" src="https://img.icons8.com/ios/2x/coffee-to-go.png" height=30/></a>
+<a href="mailto:kimmohito@gmail.com" title="Email" target="blank"><img alt="Email" src="https://img.icons8.com/ios/2x/email.png" width=30/></a>
+<a href="https://linkedin.com/in/kimmohito" title="LinkedIn" target="blank"><img alt="LinkedIn" src="https://img.icons8.com/ios/2x/linkedin.png" width=30/></a>
+<a href="https://twitter.com/kimmohito" title="Twitter" target="blank"><img alt="Twitter" src="https://img.icons8.com/ios/2x/twitter.png" width=30/></a>
+<a href="https://youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA" title="YouTube" target="blank"><img alt="YouTube" src="https://img.icons8.com/ios/2x/play-button.png" width=30/></a>
+<a href="https://www.9gag.com/u/kimmohito" title="9gag" target="blank"><img alt="9gag" src="https://img.icons8.com/ios/2x/9gag.png" width=30/></a>
+<a href="https://www.behance.net/kimmohito" title="Behance" target="blank"><img alt="Behance" src="https://img.icons8.com/ios/2x/behance.png" width=30/></a>
+<a href="https://kimmohito.blogspot.com" title="Blogger" target="blank"><img alt="Blogger" src="https://img.icons8.com/ios/2x/blogger.png" width=30/></a>
+<a href="https://buymeacoff.ee/kimmohito" title="Buy me a coffee" target="blank"><img alt="Buy me a coffee" src="https://img.icons8.com/ios/2x/coffee-to-go.png" width=30/></a>
 
-<a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/ios/2x/codepen.png" height=30/></a>
-
-
-<a href="https://dev.to/kimmohito" title="Dev" target="blank"><img alt="Dev" src="https://img.icons8.com/ios/2x/dev.png" height=30/></a>
-
-<a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/ios/2x/codepen.png" height=30/></a>
-
-<a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/ios/2x/codepen.png" height=30/></a>
-
-<a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/ios/2x/codepen.png" height=30/></a>
-
-<a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/ios/2x/codepen.png" height=30/></a>
+<a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/ios/2x/codepen.png" width=30/></a>
 
 
+<a href="https://dev.to/kimmohito" title="Dev" target="blank"><img alt="Dev" src="https://img.icons8.com/ios/2x/dev.png" width=30/></a>
+
+<a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/ios/2x/codepen.png" width=30/></a>
+
+<a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/ios/2x/codepen.png" width=30/></a>
+
+<a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/ios/2x/codepen.png" width=30/></a>
+
+<a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/ios/2x/codepen.png" width=30/></a>
 
 
-<a href="https://facebook.com/kimmohito" title="Facebook" target="blank"><img alt="Facebook" src="https://img.icons8.com/ios/2x/facebook.png" height=30/></a>
 
-<a href="" title="Instagram" target="blank"><img alt="Instagram" src="https://img.icons8.com/ios/2x/instagram-new.png" height=30/></a>
 
-<a href="https://wa.me/601111110470" title="Whatsapp" target="blank"><img alt="Whatsapp" src="https://img.icons8.com/ios/2x/whatsapp.png" height=30/></a>
+<a href="https://facebook.com/kimmohito" title="Facebook" target="blank"><img alt="Facebook" src="https://img.icons8.com/ios/2x/facebook.png" width=30/></a>
 
-<a href="" title="Telegram" target="blank"><img alt="Telegram" src="https://img.icons8.com/ios/2x/telegram-app.png" height=30/></a>
+<a href="" title="Instagram" target="blank"><img alt="Instagram" src="https://img.icons8.com/ios/2x/instagram-new.png" width=30/></a>
 
-<a href="" title="Discord" target="blank"><img alt="Discord" src="https://img.icons8.com/ios/2x/discord-logo.png" height=30/></a>
+<a href="https://wa.me/601111110470" title="Whatsapp" target="blank"><img alt="Whatsapp" src="https://img.icons8.com/ios/2x/whatsapp.png" width=30/></a>
 
-<a href="https://steamcommunity.com/id/kimmohito" title="Steam" target="blank"><img alt="Steam" src="https://img.icons8.com/ios/2x/steam.png" height=30/></a>
+<a href="" title="Telegram" target="blank"><img alt="Telegram" src="https://img.icons8.com/ios/2x/telegram-app.png" width=30/></a>
 
-<a href="" title="Twitch" target="blank"><img alt="Twitch" src="https://img.icons8.com/ios/2x/twitch.png" height=30/></a>
+<a href="" title="Discord" target="blank"><img alt="Discord" src="https://img.icons8.com/ios/2x/discord-logo.png" width=30/></a>
 
-<a href="" title="Reddit" target="blank"><img alt="Reddit" src="https://img.icons8.com/ios/2x/reddit.png" height=30/></a>
+<a href="https://steamcommunity.com/id/kimmohito" title="Steam" target="blank"><img alt="Steam" src="https://img.icons8.com/ios/2x/steam.png" width=30/></a>
 
-<a href="" title="Behance" target="blank"><img alt="Behance" src="https://img.icons8.com/ios/2x/behance.png" height=30/></a>
+<a href="" title="Twitch" target="blank"><img alt="Twitch" src="https://img.icons8.com/ios/2x/twitch.png" width=30/></a>
 
-<a href="" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/ios/2x/codepen.png" height=30/></a>
+<a href="" title="Reddit" target="blank"><img alt="Reddit" src="https://img.icons8.com/ios/2x/reddit.png" width=30/></a>
 
-<a href="" title="Stack Overflow" target="blank"><img alt="Stack Overflow" src="https://img.icons8.com/ios/2x/stackoverflow.png" height=30/></a>
+<a href="" title="Behance" target="blank"><img alt="Behance" src="https://img.icons8.com/ios/2x/behance.png" width=30/></a>
+
+<a href="" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/ios/2x/codepen.png" width=30/></a>
+
+<a href="" title="Stack Overflow" target="blank"><img alt="Stack Overflow" src="https://img.icons8.com/ios/2x/stackoverflow.png" width=30/></a>
 
 
 
@@ -147,23 +147,23 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 ### 👷 Tools & Tech
 
 <!-- Operating System -->
-<a href="" title="Windows" target="blank"><img alt="Windows" src="https://img.icons8.com/ios/2x/windows8.png" height=30></a>
-<a href="" title="MacOS" target="blank"><img alt="MacOS" src="https://img.icons8.com/ios/2x/mac-os.png" height=30></a>
-<a href="" title="Linux" target="blank"><img alt="Linux" src="https://img.icons8.com/ios/2x/linux.png" height=30></a>
-<a href="" title="Ubuntu" target="blank"><img alt="Ubuntu" src="https://img.icons8.com/ios/2x/ubuntu.png" height=30></a>
-<a href="" title="Debian" target="blank"><img alt="Debian" src="https://img.icons8.com/ios/2x/debian.png" height=30></a>
-<a href="" title="CentOS" target="blank"><img alt="CentOS" src="https://img.icons8.com/ios/2x/centos.png" height=30></a>
-<a href="" title="Fedora" target="blank"><img alt="Fedora" src="https://img.icons8.com/ios/2x/fedora.png" height=30></a>
-<a href="" title="RedHat" target="blank"><img alt="RedHat" src="https://img.icons8.com/ios/2x/red-hat.png" height=30></a>
-<a href="" title="RasberryPi" target="blank"><img alt="RaspberryPi" src="https://img.icons8.com/ios/2x/raspberry-pi.png" height=30></a>
-<a href="" title="ios" target="blank"><img alt="ios" src="https://img.icons8.com/ios/2x/ios-logo.png" height=30></a>
-<a href="" title="Android" target="blank"><img alt="Android" src="https://img.icons8.com/ios/2x/android-os.png" height=30></a>
+<a href="" title="Windows" target="blank"><img alt="Windows" src="https://img.icons8.com/ios/2x/windows8.png" width=30></a>
+<a href="" title="MacOS" target="blank"><img alt="MacOS" src="https://img.icons8.com/ios/2x/mac-os.png" width=30></a>
+<a href="" title="Linux" target="blank"><img alt="Linux" src="https://img.icons8.com/ios/2x/linux.png" width=30></a>
+<a href="" title="Ubuntu" target="blank"><img alt="Ubuntu" src="https://img.icons8.com/ios/2x/ubuntu.png" width=30></a>
+<a href="" title="Debian" target="blank"><img alt="Debian" src="https://img.icons8.com/ios/2x/debian.png" width=30></a>
+<a href="" title="CentOS" target="blank"><img alt="CentOS" src="https://img.icons8.com/ios/2x/centos.png" width=30></a>
+<a href="" title="Fedora" target="blank"><img alt="Fedora" src="https://img.icons8.com/ios/2x/fedora.png" width=30></a>
+<a href="" title="RedHat" target="blank"><img alt="RedHat" src="https://img.icons8.com/ios/2x/red-hat.png" width=30></a>
+<a href="" title="RasberryPi" target="blank"><img alt="RaspberryPi" src="https://img.icons8.com/ios/2x/raspberry-pi.png" width=30></a>
+<a href="" title="ios" target="blank"><img alt="ios" src="https://img.icons8.com/ios/2x/ios-logo.png" width=30></a>
+<a href="" title="Android" target="blank"><img alt="Android" src="https://img.icons8.com/ios/2x/android-os.png" width=30></a>
 
 <!-- Text Editor -->
-<a href="" title="Visual Studio Code" target="blank"><img alt="VSCode" src="https://img.icons8.com/ios/2x/visual-studio-logo.png" height=30></a>
-<a href="" title="Atom" target="blank"><img alt="Atom" src="https://img.icons8.com/ios/2x/atom-editor.png" height=30></a>
-<a href="" title="Arduino IDE" target="blank"><img alt="Arduino IDE" src="https://img.icons8.com/ios/2x/sublime-text.png" height=30></a>
-<a href="" title="Arduino IDE" target="blank"><img alt="Arduino IDE" src="https://img.icons8.com/ios/2x/arduino.png" height=30></a>
+<a href="" title="Visual Studio Code" target="blank"><img alt="VSCode" src="https://img.icons8.com/ios/2x/visual-studio-logo.png" width=30></a>
+<a href="" title="Atom" target="blank"><img alt="Atom" src="https://img.icons8.com/ios/2x/atom-editor.png" width=30></a>
+<a href="" title="Arduino IDE" target="blank"><img alt="Arduino IDE" src="https://img.icons8.com/ios/2x/sublime-text.png" width=30></a>
+<a href="" title="Arduino IDE" target="blank"><img alt="Arduino IDE" src="https://img.icons8.com/ios/2x/arduino.png" width=30></a>
 
 
 
