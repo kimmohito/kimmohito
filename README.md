@@ -15,88 +15,40 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 
 
 ## 🙋‍♂️ Catch me on
-<a href="https://kimmohito.github.io" title="Website" target="blank"><img alt="Website" src="https://img.icons8.com/ios/2x/domain.png" height=40/></a>
-<a href="mailto:kimmohito@gmail.com" title="Email" target="blank"><img alt="Email" src="https://img.icons8.com/ios/2x/new-post.png" height=40/></a>
-<a href="https://linkedin.com/in/kimmohito" title="LinkedIn" target="blank"><img alt="LinkedIn" src="https://img.icons8.com/ios/2x/linkedin.png" height=40/></a>
-<a href="https://twitter.com/kimmohito" title="Twitter" target="blank"><img alt="Twitter" src="https://img.icons8.com/ios/2x/twitter.png" height=40/></a>
-<a href="https://youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA" title="YouTube" target="blank"><img alt="YouTube" src="https://img.icons8.com/ios/2x/play-button.png" height=40/></a>
-
-
-
-<!-- Email -->
-<a href="" title="Email" target="blank">
-<img alt="Email" src="https://img.icons8.com/ios/2x/new-post.png" height=40>
-</a>
-
-<!-- LinkedIn -->
-<a href="https://linkedin.com/in/kimmohito" title="LinkedIn">
-<img alt="LinkedIn" src="https://img.icons8.com/ios/2x/linkedin.png" height=40>
-</a>
-
-<!-- Twitter -->
-<a href="https://twitter.com/kimmohito" title="Twitter">
-<img alt="Twitter" src="https://img.icons8.com/ios/2x/twitter.png" height=40>
-</a>
-
-<!-- GitHub -->
-<a href="https://github.com/kimmohito" title="GitHub">
-    <img alt="GitHub" src="https://img.icons8.com/ios/2x/github.png" height=40>
-</a>
-
-<!-- Youtube -->
-<a href="https://youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA" title="Youtube">
-    <img alt="YouTube" src="https://img.icons8.com/ios/2x/youtube-play.png" height=40>
-</a>
-
-<!-- Discord -->
-<a href="" title="">
-    <img alt="" src="https://img.icons8.com/ios/2x/discord-logo.png" height=40>
-</a>
-
-<!-- Instagram -->
-<a href="" title="Instagram">
-    <img alt="Instagram" src="https://img.icons8.com/ios/2x/instagram.png" height=40>
-</a>
-
-<!--  -->
-<a href="" title="">
-    <img alt="" src="https://img.icons8.com/ios/2x/steam.png" height=40>
-</a>
-
-<!--  -->
-<a href="" title="">
-    <img alt="" src="https://img.icons8.com/ios/2x/reddit.png" height=40>
-</a>
-
-<!--  -->
-<a href="" title="">
-    <img alt="" src="https://img.icons8.com/ios/2x/steam.png" height=40>
-</a>
+<a href="https://kimmohito.github.io" title="Website" target="blank"><img alt="Website" src="https://img.icons8.com/color/2x/domain.png" height=40/></a>
+<a href="mailto:kimmohito@gmail.com" title="Email" target="blank"><img alt="Email" src="https://img.icons8.com/color/2x/email.png" height=40/></a>
+<a href="https://linkedin.com/in/kimmohito" title="LinkedIn" target="blank"><img alt="LinkedIn" src="https://img.icons8.com/color/2x/linkedin.png" height=40/></a>
+<a href="https://twitter.com/kimmohito" title="Twitter" target="blank"><img alt="Twitter" src="https://img.icons8.com/color/2x/twitter.png" height=40/></a>
+<a href="https://youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA" title="YouTube" target="blank"><img alt="YouTube" src="https://img.icons8.com/color/2x/play-button.png" height=40/></a>
+<a href="" title="Discord" target="blank"><img alt="Discord" src="https://img.icons8.com/color/2x/discord-new-logo.png" height=40/></a>
+<a href="" title="Instagram" target="blank"><img alt="Instagram" src="https://img.icons8.com/color/2x/instagram-new.png" height=40/></a>
+<a href="" title="Steam" target="blank"><img alt="Steam" src="https://img.icons8.com/color/2x/steam.png" height=40/></a>
+<a href="" title="Reddit" target="blank"><img alt="Reddit" src="https://img.icons8.com/color/2x/reddit.png" height=40/></a>
 
 
 
 
 
-### 👷 Tools & Tech
+
+## 👷 Tools & Tech
 
 <!-- Operating System -->
-<a href="" title="Windows"><img alt="Windows" src="https://img.icons8.com/ios/2x/windows8.png" height=30></a>
-<a href="" title="MacOS"><img alt="MacOS" src="https://img.icons8.com/ios/2x/mac-os.png" height=30></a>
-<a href="" title="Linux"><img alt="Linux" src="https://img.icons8.com/ios/2x/linux.png" height=30></a>
-<a href="" title="Ubuntu"><img alt="Ubuntu" src="https://img.icons8.com/ios/2x/ubuntu.png" height=30></a>
-<a href="" title="Debian"><img alt="Debian" src="https://img.icons8.com/ios/2x/debian.png" height=30></a>
-<a href="" title="CentOS"><img alt="CentOS" src="https://img.icons8.com/ios/2x/centos.png" height=30></a>
-<a href="" title="Fedora"><img alt="Fedora" src="https://img.icons8.com/ios/2x/fedora.png" height=30></a>
-<a href="" title="RedHat"><img alt="RedHat" src="https://img.icons8.com/ios/2x/red-hat.png" height=30></a>
-<a href="" title="RasberryPi"><img alt="RaspberryPi" src="https://img.icons8.com/ios/2x/raspberry-pi.png" height=30></a>
-<a href="" title="iOS"><img alt="iOS" src="https://img.icons8.com/ios/2x/ios-logo.png" height=30></a>
-<a href="" title="Android"><img alt="Android" src="https://img.icons8.com/ios/2x/android-os.png" height=30></a>
+<a href="" title="Windows" target="blank"><img alt="Windows" src="https://img.icons8.com/color/2x/windows8.png" height=30></a>
+<a href="" title="MacOS" target="blank"><img alt="MacOS" src="https://img.icons8.com/color/2x/mac-os.png" height=30></a>
+<a href="" title="Linux" target="blank"><img alt="Linux" src="https://img.icons8.com/color/2x/linux.png" height=30></a>
+<a href="" title="Ubuntu" target="blank"><img alt="Ubuntu" src="https://img.icons8.com/color/2x/ubuntu.png" height=30></a>
+<a href="" title="Debian" target="blank"><img alt="Debian" src="https://img.icons8.com/color/2x/debian.png" height=30></a>
+<a href="" title="CentOS" target="blank"><img alt="CentOS" src="https://img.icons8.com/color/2x/centos.png" height=30></a>
+<a href="" title="RedHat" target="blank"><img alt="RedHat" src="https://img.icons8.com/color/2x/red-hat.png" height=30></a>
+<a href="" title="RasberryPi" target="blank"><img alt="RaspberryPi" src="https://img.icons8.com/color/2x/raspberry-pi.png" height=30></a>
+<a href="" title="color" target="blank"><img alt="color" src="https://img.icons8.com/color/2x/ios-logo.png" height=30></a>
+<a href="" title="Android" target="blank"><img alt="Android" src="https://img.icons8.com/color/2x/android-os.png" height=30></a>
 
 <!-- Text Editor -->
-<a href="" title="Visual Studio Code" target="blank"><img alt="VSCode" src="https://img.icons8.com/ios/2x/visual-studio-logo.png" height=30></a>
-<a href="" title="Atom" target="blank"><img alt="Atom" src="https://img.icons8.com/ios/2x/atom-editor.png" height=30></a>
-<a href="" title="Arduino IDE" target="blank"><img alt="Arduino IDE" src="https://img.icons8.com/ios/2x/arduino.png" height=30></a>
-<a href="" title="Arduino IDE" target="blank"><img alt="Arduino IDE" src="https://img.icons8.com/ios/2x/sublime-text.png" height=30></a>
+<a href="" title="Visual Studio Code" target="blank"><img alt="VSCode" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" height=30></a>
+<a href="" title="Atom" target="blank"><img alt="Atom" src="https://img.icons8.com/color/2x/atom-editor.png" height=30></a>
+<a href="" title="Arduino IDE" target="blank"><img alt="Arduino IDE" src="https://img.icons8.com/color/2x/sublime-text.png" height=30></a>
+<a href="" title="Arduino IDE" target="blank"><img alt="Arduino IDE" src="https://img.icons8.com/color/2x/arduino.png" height=30></a>
 
 
 
