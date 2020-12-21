@@ -1,13 +1,20 @@
 <img src="header.jpg">
 
+
+
+
+
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24">
 
 My name is [Kim Mohito](https://kimmohito.github.io). I'm a certified [Network Engineer](#) by [Cisco](#), networking hardware company. Currently a part-time Web Developer and Programming Tutor, based in [Kuala Lumpur, Malaysia](https://www.google.com/maps/place/Kuala+Lumpur,+Federal+Territory+of+Kuala+Lumpur/data=!4m2!3m1!1s0x31cc49c701efeae7:0xf4d98e5b2f1c287d?sa=X&ved=2ahUKEwjp2te69e_sAhWozTgGHbhjCasQ8gEwK3oECAwQAQ) specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
 Shortly after graduating from [Diploma in Network Security](#) at [German Malaysian Institute](#), I pursue my [Degree in Network System](#) at [Universiti Kuala Lumpur MIIT](https://www.unikl.edu.my). I started a programming community in Malaysia known as [RojakCube](https://rojakcube.com). I joined the engineering team at [SilverByte](https://silverbyte.my) where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
-### 🙋‍♂️ Catch me on
 
+
+
+
+## 🙋‍♂️ Catch me on
 <a href="https://kimmohito.github.io" title="Website" target="blank"><img alt="Website" src="https://img.icons8.com/ios/2x/domain.png" height=40/></a>
 <a href="mailto:kimmohito@gmail.com" title="Email" target="blank"><img alt="Email" src="https://img.icons8.com/ios/2x/new-post.png" height=40/></a>
 <a href="https://linkedin.com/in/kimmohito" title="LinkedIn" target="blank"><img alt="LinkedIn" src="https://img.icons8.com/ios/2x/linkedin.png" height=40/></a>
@@ -18,17 +25,17 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 
 <!-- Email -->
 <a href="" title="Email" target="blank">
-    <img alt="Email" src="https://img.icons8.com/ios/2x/new-post.png" height=40>
+<img alt="Email" src="https://img.icons8.com/ios/2x/new-post.png" height=40>
 </a>
 
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/kimmohito" title="LinkedIn">
-    <img alt="LinkedIn" src="https://img.icons8.com/ios/2x/linkedin.png" height=40>
+<img alt="LinkedIn" src="https://img.icons8.com/ios/2x/linkedin.png" height=40>
 </a>
 
 <!-- Twitter -->
 <a href="https://twitter.com/kimmohito" title="Twitter">
-    <img alt="Twitter" src="https://img.icons8.com/ios/2x/twitter.png" height=40>
+<img alt="Twitter" src="https://img.icons8.com/ios/2x/twitter.png" height=40>
 </a>
 
 <!-- GitHub -->
