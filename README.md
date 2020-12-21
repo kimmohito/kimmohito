@@ -1,8 +1,10 @@
 # 👨‍💻 Hello World! <a href="https://kimmohito.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
+<img src="header.jpg">
+
 <a href="me-when-i-add-a-meme-to-an-email.jpg"><img src="boromir-email.jpg" align="right" width="200"></a>
 
-My name is [Kim Mohito](https://kimmohito.github.io). I'm a [Network Engineer](#) based in [Kuala Lumpur, Malaysia](https://www.google.com/maps/place/Kuala+Lumpur,+Federal+Territory+of+Kuala+Lumpur/data=!4m2!3m1!1s0x31cc49c701efeae7:0xf4d98e5b2f1c287d?sa=X&ved=2ahUKEwjp2te69e_sAhWozTgGHbhjCasQ8gEwK3oECAwQAQ) specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+My name is <b>[Kim Mohito](https://kimmohito.github.io)</b>. I'm a [Network Engineer](#) based in [Kuala Lumpur, Malaysia](https://www.google.com/maps/place/Kuala+Lumpur,+Federal+Territory+of+Kuala+Lumpur/data=!4m2!3m1!1s0x31cc49c701efeae7:0xf4d98e5b2f1c287d?sa=X&ved=2ahUKEwjp2te69e_sAhWozTgGHbhjCasQ8gEwK3oECAwQAQ) specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
 Shortly after graduating from [Diploma in Network Security](#) at [German Malaysian Institute](#), I pursue my [Degree in Network System](#) at [Universiti Kuala Lumpur MIIT](https://www.unikl.edu.my). I started a programming community in Malaysia known as [RojakCube](https://rojakcube.com). I joined the engineering team at [SilverByte](https://silverbyte.my) where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
@@ -44,7 +46,7 @@ If you have any enquiries, feel free to send me some meme to [kimmohito@gmail.co
     [![](https://img.shields.io/badge/Android%20Studio-4ee98c?logo=android-studio&labelColor=111&logoColor=4ee98c)](https://developer.android.com/studio)
     [![](https://img.shields.io/badge/Arduino%20IDE-00878F?logo=arduino&labelColor=111&logoColor=00878F)](https://www.arduino.cc/en/software)
 
-- 💾 Languages
+- 💾 Language
 
     [![](https://img.shields.io/badge/HTML-e34c26?logo=html5&labelColor=111&logoColor=e34c26)](https://www.w3schools.com/html/)
     [![](https://img.shields.io/badge/CSS-264de4?logo=css3&labelColor=111&logoColor=264de4)](https://www.w3schools.com/css/)
@@ -59,12 +61,12 @@ If you have any enquiries, feel free to send me some meme to [kimmohito@gmail.co
     [![](https://img.shields.io/badge/Java-e01e1e?logo=java&labelColor=111&logoColor=e01e1e)](https://www.java.com/en/)
     [![](https://img.shields.io/badge/Perl-4a5b81?logo=perl&labelColor=111&logoColor=4a5b81)](https://www.perl.org/)
     [![](https://img.shields.io/badge/R-0170bf?logo=R&labelColor=111&logoColor=0170bf)](https://www.r-project.org/)
-    [![](https://img.shields.io/badge/Markdown-eee?logo=markdown&labelColor=111&logoColor=eee)](https://www.markdownguide.org/)
-    [![](https://img.shields.io/badge/XML-eee)](https://www.xml.com/)
-    [![](https://img.shields.io/badge/YAML-eee)](https://yaml.org/)
-    [![](https://img.shields.io/badge/TOML-eee)](https://toml.io/en/)
+    [![](https://img.shields.io/badge/Markdown-69ba76?logo=markdown&labelColor=111&logoColor=69ba76)](https://www.markdownguide.org/)
+    [![](https://img.shields.io/badge/XML-cc6d2e)](https://www.xml.com/)
+    [![](https://img.shields.io/badge/YAML-9068b0)](https://yaml.org/)
+    [![](https://img.shields.io/badge/TOML-bfc2c1)](https://toml.io/en/)
 
-- 💿 Databases
+- 💿 Database
 
     [![](https://img.shields.io/badge/MySQL-f29111?logo=mysql&labelColor=111&logoColor=f29111)](https://www.mysql.com/downloads/)
     [![](https://img.shields.io/badge/MariaDB-00758f?logo=mariadb&labelColor=111&logoColor=00758f)](https://mariadb.org/download/)
@@ -102,7 +104,7 @@ If you have any enquiries, feel free to send me some meme to [kimmohito@gmail.co
 - [Test](https://dev.to/kimmohito/test-aml)
 <!-- BLOG-POST-LIST:END -->
 
-## 👨‍🚀 Latest Youtube Video
+## 👨‍🚀 Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [Gosu.ai rampage moment | dog as Tidehunter](https://www.youtube.com/watch?v=hZgWxY_Q5Ns)
 - [Gosu.ai | dog as Faceless Void](https://www.youtube.com/watch?v=DdI3AXQv0uY)
