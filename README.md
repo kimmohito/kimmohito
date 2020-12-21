@@ -6,11 +6,11 @@
 var AboutMe = {
     "name": "Kim Mohito",
     "profession": ["Developer", "Designer", "Tutor"],
+    "age": 24,
     "location": {
         "city": "Kuala Lumpur",
         "state": "Malaysia"
-    },
-    "age": 24
+    }
 }
 ```
 
