@@ -10,6 +10,7 @@ My name is [Kim Mohito](https://www.google.com/search?q=Kim+Mohito&rlz=1C1CHBF_e
 
 Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.my/electrical-engineering/diploma-in-industrial-electronics-network-security/) at [German Malaysian Institute](https://www.google.com/search?q=german+malaysian+institute&rlz=1C1CHBF_enMY920MY920&oq=german+malaysian+institute&aqs=chrome..69i57j69i61.5658j0j4&sourceid=chrome&ie=UTF-8), I pursue my [Bachelor's Degree in Network System](https://www.unikl.edu.my/programme/bachelor-of-engineering-technology-hons-in-networking-systems/) at [Universiti Kuala Lumpur MIIT](https://www.google.com/search?q=unkl+miit&rlz=1C1CHBF_enMY920MY920&oq=unkl+miit&aqs=chrome..69i57.2169j0j4&sourceid=chrome&ie=UTF-8). I started a programming community in Malaysia known as [RojakCube](https://rojakcube.com). I joined the engineering team at [SilverByte](https://silverbyte.my) where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
+
 <!--#### ACTIVE SOCIAL APPS #####-->
 <a href="https://kimmohito.github.io" title="Website" target="blank"><img alt="Website" src="https://img.icons8.com/color/2x/domain.png" width=30/></a>
 <a href="mailto:kimmohito@gmail.com" title="Email" target="blank"><img alt="Email" src="https://img.icons8.com/color/2x/email.png" width=30/></a>
@@ -31,6 +32,8 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
 <a href="https://www.pinterest.com/kimmohito/_saved/" title="Pinterest" target="blank"><img alt="Pinterest" src="https://img.icons8.com/color/2x/pinterest.png" width=30/></a>
 <a href="https://t.me/kimmohito" title="Telegram" target="blank"><img alt="Telegram" src="https://img.icons8.com/color/2x/telegram-app.png" width=30/></a>
 <a href="https://wa.me/601111110470" title="Whatsapp" target="blank"><img alt="Whatsapp" src="https://img.icons8.com/color/2x/whatsapp.png" width=30/></a>
+
+
 <!--##### RIGS A& GEARS #####-->
 ## 👨‍💻 My RIGs & Gears
 <table>
@@ -178,8 +181,8 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
 
 </table>
 
-## 🦸 My Hobbies & Interest
 
+## 🦸 My Hobbies & Interest
 
 <a href="" title="Coding" target="blank"><img alt="Coding" src="https://img.icons8.com/color/2x/code.png" width=30/></a>
 <a href="#" title="Chess" target="blank"><img alt="Chess" src="https://img.icons8.com/color/2x/piano.png" width=30/></a>
@@ -188,7 +191,6 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
 
 
 
-</div>
 
 
 
@@ -221,31 +223,28 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
 
 
 
-
+<!--##### GITHUB STATS #####-->
 ## 👨‍🔬 Things I've been working on
-<div align="center"><img alt="WakaTime Stats" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimmohito&hide_title=true&hide_border=true&langs_count=30&bg_color=0000&text_color=666"></div>
+<img alt="WakaTime Stats" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimmohito&hide_title=true&hide_border=true&langs_count=30&bg_color=0000&text_color=666">
 
 
-
-
-
-
+<!--##### GITHUB STATS #####-->
 ## 👨‍🔧 My GitHub Stats
-<div align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kimmohito&hide_title=true&hide_border=true&show_icons=true&icon_color=666&bg_color=0000&text_color=666"></div>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kimmohito&hide_title=true&hide_border=true&show_icons=true&icon_color=666&bg_color=0000&text_color=666">
 
 
-
-
-
-
+<!--##### PROFILE VIEWS #####-->
 ## 🕵️ Profile Views
-<div align="center"><img alt="Profile Views" src="https://views.whatilearened.today/views/github/kimmohito/views.svg"></div><br>
+<a href=""><img alt="Profile Views" src="https://views.whatilearened.today/views/github/kimmohito/views.svg"></a><br>
 
 
-
-
-
+<!--##### FOOTER #####-->
 <img src="footer.jpg">
+
+
+
+
+
 
 <!-- 
 <img src="https://pbs.twimg.com/profile_banners/1238171999030086912/1596616511/1500x500"> 
