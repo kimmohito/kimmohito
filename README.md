@@ -1,24 +1,23 @@
 <!--##### HEADER #####-->
 <img src="header.jpg">
 
-
+```json
+// About me in JSON
+var AboutMe = {
+    "name": "Kim Mohito",
+    "profession": ["Developer", "Designer", "Tutor"],
+    "location": {
+        "city": "Kuala Lumpur",
+        "state": "Malaysia"
+    },
+    "age": 24
+}
+```
 
 <!--##### ABOUT #####-->
 <div align="center">
 
 ## 🙋‍♂️ Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
-
-</div>
-
-```json
-// About me in Json
-const AboutMe = {
-    "myName" : "Kim Mohito",
-    "myAge" : 24,
-}
-```
-
-<div align="center">
 
 My name is [Kim Mohito](https://www.google.com/search?q=Kim+Mohito&rlz=1C1CHBF_enMY920MY920&oq=Kim+Mohito&aqs=chrome..69i57j69i59l3j69i64j69i61j69i60l2.279j0j9&sourceid=chrome&ie=UTF-8). I'm a certified [Network Engineer](https://www.google.com/search?q=Network+Engineer&rlz=1C1CHBF_enMY920MY920&oq=Network+Engineer&aqs=chrome..69i57j69i59j69i60.377j0j9&sourceid=chrome&ie=UTF-8) under [Cisco](https://www.google.com/search?q=Cisco&rlz=1C1CHBF_enMY920MY920&oq=Cisco&aqs=chrome..69i57j69i59l4j69i60j69i61j69i60.298j0j9&sourceid=chrome&ie=UTF-8). Currently a part-time [Web Developer](https://www.google.com/search?q=Web+Developer&rlz=1C1CHBF_enMY920MY920&oq=Web+Developer&aqs=chrome..69i57j69i64j69i60l3.238j0j9&sourceid=chrome&ie=UTF-8) and Programming Tutor, based in [Kuala Lumpur, Malaysia](https://www.google.com/search?q=Kuala+Lumpur&rlz=1C1CHBF_enMY920MY920&oq=Kuala+Lumpur&aqs=chrome..69i57j69i59j69i60l3.279j0j9&sourceid=chrome&ie=UTF-8) specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
