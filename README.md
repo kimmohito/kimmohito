@@ -21,12 +21,14 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
 <a href="https://facebook.com/kimmohito" title="Facebook" target="blank"><img alt="Facebook" src="https://img.icons8.com/color/2x/facebook.png" width=30/></a>
 <a href="https://discordapp.com/users/643484888892440578" title="Discord" target="blank"><img alt="Discord" src="https://img.icons8.com/color/2x/discord-logo.png" width=30/></a>
 <a href="https://steamcommunity.com/id/kimmohito/" title="Steam" target="blank"><img alt="Steam" src="https://img.icons8.com/color/2x/steam.png" width=30/></a>
+<a href="https://medium.com/@kimmohito" title="Medium" target="blank"><img alt="Medium" src="https://img.icons8.com/color/2x/medium.png" width=30/></a>
 <a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/color/2x/codepen.png" width=30/></a>
 <a href="https://stackoverflow.com/users/6735725/kim-mohito" title="Stack Overflow" target="blank"><img alt="Stack Overflow" src="https://img.icons8.com/color/2x/stack-overflow.png" width=30/></a>
 <a href="https://kimmohito.blogspot.com" title="Blogspot" target="blank"><img alt="Blogspot" src="https://img.icons8.com/color/2x/blogger.png" width=30/></a>
 <a href="https://instagram.com/kimmohito" title="Instagram" target="blank"><img alt="Instagram" src="https://img.icons8.com/color/2x/instagram.png" width=30/></a>
-<a href="https://www.youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA" title="YouTube" target="blank"><img alt="YouTube" src="https://img.icons8.com/color/2x/play-button.png" width=30/></a>
 <a href="https://www.reddit.com/user/kimmohito" title="Reddit" target="blank"><img alt="Reddit" src="https://img.icons8.com/color/2x/reddit.png" width=30/></a>
+<a href="https://www.youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA" title="YouTube" target="blank"><img alt="YouTube" src="https://img.icons8.com/color/2x/play-button.png" width=30/></a>
+<a href="https://www.pinterest.com/kimmohito/_saved/" title="Pinterest" target="blank"><img alt="Pinterest" src="https://img.icons8.com/color/2x/pinterest.png" width=30/></a>
 <a href="https://t.me/kimmohito" title="Telegram" target="blank"><img alt="Telegram" src="https://img.icons8.com/color/2x/telegram-app.png" width=30/></a>
 <a href="https://wa.me/601111110470" title="Whatsapp" target="blank"><img alt="Whatsapp" src="https://img.icons8.com/color/2x/whatsapp.png" width=30/></a>
 <!--##### RIGS A& GEARS #####-->
