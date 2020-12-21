@@ -1,26 +1,10 @@
 <!--##### HEADER #####-->
 <img src="header.jpg">
+
 <!--##### ABOUT #####-->
 <div align="center">
 
 ## 🙋‍♂️ Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
-
-</div>
-
-```json
-// About me in JSON
-var AboutMe = {
-    "name": "Kim Mohito",
-    "profession": ["Developer", "Designer", "Tutor"],
-    "age": 24,
-    "location": {
-        "city": "Kuala Lumpur",
-        "state": "Malaysia"
-    }
-}
-```
-
-<div align="center">
 
 My name is [Kim Mohito](https://www.google.com/search?q=Kim+Mohito&rlz=1C1CHBF_enMY920MY920&oq=Kim+Mohito&aqs=chrome..69i57j69i59l3j69i64j69i61j69i60l2.279j0j9&sourceid=chrome&ie=UTF-8). I'm a certified [Network Engineer](https://www.google.com/search?q=Network+Engineer&rlz=1C1CHBF_enMY920MY920&oq=Network+Engineer&aqs=chrome..69i57j69i59j69i60.377j0j9&sourceid=chrome&ie=UTF-8) under [Cisco](https://www.google.com/search?q=Cisco&rlz=1C1CHBF_enMY920MY920&oq=Cisco&aqs=chrome..69i57j69i59l4j69i60j69i61j69i60.298j0j9&sourceid=chrome&ie=UTF-8). Currently a part-time [Web Developer](https://www.google.com/search?q=Web+Developer&rlz=1C1CHBF_enMY920MY920&oq=Web+Developer&aqs=chrome..69i57j69i64j69i60l3.238j0j9&sourceid=chrome&ie=UTF-8) and Programming Tutor, based in [Kuala Lumpur, Malaysia](https://www.google.com/search?q=Kuala+Lumpur&rlz=1C1CHBF_enMY920MY920&oq=Kuala+Lumpur&aqs=chrome..69i57j69i59j69i60l3.279j0j9&sourceid=chrome&ie=UTF-8) specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
@@ -45,16 +29,18 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
 <table>
 <!-- Desktop -->
 <tr><td><img title="Laptop" alt="Laptop" src="https://img.icons8.com/color/2x/4a90e2/laptop.png" width=30/></td><td><a href="https://www.msi.com/Laptop/GF63-Thin-9SX-GTX">MSI GF63 Thin 95c</a></td></tr>
-<!-- CPU -->
-<tr><td><img title="CPU" alt="CPU" src="https://img.icons8.com/color/2x/processor.png" width=30/></td><td><a href="https://ark.intel.com/content/www/us/en/ark/products/191075/intel-core-i5-9300h-processor-8m-cache-up-to-4-10-ghz.html">Intel® Core™ i5-9300H Processor</a></td></tr>
-<!-- SSD -->
-<tr><td><img title="SSD" alt="SSD" src="https://img.icons8.com/color/2x/ssd.png" width=30/></td><td><a href="https://www.kingston.com/en/ssd/a2000-nvme-pcie-ssd?Capacity=1000GB">1TB Kingston NVMe PCIe M.2</a></td></tr>
-<!-- HDD -->
-<tr><td><img title="HDD" alt="HDD" src="https://img.icons8.com/color/2x/hdd.png" width=30/></td><td><a href="https://www.seagate.com/www-content/datasheets/pdfs/barracuda-2-5-DS1907-3-2005GB-en_AS.pdf">1TB Seagate SATA 2.5" 5400RPM</a></td></tr>
-<!-- RAM-->
-<tr><td><img title="RAM" alt="RAM" src="https://img.icons8.com/color/2x/4a90e2/memory-slot.png" width=30/></td><td><a href="https://www.kingston.com/dataSheets/KVR26S19D8_16.pdf">16GB DDR4 Kingston SODIMM 2666MHz</a><br><a href="https://www.kingston.com/dataSheets/KVR26S19S8_8.pdf">8GB DDR4 Kingston SODIMM 2666MHz</a></td></tr><tr>
-<!-- GPU -->
-<td><img title="GPU" alt="GPU" src="https://img.icons8.com/color/2x/4a90e2/video-card.png" width=30/></td><td><a href="https://www.google.com/search?q=Nvidia+GeForce+GTX+1650&rlz=1C1CHBF_enMY920MY920&oq=Nvidia+GeForce+GTX+1650&aqs=chrome..69i57.417j0j9&sourceid=chrome&ie=UTF-8">Nvidia GeForce GTX 1650</a></td></tr>
+<!-- CPU - Central Processing Unit -->
+<tr><td><img title="CPU - Central Processing Unit" alt="CPU - Central Processing Unit" src="https://img.icons8.com/color/2x/processor.png" width=30/></td><td><a href="https://ark.intel.com/content/www/us/en/ark/products/191075/intel-core-i5-9300h-processor-8m-cache-up-to-4-10-ghz.html">Intel® Core™ i5-9300H Processor</a></td></tr>
+<!-- SSD - Solid State Drive -->
+<tr><td><img title="SSD - Solid State Drive" alt="SSD - Solid State Drive" src="https://img.icons8.com/color/2x/ssd.png" width=30/></td><td><a href="https://www.kingston.com/en/ssd/a2000-nvme-pcie-ssd?Capacity=1000GB">1TB Kingston NVMe PCIe M.2</a></td></tr>
+<!-- HDD - Hard Disk Drive -->
+<tr><td><img title="HDD - Hard Disk Drive" alt="HDD - Hard Disk Drive" src="https://img.icons8.com/color/2x/hdd.png" width=30/></td><td><a href="https://www.seagate.com/www-content/datasheets/pdfs/barracuda-2-5-DS1907-3-2005GB-en_AS.pdf">1TB Seagate SATA 2.5" 5400RPM</a></td></tr>
+<!-- RAM - Random Access Memory -->
+<tr><td><img title="RAM - Random Access Memory" alt="RAM - Random Access Memory" src="https://img.icons8.com/color/2x/4a90e2/memory-slot.png" width=30/></td><td><a href="https://www.kingston.com/dataSheets/KVR26S19D8_16.pdf">16GB DDR4 Kingston SODIMM 2666MHz</a><br><a href="https://www.kingston.com/dataSheets/KVR26S19S8_8.pdf">8GB DDR4 Kingston SODIMM 2666MHz</a></td></tr><tr>
+<!-- GPU - Graphics Processing Unit -->
+<td><img title="GPU - Graphics Processing Unit" alt="GPU - Graphics Processing Unit" src="https://img.icons8.com/color/2x/4a90e2/video-card.png" width=30/></td><td><a href="https://www.nvidia.com/en-my/geforce/graphics-cards/gtx-1650/">Nvidia GeForce GTX 1650</a></td></tr>
+<!-- Network Interface Controller -->
+<td><img title="NIC - Network Interface Controller" alt="NIC - Network Interface Controller" src="https://img.icons8.com/color/2x/4a90e2/network-card.png" width=30/></td><td><a href="https://downloadcenter.intel.com/product/99446/Intel-Wireless-AC-9560">Intel® Wireless-AC 9560 160MHz</a></td></tr>
 <!-- Monitor -->
 <td><img title="Monitor" alt="Monitor" src="https://img.icons8.com/color/2x/monitor.png" width=30/></td><td><a href="https://www.dell.com/yu/business/p/dell-p2417h-monitor/pd">Dell P2417H 24"</a></td></tr>
 <!-- Keyboard -->
@@ -65,8 +51,8 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
 <td><img title="Headset" alt="Headset" src="https://img.icons8.com/color/2x/headset.png" width=30/></td><td><a href="https://www.logitechg.com/en-my/products/gaming-audio/pro-gaming-headset.html">Logitech Pro</a></td></tr>
 <!-- Cooling Pad -->
 <td><img title="Cooling Pad" alt="Cooling Pad" src="https://img.icons8.com/color/2x/fan-speed.png" width=30/></td><td><a href="https://www.coolermaster.com/catalog/coolers/notebook-cooler/notepal-l1">Cooler Master NotePal L1 17"</a></td></tr>
-<!-- Network Attached Storage -->
-<td><img title="Network Attached Storage" alt="Network Attached Storage" src="https://img.icons8.com/color/2x/nas.png" width=30/></td>
+<!-- NAS - Network Attached Storage -->
+<td><img title="NAS - Network Attached Storage" alt="NAS - Network Attached Storage" src="https://img.icons8.com/color/2x/nas.png" width=30/></td>
 <td>
     <a href="https://www.orico.cc/us/product/detail/3573.html">Orico NS500C3 5-Bay 3.5" Type-C</a>
     <ul>
