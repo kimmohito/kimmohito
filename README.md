@@ -105,7 +105,7 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 
 
 ## 🕵️ Profile Views
-<div align="center"><img alt="Profile Views" src="https://views.whatilearened.today/views/github/kimmohito/views.svg"></div>
+<div align="center"><img alt="Profile Views" src="https://views.whatilearened.today/views/github/kimmohito/views.svg"></div><br>
 
 
 
