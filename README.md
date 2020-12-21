@@ -30,7 +30,7 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
 <!-- Desktop -->
 <tr><td><img title="Laptop" alt="Laptop" src="https://img.icons8.com/color/2x/4a90e2/laptop.png" width=30/></td><td><a href="https://www.msi.com/Laptop/GF63-Thin-9SX-GTX">MSI GF63 Thin 95c</a></td></tr>
 <!-- CPU - Central Processing Unit -->
-<tr><td><img title="CPU - Central Processing Unit" alt="CPU - Central Processing Unit" src="https://img.icons8.com/color/2x/processor.png" width=30/></td><td><a href="https://ark.intel.com/content/www/us/en/ark/products/191075/intel-core-i5-9300h-processor-8m-cache-up-to-4-10-ghz.html">Intel® Core™ i5-9300H Processor</a></td></tr>
+<tr><td><img title="CPU - Central Processing Unit" alt="CPU - Central Processing Unit" src="https://img.icons8.com/color/2x/processor.png" width=30/></td><td><a href="https://ark.intel.com/content/www/us/en/ark/products/191075/intel-core-i5-9300h-processor-8m-cache-up-to-4-10-ghz.html">Intel® Core™ i5-9300H</a></td></tr>
 <!-- SSD - Solid State Drive -->
 <tr><td><img title="SSD - Solid State Drive" alt="SSD - Solid State Drive" src="https://img.icons8.com/color/2x/ssd.png" width=30/></td><td><a href="https://www.kingston.com/en/ssd/a2000-nvme-pcie-ssd?Capacity=1000GB">1TB Kingston NVMe PCIe M.2</a></td></tr>
 <!-- HDD - Hard Disk Drive -->
