@@ -1,20 +1,39 @@
 <!--##### HEADER #####-->
 <img src="header.jpg">
-<div align="center">
+
+
 
 <!--##### ABOUT #####-->
+<div align="center">
+
 ## 🙋‍♂️ Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
+
+</div>
+
+```json
+// About me in Json
+const AboutMe = {
+    "myName" : "Kim Mohito",
+    "myAge" : 24,
+}
+```
+
+<div align="center">
 
 My name is [Kim Mohito](https://www.google.com/search?q=Kim+Mohito&rlz=1C1CHBF_enMY920MY920&oq=Kim+Mohito&aqs=chrome..69i57j69i59l3j69i64j69i61j69i60l2.279j0j9&sourceid=chrome&ie=UTF-8). I'm a certified [Network Engineer](https://www.google.com/search?q=Network+Engineer&rlz=1C1CHBF_enMY920MY920&oq=Network+Engineer&aqs=chrome..69i57j69i59j69i60.377j0j9&sourceid=chrome&ie=UTF-8) under [Cisco](https://www.google.com/search?q=Cisco&rlz=1C1CHBF_enMY920MY920&oq=Cisco&aqs=chrome..69i57j69i59l4j69i60j69i61j69i60.298j0j9&sourceid=chrome&ie=UTF-8). Currently a part-time [Web Developer](https://www.google.com/search?q=Web+Developer&rlz=1C1CHBF_enMY920MY920&oq=Web+Developer&aqs=chrome..69i57j69i64j69i60l3.238j0j9&sourceid=chrome&ie=UTF-8) and Programming Tutor, based in [Kuala Lumpur, Malaysia](https://www.google.com/search?q=Kuala+Lumpur&rlz=1C1CHBF_enMY920MY920&oq=Kuala+Lumpur&aqs=chrome..69i57j69i59j69i60l3.279j0j9&sourceid=chrome&ie=UTF-8) specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
 Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.my/electrical-engineering/diploma-in-industrial-electronics-network-security/) at [German Malaysian Institute](https://www.google.com/search?q=german+malaysian+institute&rlz=1C1CHBF_enMY920MY920&oq=german+malaysian+institute&aqs=chrome..69i57j69i61.5658j0j4&sourceid=chrome&ie=UTF-8), I pursue my [Bachelor's Degree in Network System](https://www.unikl.edu.my/programme/bachelor-of-engineering-technology-hons-in-networking-systems/) at [Universiti Kuala Lumpur MIIT](https://www.google.com/search?q=unkl+miit&rlz=1C1CHBF_enMY920MY920&oq=unkl+miit&aqs=chrome..69i57.2169j0j4&sourceid=chrome&ie=UTF-8). I started a programming community in Malaysia known as [RojakCube](https://rojakcube.com). I joined the engineering team at [SilverByte](https://silverbyte.my) where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
 <!--#### ACTIVE SOCIAL APPS #####-->
+<a href="https://kimmohito.github.io" title="Website" target="blank"><img alt="Website" src="https://img.icons8.com/color/2x/domain.png" width=30/></a>
 <a href="mailto:kimmohito@gmail.com" title="Email" target="blank"><img alt="Email" src="https://img.icons8.com/color/2x/email.png" width=30/></a>
 <a href="https://github.com/kimmohito" title="GitHub" target="blank"><img alt="GitHub" src="https://img.icons8.com/color/2x/github.png" width=30/></a>
 <a href="https://linkedin.com/in/kimmohito" title="LinkedIn" target="blank"><img alt="LinkedIn" src="https://img.icons8.com/color/2x/linkedin.png" width=30/></a>
 <a href="https://twitter.com/kimmohito" title="Twitter" target="blank"><img alt="Twitter" src="https://img.icons8.com/color/2x/twitter.png" width=30/></a>
+<a href="https://discordapp.com/users/643484888892440578" title="Discord" target="blank"><img alt="Discord" src="https://img.icons8.com/color/2x/discord-logo.png" width=30/></a>
+<a href="https://steamcommunity.com/id/kimmohito/" title="Steam" target="blank"><img alt="Steam" src="https://img.icons8.com/color/2x/steam.png" width=30/></a>
 <a href="https://facebook.com/kimmohito" title="Facebook" target="blank"><img alt="Facebook" src="https://img.icons8.com/color/2x/facebook.png" width=30/></a>
+<a href="https://vk.com/kimmohito" title="VKontakte" target="blank"><img alt="VKontakte" src="https://img.icons8.com/color/2x/vkontakte.png" width=30/></a>
 <a href="https://instagram.com/kimmohito" title="Instagram" target="blank"><img alt="Instagram" src="https://img.icons8.com/color/2x/instagram.png" width=30/></a>
 <a href="https://www.youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA" title="YouTube" target="blank"><img alt="YouTube" src="https://img.icons8.com/color/2x/play-button.png" width=30/></a>
 <a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/color/2x/codepen.png" width=30/></a>
@@ -27,9 +46,9 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
 <!-- CPU -->
 <tr><td><img title="CPU" alt="CPU" src="https://img.icons8.com/color/2x/processor.png" width=30/></td><td><a href="https://ark.intel.com/content/www/us/en/ark/products/191075/intel-core-i5-9300h-processor-8m-cache-up-to-4-10-ghz.html">Intel® Core™ i5-9300H Processor</a></td></tr>
 <!-- SSD -->
-<tr><td><img title="SSD" alt="SSD" src="https://img.icons8.com/color/2x/ssd.png" width=30/></td><td><a href="https://www.kingston.com/en/ssd/a2000-nvme-pcie-ssd?Capacity=1000GB">1TB Kingston A2000 NVMe PCIe SSD</a></td></tr>
+<tr><td><img title="SSD" alt="SSD" src="https://img.icons8.com/color/2x/ssd.png" width=30/></td><td><a href="https://www.kingston.com/en/ssd/a2000-nvme-pcie-ssd?Capacity=1000GB">1TB Kingston NVMe PCIe M.2</a></td></tr>
 <!-- HDD -->
-<tr><td><img title="HDD" alt="HDD" src="https://img.icons8.com/color/2x/hdd.png" width=30/></td><td><a href="https://www.seagate.com/www-content/datasheets/pdfs/barracuda-2-5-DS1907-3-2005GB-en_AS.pdf">1TB Seagate Barracuda SATA 2.5" 5400RPM</a></td></tr>
+<tr><td><img title="HDD" alt="HDD" src="https://img.icons8.com/color/2x/hdd.png" width=30/></td><td><a href="https://www.seagate.com/www-content/datasheets/pdfs/barracuda-2-5-DS1907-3-2005GB-en_AS.pdf">1TB Seagate SATA 2.5" 5400RPM</a></td></tr>
 <!-- RAM-->
 <tr><td><img title="RAM" alt="RAM" src="https://img.icons8.com/color/2x/4a90e2/memory-slot.png" width=30/></td><td><a href="https://www.kingston.com/dataSheets/KVR26S19D8_16.pdf">16GB DDR4 Kingston SODIMM 2666MHz</a><br><a href="https://www.kingston.com/dataSheets/KVR26S19S8_8.pdf">8GB DDR4 Kingston SODIMM 2666MHz</a></td></tr><tr>
 <!-- GPU -->
@@ -59,34 +78,70 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
         <a href="https://www.microsoft.com/en-us/p/windows-10-pro/df77x4d43rkt" title="Operating System" target="blank"><img alt="Operating System" src="https://img.icons8.com/color/2x/windows8.png" width=30/></a>
         <!-- Linux -->
         <a href="" title="Linux" target="blank"><img alt="Linux" src="https://img.icons8.com/color/2x/linux.png" width=30/></a>
+        <!-- Kali -->
+        <a href="" title="Kali" target="blank"><img alt="Kali" src="https://img.icons8.com/color/2x/kali-linux.png" width=30/></a>
+        <!-- Ubuntu -->
+        <a href="" title="Ubuntu" target="blank"><img alt="Ubuntu" src="https://img.icons8.com/color/2x/ubuntu.png" width=30/></a>
         <!-- Debian -->
         <a href="" title="Debian" target="blank"><img alt="Debian" src="https://img.icons8.com/color/2x/debian.png" width=30/></a>
+        <!-- RedHat -->
+        <a href="" title="RedHat" target="blank"><img alt="RedHat" src="https://img.icons8.com/color/2x/red-hat.png" width=30/></a>
+        <!-- CentOS -->
+        <a href="" title="CentOS" target="blank"><img alt="CentOS" src="https://img.icons8.com/color/2x/centos.png" width=30/></a>
+        <!-- LinuxMint -->
+        <a href="" title="LinuxMint" target="blank"><img alt="LinuxMint" src="https://img.icons8.com/color/2x/linux-mint.png" width=30/></a>
+        <!-- Suse -->
+        <a href="" title="Suse" target="blank"><img alt="Suse" src="https://img.icons8.com/color/2x/suse.png" width=30/></a>
+        <!-- Android -->
+        <a href="" title="Android" target="blank"><img alt="Android" src="https://img.icons8.com/color/2x/android-os.png" width=30/></a>
+        <!-- Raspberry Pi -->
+        <a href="" title="Raspberry Pi" target="blank"><img alt="Raspberry Pi" src="https://img.icons8.com/color/2x/raspberry-pi.png" width=30/></a>
     </td>
 </tr>
 
 <tr>
     <td>
         <!-- Editor -->
-        <a href="" title="Editor" target="blank"><img alt="Editor" src="https://img.icons8.com/color/2x/design.png" width=30/></a>
+        <a href="#" title="Editor" target="blank"><img alt="Editor" src="https://img.icons8.com/color/2x/design.png" width=30/></a>
     </td>
     <td>
-        <!-- Windows -->
-        <a href="" title="Visual Studio Code" target="blank"><img alt="Visual Studio Code" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" width=30/></a>
-        <br>
         <!-- Adobe Photoshop -->
         <a href="" title="Adobe Photoshop" target="blank"><img alt="Adobe Photoshop" src="https://img.icons8.com/color/2x/adobe-photoshop.png" width=30/></a>
+        <!-- Adobe Illustrator -->
+        <a href="" title="Adobe Illustrator" target="blank"><img alt="Adobe Illustrator" src="https://img.icons8.com/color/2x/adobe-illustrator.png" width=30/></a>
+        <!-- Adobe Xd -->
+        <a href="" title="Adobe Xd" target="blank"><img alt="Adobe Xd" src="https://img.icons8.com/color/2x/adobe-xd.png" width=30/></a>
+        <!-- Adobe Dreamweaver -->
+        <a href="" title="Adobe Dreamweaver" target="blank"><img alt="Adobe Dreamweaver" src="https://img.icons8.com/color/2x/adobe-dreamweaver.png" width=30/></a>
         <br>
         <!-- Microsoft Word -->
         <a href="" title="Microsoft Word" target="blank"><img alt="Microsoft Word" src="https://img.icons8.com/color/2x/microsoft-word-2019.png" width=30/></a>
         <!-- Microsoft Excel -->
         <a href="" title="Microsoft Excel" target="blank"><img alt="Microsoft Exel" src="https://img.icons8.com/color/2x/microsoft-excel-2019.png" width=30/></a>
+        <!-- Microsoft Access -->
+        <a href="" title="Microsoft Access" target="blank"><img alt="Microsoft Access" src="https://img.icons8.com/color/2x/microsoft-access-2019.png" width=30/></a>
+        <!-- Microsoft Powerpoint -->
+        <a href="" title="Microsoft Powerpoint" target="blank"><img alt="Microsoft Powerpoint" src="https://img.icons8.com/color/2x/microsoft-powerpoint-2019.png" width=30/></a>
+        <!-- Microsoft Publisher -->
+        <a href="" title="Microsoft Publisher" target="blank"><img alt="Microsoft Publisher" src="https://img.icons8.com/color/2x/microsoft-publisher-2019.png" width=30/></a>
+        <!-- Microsoft Visio -->
+        <a href="" title="Microsoft Visio" target="blank"><img alt="Microsoft Visio" src="https://img.icons8.com/color/2x/microsoft-visio-2019.png" width=30/></a>
+        <!-- Microsoft Project -->
+        <a href="" title="Microsoft Project" target="blank"><img alt="Microsoft Project" src="https://img.icons8.com/color/2x/microsoft-project-2019.png" width=30/></a>
+        <!-- Microsoft Teams -->
+        <a href="" title="Microsoft Teams" target="blank"><img alt="Microsoft Teams" src="https://img.icons8.com/color/2x/microsoft-team-2019.png" width=30/></a>
+        <br>
+        <!-- Visual Studio Code -->
+        <a href="" title="Visual Studio Code" target="blank"><img alt="Visual Studio Code" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" width=30/></a>
+        <!-- Atom -->
+        <a href="https://atom.io" title="Atom" target="blank"><img alt="Atom" src="https://img.icons8.com/color/2x/atom-editor.png" width=30/></a>
     </td>
 </tr>
 
 <tr>
     <td>
-        <!-- Language -->
-        <a href="" title="Language" target="blank"><img alt="Language" src="https://img.icons8.com/color/2x/code-file.png" width=30/></a>
+        <!-- Programming Language -->
+        <a href="" title="Programming Language" target="blank"><img alt="Programming Language" src="https://img.icons8.com/color/2x/code-file.png" width=30/></a>
     </td>
     <td>
         <!-- HTML5 -->
@@ -115,30 +170,9 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
 
 </table>
 
-## 🦸 My Hobbies & interest
+## 🦸 My Hobbies & Interest
 
 
-### Skills
-<img alt="Ps" src="https://img.icons8.com/color/2x/adobe-photoshop.png" width=30/>
-<img alt="Ai" src="https://img.icons8.com/color/2x/adobe-illustrator.png" width=30/>
-<img alt="Xd" src="https://img.icons8.com/color/2x/adobe-xd.png" width=30/>
-<img alt="Dw" src="https://img.icons8.com/color/2x/adobe-dreamweaver.png" width=30/>
-
-<img alt="Ms Word" src="https://img.icons8.com/color/2x/microsoft-word-2019.png" width=30/>
-
-
-
-
-### Languages
-<img alt="Ai" src="https://img.icons8.com/color/2x/html-5.png" width=30/>
-<img alt="Ai" src="https://img.icons8.com/color/2x/css3.png" width=30/>
-<img alt="Ai" src="https://img.icons8.com/color/2x/javascript.png" width=30/>
-<img alt="Ai" src="https://img.icons8.com/color/2x/java.png" width=30/>
-
-<img alt="Ai" src="https://img.icons8.com/color/2x/php.png" width=30/>
-
-
-### Hobbies & Interest
 <a href="" title="Coding" target="blank"><img alt="Coding" src="https://img.icons8.com/color/2x/code.png" width=30/></a>
 <a href="#" title="Chess" target="blank"><img alt="Chess" src="https://img.icons8.com/color/2x/piano.png" width=30/></a>
 <a href="https://www.chess.com/member/kimmohito" title="Chess" target="blank"><img alt="Chess" src="https://img.icons8.com/color/2x/pawn.png" width=30/></a>
