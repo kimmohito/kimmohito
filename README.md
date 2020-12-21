@@ -13,10 +13,10 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 
 
 
-
-## 🙋‍♂️ Catch me on
-
 <div align="center">
+
+### 🙋‍♂️ Catch me on
+
 <a href="https://kimmohito.github.io" title="Website" target="blank"><img alt="Website" src="https://img.icons8.com/ios/2x/domain.png" height=30/></a>
 <a href="mailto:kimmohito@gmail.com" title="Email" target="blank"><img alt="Email" src="https://img.icons8.com/ios/2x/email.png" height=30/></a>
 <a href="https://linkedin.com/in/kimmohito" title="LinkedIn" target="blank"><img alt="LinkedIn" src="https://img.icons8.com/ios/2x/linkedin.png" height=30/></a>
@@ -35,9 +35,10 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 
 
 
-## 👷 Tools & Tech
-
 <div align="center">
+
+### 👷 Tools & Tech
+
 <!-- Operating System -->
 <a href="" title="Windows" target="blank"><img alt="Windows" src="https://img.icons8.com/ios/2x/windows8.png" height=30></a>
 <a href="" title="MacOS" target="blank"><img alt="MacOS" src="https://img.icons8.com/ios/2x/mac-os.png" height=30></a>
