@@ -1,5 +1,5 @@
 <!--##### HEADER #####-->
-<img src="headr.jpg">
+<img src="banner.jpg">
 
 <!--##### ABOUT #####-->
 <div align="center">
