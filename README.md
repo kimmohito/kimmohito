@@ -1,16 +1,46 @@
+<!--##### HEADER #####-->
 <img src="header.jpg">
 
 
-
-
-
+<!--##### ABOUT #####-->
 ## 👨‍💻 Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
 
 My name is [Kim Mohito](https://kimmohito.github.io). I'm a certified [Network Engineer](#) by [Cisco](#), networking hardware company. Currently a part-time Web Developer and Programming Tutor, based in [Kuala Lumpur, Malaysia](https://www.google.com/maps/place/Kuala+Lumpur,+Federal+Territory+of+Kuala+Lumpur/data=!4m2!3m1!1s0x31cc49c701efeae7:0xf4d98e5b2f1c287d?sa=X&ved=2ahUKEwjp2te69e_sAhWozTgGHbhjCasQ8gEwK3oECAwQAQ) specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
 Shortly after graduating from [Diploma in Network Security](#) at [German Malaysian Institute](#), I pursue my [Degree in Network System](#) at [Universiti Kuala Lumpur MIIT](https://www.unikl.edu.my). I started a programming community in Malaysia known as [RojakCube](https://rojakcube.com). I joined the engineering team at [SilverByte](https://silverbyte.my) where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
+
+<!--##### RIGS A& GEARS #####-->
 <div align="center">
+
+## 👷 My RIGs & Gears
+<table>
+<!-- Desktop -->
+<tr><td><img title="Laptop" alt="Laptop" src="https://img.icons8.com/color/2x/4a90e2/laptop.png" width=20/></td><td><a href="https://www.google.com/search?q=MSI+GF63+Thin+95c&rlz=1C1CHBF_enMY920MY920&oq=MSI+GF63+Thin+95c&aqs=chrome..69i57.300j0j9&sourceid=chrome&ie=UTF-8">MSI GF63 Thin 95c</a></td></tr>
+<!-- CPU -->
+<tr><td><img title="CPU" alt="CPU" src="https://img.icons8.com/color/2x/processor.png" width=20/></td><td><a href="https://www.google.com/search?q=Intel+Core+i5-9300h+2.40GHz&rlz=1C1CHBF_enMY920MY920&oq=Intel+Core+i5-9300h+2.40GHz&aqs=chrome..69i57.553j0j9&sourceid=chrome&ie=UTF-8">Intel Core i5-9300h 2.40GHz</a></td></tr>
+<!-- SSD -->
+<tr><td><img title="SSD" alt="SSD" src="https://img.icons8.com/color/2x/ssd.png" width=20/></td><td><a href="https://www.google.com/search?q=1TB+Kingston+NVMe+M.2&rlz=1C1CHBF_enMY920MY920&oq=1TB+Kingston+NVMe+M.2&aqs=chrome..69i57j69i60j69i61.294j0j4&sourceid=chrome&ie=UTF-8">1TB Kingston NVMe M.2</a></td></tr>
+<!-- HDD -->
+<tr><td><img title="HDD" alt="HDD" src="https://img.icons8.com/color/2x/hdd.png" width=20/></td><td><a href="https://www.google.com/search?q=1TB+Seagate+SATA+2.5%22+5400RPM&rlz=1C1CHBF_enMY920MY920&oq=1TB+Seagate+SATA+2.5%22+5400RPM&aqs=chrome..69i57.608j0j9&sourceid=chrome&ie=UTF-8">1TB Seagate SATA 2.5" 5400RPM</a></td></tr>
+<!-- RAM-->
+<tr><td><img title="RAM" alt="RAM" src="https://img.icons8.com/color/2x/4a90e2/memory-slot.png" width=20/></td><td><a href="https://www.google.com/search?q=16GB+DDR4+Kingston+SODIMM+2666MHz&rlz=1C1CHBF_enMY920MY920&oq=16GB+DDR4+Kingston+SODIMM+2666MHz&aqs=chrome..69i57j69i60.491j0j9&sourceid=chrome&ie=UTF-8">16GB DDR4 Kingston SODIMM 2666MHz</a><br><a href="https://www.google.com/search?q=8GB+DDR4+Kingston+SODIMM+2666MHz&rlz=1C1CHBF_enMY920MY920&oq=8GB+DDR4+Kingston+SODIMM+2666MHz&aqs=chrome..69i57j69i61j69i60.300j0j9&sourceid=chrome&ie=UTF-8">8GB DDR4 Kingston SODIMM 2666MHz</a></td></tr><tr>
+<!-- GPU -->
+<td><img title="GPU" alt="GPU" src="https://img.icons8.com/color/2x/4a90e2/video-card.png" width=20/></td><td><a href="https://www.google.com/search?q=Nvidia+GeForce+GTX+1650&rlz=1C1CHBF_enMY920MY920&oq=Nvidia+GeForce+GTX+1650&aqs=chrome..69i57.417j0j9&sourceid=chrome&ie=UTF-8">Nvidia GeForce GTX 1650</a></td></tr>
+<!-- Monitor -->
+<td><img title="Monitor" alt="Monitor" src="https://img.icons8.com/color/2x/monitor.png" width=20/></td><td><a href="https://www.google.com/search?q=Dell+P2417H+24%22+HDMI&rlz=1C1CHBF_enMY920MY920&oq=Dell+P2417H+24%22+HDMI&aqs=chrome..69i57.320j0j9&sourceid=chrome&ie=UTF-8">Dell P2417H 24" HDMI</a></td></tr>
+<!-- Keyboard -->
+<td><img title="Keyboard" alt="Keyboard" src="https://img.icons8.com/color/2x/keyboard.png" width=20/></td><td><a href="https://www.google.com/search?q=MSI+GK701&rlz=1C1CHBF_enMY920MY920&oq=MSI+GK701&aqs=chrome..69i57.358j0j9&sourceid=chrome&ie=UTF-8">MSI GK701</a></td></tr>
+<!-- Mouse -->
+<td><img title="Mouse" alt="Mouse" src="https://img.icons8.com/color/2x/4a90e2/mouse.png" width=20/></td><td><a href="https://www.google.com/search?q=Logitech+G502+Hero&rlz=1C1CHBF_enMY920MY920&oq=Logitech+G502+Hero&aqs=chrome..69i57j69i59l3j69i60l3.406j0j9&sourceid=chrome&ie=UTF-8">Logitech G502 Hero</a></td></tr>
+<!-- Cooling Pad-->
+<td><img title="Cooling Pad" alt="Cooling Pad" src="https://img.icons8.com/color/2x/fan-speed.png" width=20/></td><td><a href="https://www.google.com/search?q=Cooler+Master+NotePal+L1+17%22&rlz=1C1CHBF_enMY920MY920&oq=Cooler+Master+NotePal+L1+17%22&aqs=chrome..69i57j69i60l2.348j0j9&sourceid=chrome&ie=UTF-8">Cooler Master NotePal L1 17"</a></td></tr>
+<!-- Cooling Pad-->
+<td><img title="Operating System" alt="Operating System" src="https://img.icons8.com/color/2x/operating-system.png" width=20/></td><td><a href="https://www.google.com/search?q=Windows+10+Pro&rlz=1C1CHBF_enMY920MY920&oq=Windows+10+Pro&aqs=chrome..69i57j69i61j69i60l2.404j0j9&sourceid=chrome&ie=UTF-8">Windows 10 Pro</a></td></tr>
+</table>
+
+
+
 
 ### 🙋‍♂️ Catch me on
 
@@ -20,33 +50,6 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 <a href="https://twitter.com/kimmohito" title="Twitter" target="blank"><img alt="Twitter" src="https://img.icons8.com/color/2x/twitter.png" width=30/></a>
 <a href="https://youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA" title="YouTube" target="blank"><img alt="YouTube" src="https://img.icons8.com/color/2x/play-button.png" width=30/></a>
 <a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/color/2x/codepen.png" width=30/></a>
-
-
-### 👷 My RIGs & Gears
-<table>
-<!-- Desktop -->
-<tr><td><img title="Laptop" alt="Laptop" src="https://img.icons8.com/color/2x/4a90e2/laptop.png" width=30/></td><td><a href="https://www.google.com/search?q=MSI+GF63+Thin+95c&rlz=1C1CHBF_enMY920MY920&oq=MSI+GF63+Thin+95c&aqs=chrome..69i57.300j0j9&sourceid=chrome&ie=UTF-8">MSI GF63 Thin 95c</a></td></tr>
-<!-- CPU -->
-<tr><td><img title="CPU" alt="CPU" src="https://img.icons8.com/color/2x/processor.png" width=30/></td><td><a href="https://www.google.com/search?q=Intel+Core+i5-9300h+2.40GHz&rlz=1C1CHBF_enMY920MY920&oq=Intel+Core+i5-9300h+2.40GHz&aqs=chrome..69i57.553j0j9&sourceid=chrome&ie=UTF-8">Intel Core i5-9300h 2.40GHz</a></td></tr>
-<!-- SSD -->
-<tr><td><img title="SSD" alt="SSD" src="https://img.icons8.com/color/2x/ssd.png" width=30/></td><td><a href="https://www.google.com/search?q=1TB+Kingston+NVMe+M.2&rlz=1C1CHBF_enMY920MY920&oq=1TB+Kingston+NVMe+M.2&aqs=chrome..69i57j69i60j69i61.294j0j4&sourceid=chrome&ie=UTF-8">1TB Kingston NVMe M.2</a></td></tr>
-<!-- HDD -->
-<tr><td><img title="HDD" alt="HDD" src="https://img.icons8.com/color/2x/hdd.png" width=30/></td><td><a href="https://www.google.com/search?q=1TB+Seagate+SATA+2.5%22+5400RPM&rlz=1C1CHBF_enMY920MY920&oq=1TB+Seagate+SATA+2.5%22+5400RPM&aqs=chrome..69i57.608j0j9&sourceid=chrome&ie=UTF-8">1TB Seagate SATA 2.5" 5400RPM</a></td></tr>
-<!-- RAM-->
-<tr><td><img title="RAM" alt="RAM" src="https://img.icons8.com/color/2x/4a90e2/memory-slot.png" width=30/></td><td><a href="https://www.google.com/search?q=16GB+DDR4+Kingston+SODIMM+2666MHz&rlz=1C1CHBF_enMY920MY920&oq=16GB+DDR4+Kingston+SODIMM+2666MHz&aqs=chrome..69i57j69i60.491j0j9&sourceid=chrome&ie=UTF-8">16GB DDR4 Kingston SODIMM 2666MHz</a><br><a href="https://www.google.com/search?q=8GB+DDR4+Kingston+SODIMM+2666MHz&rlz=1C1CHBF_enMY920MY920&oq=8GB+DDR4+Kingston+SODIMM+2666MHz&aqs=chrome..69i57j69i61j69i60.300j0j9&sourceid=chrome&ie=UTF-8">8GB DDR4 Kingston SODIMM 2666MHz</a></td></tr><tr>
-<!-- GPU -->
-<td><img title="GPU" alt="GPU" src="https://img.icons8.com/color/2x/4a90e2/video-card.png" width=30/></td><td><a href="https://www.google.com/search?q=Nvidia+GeForce+GTX+1650&rlz=1C1CHBF_enMY920MY920&oq=Nvidia+GeForce+GTX+1650&aqs=chrome..69i57.417j0j9&sourceid=chrome&ie=UTF-8">Nvidia GeForce GTX 1650</a></td></tr>
-<!-- Monitor -->
-<td><img title="Monitor" alt="Monitor" src="https://img.icons8.com/color/2x/monitor.png" width=30/></td><td><a href="https://www.google.com/search?q=Dell+P2417H+24%22+HDMI&rlz=1C1CHBF_enMY920MY920&oq=Dell+P2417H+24%22+HDMI&aqs=chrome..69i57.320j0j9&sourceid=chrome&ie=UTF-8">Dell P2417H 24" HDMI</a></td></tr>
-<!-- Keyboard -->
-<td><img title="Keyboard" alt="Keyboard" src="https://img.icons8.com/color/2x/keyboard.png" width=30/></td><td><a href="https://www.google.com/search?q=MSI+GK701&rlz=1C1CHBF_enMY920MY920&oq=MSI+GK701&aqs=chrome..69i57.358j0j9&sourceid=chrome&ie=UTF-8">MSI GK701</a></td></tr>
-<!-- Mouse -->
-<td><img title="Mouse" alt="Mouse" src="https://img.icons8.com/color/2x/4a90e2/mouse.png" width=30/></td><td><a href="https://www.google.com/search?q=Logitech+G502+Hero&rlz=1C1CHBF_enMY920MY920&oq=Logitech+G502+Hero&aqs=chrome..69i57j69i59l3j69i60l3.406j0j9&sourceid=chrome&ie=UTF-8">Logitech G502 Hero</a></td></tr>
-<!-- Cooling Pad-->
-<td><img title="Cooling Pad" alt="Cooling Pad" src="https://img.icons8.com/color/2x/fan-speed.png" width=30/></td><td><a href="https://www.google.com/search?q=Cooler+Master+NotePal+L1+17%22&rlz=1C1CHBF_enMY920MY920&oq=Cooler+Master+NotePal+L1+17%22&aqs=chrome..69i57j69i60l2.348j0j9&sourceid=chrome&ie=UTF-8">Cooler Master NotePal L1 17"</a></td></tr>
-<!-- Cooling Pad-->
-<td><img title="Operating System" alt="Operating System" src="https://img.icons8.com/color/2x/operating-system.png" width=30/></td><td><a href="https://www.google.com/search?q=Windows+10+Pro&rlz=1C1CHBF_enMY920MY920&oq=Windows+10+Pro&aqs=chrome..69i57j69i61j69i60l2.404j0j9&sourceid=chrome&ie=UTF-8">Windows 10 Pro</a></td></tr>
-</table>
 
 
 ### Skills
