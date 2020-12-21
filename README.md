@@ -4,28 +4,137 @@
 
 
 
-## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24">
+## 👨‍💻 Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24">
 
 My name is [Kim Mohito](https://kimmohito.github.io). I'm a certified [Network Engineer](#) by [Cisco](#), networking hardware company. Currently a part-time Web Developer and Programming Tutor, based in [Kuala Lumpur, Malaysia](https://www.google.com/maps/place/Kuala+Lumpur,+Federal+Territory+of+Kuala+Lumpur/data=!4m2!3m1!1s0x31cc49c701efeae7:0xf4d98e5b2f1c287d?sa=X&ved=2ahUKEwjp2te69e_sAhWozTgGHbhjCasQ8gEwK3oECAwQAQ) specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
 Shortly after graduating from [Diploma in Network Security](#) at [German Malaysian Institute](#), I pursue my [Degree in Network System](#) at [Universiti Kuala Lumpur MIIT](https://www.unikl.edu.my). I started a programming community in Malaysia known as [RojakCube](https://rojakcube.com). I joined the engineering team at [SilverByte](https://silverbyte.my) where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
-
-
-
 <div align="center">
 
 ### 🙋‍♂️ Catch me on
 
-<a href="https://kimmohito.github.io" title="Website" target="blank"><img alt="Website" src="https://img.icons8.com/ios/2x/domain.png" height=30/></a>
+<a href="https://kimmohito.github.io" title="Website" target="blank"><img alt="Website" src="https://img.icons8.com/color/2x/domain.png" height=30/></a>
+<a href="https://github.com/kimmohito" title="GitHub" target="blank"><img alt="GitHub" src="https://img.icons8.com/color/2x/github.png" height=30/></a>
+<a href="https://linkedin.com/in/kimmohito" title="LinkedIn" target="blank"><img alt="LinkedIn" src="https://img.icons8.com/color/2x/linkedin.png" height=30/></a>
+<a href="https://twitter.com/kimmohito" title="Twitter" target="blank"><img alt="Twitter" src="https://img.icons8.com/color/2x/twitter.png" height=30/></a>
+<a href="https://youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA" title="YouTube" target="blank"><img alt="YouTube" src="https://img.icons8.com/color/2x/play-button.png" height=30/></a>
+<a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/color/2x/codepen.png" height=30/></a>
+
+
+### 👷 My RIGs & Gears
+<table>
+<!-- Desktop -->
+<tr><td><img title="Laptop" alt="Laptop" src="https://img.icons8.com/color/2x/4a90e2/laptop.png" height=30/></td><td><a href="https://www.google.com/search?rlz=1C1CHBF_enMY920MY920&biw=1536&bih=792&sxsrf=ALeKk02rdiwr2q5XFZdddwQzO6JSEOV4TQ%3A1608543505804&ei=EW3gX8_NMIyY4-EPzoK40Ao&q=MSI+GF63+Thin+95c&oq=MSI+GF63+Thin+95c&gs_lcp=CgZwc3ktYWIQAzIFCAAQyQMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BAgAEEdQxURYxURgmUZoAHACeACAAT-IAT-SAQExmAEAoAECoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=psy-ab&ved=0ahUKEwiPmpPC497tAhUMzDgGHU4BDqoQ4dUDCA0&uact=5">MSI GF63 Thin 95c</a></td></tr>
+<!-- CPU -->
+<tr><td><img title="CPU" alt="CPU" src="https://img.icons8.com/color/2x/processor.png" height=30/></td><td><a href="https://www.google.com/search?rlz=1C1CHBF_enMY920MY920&biw=1536&bih=792&sxsrf=ALeKk01JgcShX6LHWm27BSMk3EqRuKC6cg%3A1608543477710&ei=9WzgX7T1KtWE4-EP_Oay6Ac&q=Intel+Core+i5-9300h+2.40GHz&oq=Intel+Core+i5-9300h+2.40GHz&gs_lcp=CgZwc3ktYWIQAzIECCMQJzIJCAAQyQMQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIABBHUL7TAVi-0wFgjNYBaABwAngAgAE9iAE9kgEBMZgBAKABAqABAaoBB2d3cy13aXrIAQjAAQE&sclient=psy-ab&ved=0ahUKEwj0w-C0497tAhVVwjgGHXyzDH0Q4dUDCA0&uact=5">Intel Core i5-9300h 2.40GHz</a></td></tr>
+<!-- SSD -->
+<tr><td><img title="SSD" alt="SSD" src="https://img.icons8.com/color/2x/ssd.png" height=30/></td><td><a href="https://www.google.com/search?q=Kingston+1TB+NVMe+M.2&rlz=1C1CHBF_enMY920MY920&oq=Kingston+1TB+NVMe+M.2&aqs=chrome..69i57j69i60j69i61.618j0j4&sourceid=chrome&ie=UTF-8">Kingston 1TB NVMe M.2</a></td></tr>
+<!-- HDD -->
+<tr><td><img title="HDD" alt="HDD" src="https://img.icons8.com/color/2x/hdd.png" height=30/></td><td><a href="https://www.google.com/search?rlz=1C1CHBF_enMY920MY920&biw=1536&bih=792&sxsrf=ALeKk02QduIDn0S77NEhvVQ1Q9pyA2zTaA%3A1608543551829&ei=P23gX8ecMvmF4-EPhOGr6AE&q=Seagate+1TB+SATA+2.5%22+5400RPM&oq=Seagate+1TB+SATA+2.5%22+5400RPM&gs_lcp=CgZwc3ktYWIQAzIJCAAQyQMQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BAgAEEdQtoMCWLaDAmCKhQJoAHACeACAAVeIAVeSAQExmAEAoAECoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=psy-ab&ved=0ahUKEwiHuIzY497tAhX5wjgGHYTwCh0Q4dUDCA0&uact=5">Seagate 1TB SATA 2.5" 5400RPM</a></td></tr>
+<!-- RAM-->
+<tr><td><img title="RAM" alt="RAM" src="https://img.icons8.com/color/2x/4a90e2/memory-slot.png" height=30/></td><td><a href="https://www.google.com/search?rlz=1C1CHBF_enMY920MY920&biw=1536&bih=792&sxsrf=ALeKk02tDItYAxTUEDohAQ8mzmPJxUNoYg%3A1608543585993&ei=YW3gX6eZPPOY4-EP3c-yqA0&q=16GB+DDR4+Kingston+SODIMM+2666MHz&oq=16GB+DDR4+Kingston+SODIMM+2666MHz&gs_lcp=CgZwc3ktYWIQAzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQR1Cg6gVYoOoFYJHsBWgAcAJ4AIABAIgBAJIBAJgBAKABAqABAaoBB2d3cy13aXrIAQjAAQE&sclient=psy-ab&ved=0ahUKEwjnzbHo497tAhVzzDgGHd2nDNUQ4dUDCA0&uact=5">16GB DDR4 Kingston SODIMM 2666MHz</a><br><a href="https://www.google.com/search?rlz=1C1CHBF_enMY920MY920&biw=1536&bih=792&sxsrf=ALeKk00DKOUkyqQqDOZpGt5qFqeZ7fl_AA%3A1608543682493&ei=wm3gX4_bHa6e4-EPj4iaEA&q=8GB+DDR4+Kingston+SODIMM+2666MHz&oq=8GB+DDR4+Kingston+SODIMM+2666MHz&gs_lcp=CgZwc3ktYWIQAzIJCAAQyQMQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BAgAEEdQl54BWJeeAWCYoAFoAHACeACAAVaIAVaSAQExmAEAoAECoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=psy-ab&ved=0ahUKEwiPxLOW5N7tAhUuzzgGHQ-EBgIQ4dUDCA0&uact=5">8GB DDR4 Kingston SODIMM 2666MHz</a></td></tr><tr>
+<!-- GPU -->
+<td><img title="GPU" alt="GPU" src="https://img.icons8.com/color/2x/4a90e2/video-card.png" height=30/></td><td><a href="https://www.google.com/search?rlz=1C1CHBF_enMY920MY920&biw=1536&bih=792&sxsrf=ALeKk03WR1AnSzid3OmTE44Et5_7odpBxA%3A1608543703813&ei=123gX4WfMfmb4-EP74-0gAM&q=Nvidia+GeForce+GTX+1650&oq=Nvidia+GeForce+GTX+1650&gs_lcp=CgZwc3ktYWIQAzIFCAAQyQMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BAgAEEdQ7JMBWOyTAWCelQFoAHACeACAAWCIAWCSAQExmAEAoAECoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=psy-ab&ved=0ahUKEwjF5sig5N7tAhX5zTgGHe8HDTAQ4dUDCA0&uact=5">Nvidia GeForce GTX 1650</a></td></tr>
+<!-- Monitor -->
+<td><img title="Monitor" alt="Monitor" src="
+https://img.icons8.com/color/2x/monitor.png" height=30/></td><td><a href="https://www.google.com/search?rlz=1C1CHBF_enMY920MY920&biw=1536&bih=792&sxsrf=ALeKk02UMe0yx-AAOXikf7BKRVZrLUJ7Rw%3A1608543838256&ei=Xm7gX-qhD_qF4-EPlqauoAE&q=Dell+P2417H+24%22+HDMI&oq=Dell+P2417H+24%22+HDMI&gs_lcp=CgZwc3ktYWIQAzIGCAAQCBAeMgYIABAIEB46BAgAEEc6BggAEAcQHjoICAAQCBAHEB46AggAOgQIABAeUM1QWIVvYOVwaABwA3gAgAFiiAH0ApIBATaYAQCgAQGgAQKqAQdnd3Mtd2l6yAEIwAEB&sclient=psy-ab&ved=0ahUKEwjqyNbg5N7tAhX6wjgGHRaTCxQQ4dUDCA0&uact=5">Dell P2417H 24" HDMI</a></td></tr>
+<!-- Keyboard -->
+<td><img title="Keyboard" alt="Keyboard" src="
+https://img.icons8.com/color/2x/keyboard.png" height=30/></td><td><a href="https://www.google.com/search?rlz=1C1CHBF_enMY920MY920&biw=1536&bih=792&sxsrf=ALeKk02NUQZhzhY0GK0WW58QX-rsWI-Rtg%3A1608543949376&ei=zW7gX87KFuuO4-EPgeCNIA&q=MSI+GK701&oq=MSI+GK701&gs_lcp=CgZwc3ktYWIQDDIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQR1AAWABgk6MEaABwAngAgAEAiAEAkgEAmAEAqgEHZ3dzLXdpesgBCMABAQ&sclient=psy-ab&ved=0ahUKEwiO5dSV5d7tAhVrxzgGHQFwAwQQ4dUDCA0">MSI GK701</a></td></tr>
+<!-- Mouse -->
+<td><img title="Mouse" alt="Mouse" src="https://img.icons8.com/color/2x/4a90e2/mouse.png" height=30/></td><td><a href="https://www.google.com/search?rlz=1C1CHBF_enMY920MY920&biw=1536&bih=792&sxsrf=ALeKk02d_BunpesYLA9QBEq36Zaa_5fm9Q%3A1608544020308&ei=FG_gX82uEs-E4-EPnPm5-AE&q=Logitech+G502+Hero&oq=Logitech+G502+Hero&gs_lcp=CgZwc3ktYWIQAzIECCMQJzIFCAAQyQMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIAFCUtQFYlLUBYOO2AWgAcAF4AIABXIgBXJIBATGYAQCgAQKgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwjNiL635d7tAhVPwjgGHZx8Dh8Q4dUDCA0&uact=5">Logitech G502 Hero</a></td></tr>
+<!-- Cooling Pad-->
+<td><img title="Cooling Pad" alt="Cooling Pad" src="https://img.icons8.com/color/2x/fan-speed.png" height=30/></td><td><a href="https://www.google.com/search?q=Cooler+Master+NotePal+L1+17%22&source=lmns&bih=792&biw=1536&rlz=1C1CHBF_enMY920MY920&hl=en&sa=X&ved=2ahUKEwik1dDW5d7tAhVPXX0KHVr6DAUQ_AUoAHoECAEQAA">Cooler Master NotePal L1 17"</a></td></tr>
+<!-- Cooling Pad-->
+<td><img title="Operating System" alt="Operating System" src="https://img.icons8.com/color/2x/operating-system.png" height=30/></td><td><a href="https://www.google.com/search?bih=792&biw=1536&rlz=1C1CHBF_enMY920MY920&hl=en&sxsrf=ALeKk00F_yN7I3piUoP4Afxiy-sVVGaNWQ%3A1608544088712&ei=WG_gX7KIK8LE4-EPwKe7iAQ&q=windows+10+pro&oq=windows+10+pro&gs_lcp=CgZwc3ktYWIQAzILCAAQsQMQyQMQkQIyBQgAEJECMgUIABCLAzIFCAAQiwMyCAgAELEDEIsDMgUIABCLAzIFCAAQiwMyBQgAEIsDMgUIABCLAzIFCAAQiwM6BAgAEEc6BAgjECc6EQgAELEDEIMBEMkDEJECEIsDOggIABCRAhCLAzoNCAAQsQMQgwEQQxCLAzoCCAA6CwgAELEDEIMBEIsDOgQIABBDOgoIABCxAxBDEIsDOhQILhDHARCvARCRAhCLAxCmAxCoAzoOCC4QxwEQrwEQkQIQiwM6BwgAEEMQiwM6BwgAELEDEEM6CggAELEDEMkDEEM6CwgAEMkDEJECEIsDOgsIABCxAxCRAhCLAzoOCAAQsQMQyQMQkQIQiwNQyfwBWMyLAmD-jAJoAHAEeACAAWqIAa8IkgEEMTMuMZgBAKABAaoBB2d3cy13aXrIAQi4AQPAAQE&sclient=psy-ab&ved=0ahUKEwiylI3Y5d7tAhVC4jgGHcDTDkEQ4dUDCA0&uact=5">Windows 10 Pro</a></td></tr>
+</table>
+
+
+### Skills
+<img alt="Ps" src="https://img.icons8.com/color/2x/adobe-photoshop.png" height=30/>
+<img alt="Ai" src="https://img.icons8.com/color/2x/adobe-illustrator.png" height=30/>
+<img alt="Xd" src="https://img.icons8.com/color/2x/adobe-xd.png" height=30/>
+<img alt="Dw" src="https://img.icons8.com/color/2x/adobe-dreamweaver.png" height=30/>
+
+<img alt="Ms Word" src="https://img.icons8.com/color/2x/microsoft-word-2019.png" height=30/>
+
+
+
+
+### Languages
+<img alt="Ai" src="https://img.icons8.com/color/2x/html-5.png" height=30/>
+<img alt="Ai" src="https://img.icons8.com/color/2x/css3.png" height=30/>
+<img alt="Ai" src="https://img.icons8.com/color/2x/javascript.png" height=30/>
+<img alt="Ai" src="https://img.icons8.com/color/2x/java.png" height=30/>
+
+<img alt="Ai" src="https://img.icons8.com/color/2x/php.png" height=30/>
+
+
+### Hobbies & Interest
+<a href="" title="Coding" target="blank"><img alt="Coding" src="https://img.icons8.com/color/2x/code.png" height=30/></a>
+<a href="#" title="Chess" target="blank"><img alt="Chess" src="https://img.icons8.com/color/2x/piano.png" height=30/></a>
+<a href="https://www.chess.com/member/kimmohito" title="Chess" target="blank"><img alt="Chess" src="https://img.icons8.com/color/2x/pawn.png" height=30/></a>
+<a href="#" title="Coffee" target="blank"><img alt="Coffee" src="https://img.icons8.com/color/2x/coffee-to-go.png" height=30/></a>
+
+
+
+
+
+
+### Social
+
+
 <a href="mailto:kimmohito@gmail.com" title="Email" target="blank"><img alt="Email" src="https://img.icons8.com/ios/2x/email.png" height=30/></a>
 <a href="https://linkedin.com/in/kimmohito" title="LinkedIn" target="blank"><img alt="LinkedIn" src="https://img.icons8.com/ios/2x/linkedin.png" height=30/></a>
 <a href="https://twitter.com/kimmohito" title="Twitter" target="blank"><img alt="Twitter" src="https://img.icons8.com/ios/2x/twitter.png" height=30/></a>
 <a href="https://youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA" title="YouTube" target="blank"><img alt="YouTube" src="https://img.icons8.com/ios/2x/play-button.png" height=30/></a>
-<a href="" title="Discord" target="blank"><img alt="Discord" src="https://img.icons8.com/ios/2x/discord-logo.png" height=30/></a>
+<a href="https://www.9gag.com/u/kimmohito" title="9gag" target="blank"><img alt="9gag" src="https://img.icons8.com/ios/2x/9gag.png" height=30/></a>
+<a href="https://www.behance.net/kimmohito" title="Behance" target="blank"><img alt="Behance" src="https://img.icons8.com/ios/2x/behance.png" height=30/></a>
+<a href="https://kimmohito.blogspot.com" title="Blogger" target="blank"><img alt="Blogger" src="https://img.icons8.com/ios/2x/blogger.png" height=30/></a>
+<a href="https://buymeacoff.ee/kimmohito" title="Buy me a coffee" target="blank"><img alt="Buy me a coffee" src="https://img.icons8.com/ios/2x/coffee-to-go.png" height=30/></a>
+
+<a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/ios/2x/codepen.png" height=30/></a>
+
+
+<a href="https://dev.to/kimmohito" title="Dev" target="blank"><img alt="Dev" src="https://img.icons8.com/ios/2x/dev.png" height=30/></a>
+
+<a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/ios/2x/codepen.png" height=30/></a>
+
+<a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/ios/2x/codepen.png" height=30/></a>
+
+<a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/ios/2x/codepen.png" height=30/></a>
+
+<a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/ios/2x/codepen.png" height=30/></a>
+
+
+
+
+<a href="https://facebook.com/kimmohito" title="Facebook" target="blank"><img alt="Facebook" src="https://img.icons8.com/ios/2x/facebook.png" height=30/></a>
+
 <a href="" title="Instagram" target="blank"><img alt="Instagram" src="https://img.icons8.com/ios/2x/instagram-new.png" height=30/></a>
-<a href="" title="Steam" target="blank"><img alt="Steam" src="https://img.icons8.com/ios/2x/steam.png" height=30/></a>
+
+<a href="https://wa.me/601111110470" title="Whatsapp" target="blank"><img alt="Whatsapp" src="https://img.icons8.com/ios/2x/whatsapp.png" height=30/></a>
+
+<a href="" title="Telegram" target="blank"><img alt="Telegram" src="https://img.icons8.com/ios/2x/telegram-app.png" height=30/></a>
+
+<a href="" title="Discord" target="blank"><img alt="Discord" src="https://img.icons8.com/ios/2x/discord-logo.png" height=30/></a>
+
+<a href="https://steamcommunity.com/id/kimmohito" title="Steam" target="blank"><img alt="Steam" src="https://img.icons8.com/ios/2x/steam.png" height=30/></a>
+
+<a href="" title="Twitch" target="blank"><img alt="Twitch" src="https://img.icons8.com/ios/2x/twitch.png" height=30/></a>
+
 <a href="" title="Reddit" target="blank"><img alt="Reddit" src="https://img.icons8.com/ios/2x/reddit.png" height=30/></a>
+
+<a href="" title="Behance" target="blank"><img alt="Behance" src="https://img.icons8.com/ios/2x/behance.png" height=30/></a>
+
+<a href="" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/ios/2x/codepen.png" height=30/></a>
+
+<a href="" title="Stack Overflow" target="blank"><img alt="Stack Overflow" src="https://img.icons8.com/ios/2x/stackoverflow.png" height=30/></a>
+
+
+
+### 👷 My RIGs & Gears
 
 
 
@@ -60,6 +169,8 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 
 
 
+
+
 </div>
 
 
@@ -88,7 +199,7 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 
 
 
-## 👨‍💻 Things I've been working on
+## 👨‍🔬 Things I've been working on
 <div align="center"><img alt="WakaTime Stats" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimmohito&hide_title=true&hide_border=true&langs_count=30&bg_color=0000&text_color=666"></div>
 
 
