@@ -1,9 +1,8 @@
 <img src="header.jpg">
 
-<div align="center"><img alt="ko" src="https://img.icons8.com/ios/2x/hiragana-ko.png" height="40"><img alt="n" src="https://img.icons8.com/ios/2x/hiragana-n.png" height="40"><img alt="ni" src="https://img.icons8.com/ios/2x/hiragana-ni.png" height="40"><img alt="chi" src="https://img.icons8.com/ios/2x/hiragana-chi.png" height="40"><img alt="ha" src="https://img.icons8.com/ios/2x/hiragana-ha.png" height="40"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40">
+## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24">
 
-
-Hello world! My name is [Kim Mohito](https://kimmohito.github.io). I'm a certified [Network Engineer](#) by [Cisco](#), networking hardware company. Currently a part-time developer, based in [Kuala Lumpur, Malaysia](https://www.google.com/maps/place/Kuala+Lumpur,+Federal+Territory+of+Kuala+Lumpur/data=!4m2!3m1!1s0x31cc49c701efeae7:0xf4d98e5b2f1c287d?sa=X&ved=2ahUKEwjp2te69e_sAhWozTgGHbhjCasQ8gEwK3oECAwQAQ) specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+My name is [Kim Mohito](https://kimmohito.github.io). I'm a certified [Network Engineer](#) by [Cisco](#), networking hardware company. Currently a part-time Web Developer and Programming Tutor, based in [Kuala Lumpur, Malaysia](https://www.google.com/maps/place/Kuala+Lumpur,+Federal+Territory+of+Kuala+Lumpur/data=!4m2!3m1!1s0x31cc49c701efeae7:0xf4d98e5b2f1c287d?sa=X&ved=2ahUKEwjp2te69e_sAhWozTgGHbhjCasQ8gEwK3oECAwQAQ) specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
 Shortly after graduating from [Diploma in Network Security](#) at [German Malaysian Institute](#), I pursue my [Degree in Network System](#) at [Universiti Kuala Lumpur MIIT](https://www.unikl.edu.my). I started a programming community in Malaysia known as [RojakCube](https://rojakcube.com). I joined the engineering team at [SilverByte](https://silverbyte.my) where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
@@ -13,7 +12,6 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 <a href="mailto:kimmohito@gmail.com" title="Email" target="blank"><img alt="Email" src="https://img.icons8.com/ios/2x/new-post.png" height=40/></a>
 <a href="https://linkedin.com/in/kimmohito" title="LinkedIn" target="blank"><img alt="LinkedIn" src="https://img.icons8.com/ios/2x/linkedin.png" height=40/></a>
 <a href="https://twitter.com/kimmohito" title="Twitter" target="blank"><img alt="Twitter" src="https://img.icons8.com/ios/2x/twitter.png" height=40/></a>
-
 <a href="https://youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA" title="YouTube" target="blank"><img alt="YouTube" src="https://img.icons8.com/ios/2x/play-button.png" height=40/></a>
 
 
@@ -94,68 +92,62 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
 <a href="" title="Arduino IDE" target="blank"><img alt="Arduino IDE" src="https://img.icons8.com/ios/2x/sublime-text.png" height=30></a>
 
 
-<table>
-<tr>
-<td>
-
-<a href="" title="">
-    <img alt="x" src="https://img.icons8.com/ios/2x/windows8.png" height=50>
-</a>
-<a href="" title="">
-    <img alt="x" src="https://img.icons8.com/ios/2x/mac-os.png" height=50>
-</a>
-<a href="" title="">
-    <img alt="x" src="https://img.icons8.com/ios/2x/linux.png" height=50>
-</a>
-<a href="" title="">
-    <img alt="x" src="https://img.icons8.com/ios/2x/ubuntu.png" height=50>
-</a>
-<a href="" title="">
-    <img alt="x" src="https://img.icons8.com/ios/2x/debian.png" height=50>
-</a>
-<a href="" title="">
-    <img alt="x" src="https://img.icons8.com/ios/2x/centos.png" height=50>
-</a>
-
-</td>
-</tr>
-<tr>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-
-</td>
-</tr>
-<tr>
-<td>
-
-</td>
-</tr>
-</table>
 
 
 
-## 🖥️ Text Editor
-
-<a href="" title="">
-    <img alt="x" src="https://img.icons8.com/ios/2x/visual-studio-logo.png" height=50>
-</a>
-<a href="" title="">
-    <img alt="x" src="https://img.icons8.com/ios/2x/atom-editor.png" height=50>
-</a>
-<a href="" title="">
-    <img alt="x" src="https://img.icons8.com/ios/2x/arduino.png" height=50>
-</a>
 
 
-### 🖥️ Language
+## 👨‍🏫 Latest Blog Posts 
+<!-- BLOG-POST-LIST:START -->
+- [Hello world!](https://dev.to/kimmohito/hello-world-6lf)
+- [Test](https://dev.to/kimmohito/test-aml)
+<!-- BLOG-POST-LIST:END -->
 
-<a href="" title="">
-    <img alt="x" src="https://img.icons8.com/ios/2x/windows8.png" height=50>
-</a>
+
+
+
+
+## 👨‍🚀 Latest Youtube Videos
+<!-- YOUTUBE:START -->
+- [Gosu.ai rampage moment | dog as Tidehunter](https://www.youtube.com/watch?v=hZgWxY_Q5Ns)
+- [Gosu.ai | dog as Faceless Void](https://www.youtube.com/watch?v=DdI3AXQv0uY)
+- [Gosu.ai | Rampage | dog as Faceless Void](https://www.youtube.com/watch?v=tZiFkE9gDmw)
+- [Gosu.ai | dog as Pudge](https://www.youtube.com/watch?v=QWw98O8_9uc)
+- [Gosu.ai | dog as Invoker](https://www.youtube.com/watch?v=j2MEW4BmHrY)
+<!-- YOUTUBE:END -->
+
+
+
+
+
+
+## 👨‍💻 Things I've been working on
+<div align="center"><img alt="WakaTime Stats" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimmohito&hide_title=true&hide_border=true&langs_count=10&bg_color=0000&text_color=666"></div>
+
+
+
+
+
+
+## 👨‍🔧 My GitHub Stats
+<div align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kimmohito&hide_title=true&hide_border=true&show_icons=true&icon_color=666&bg_color=0000&text_color=666"></div>
+
+
+
+
+
+
+## 🕵️ Profile Views
+<div align="center"><img alt="Profile Views" src="https://views.whatilearened.today/views/github/kimmohito/views.svg"></div>
+
+
+
+
+
+<img src="footer.jpg">
+
+<!-- 
+<img src="https://pbs.twimg.com/profile_banners/1238171999010086912/1596616511/1500x500"> 
 
 
 
@@ -247,37 +239,9 @@ Shortly after graduating from [Diploma in Network Security](#) at [German Malays
     [![](https://img.shields.io/badge/Wireshark-3eaae6?logo=wireshark&labelColor=111&logoColor=3eaae6)](https://wireshark.org/#download)
     [![](https://img.shields.io/badge/Ngrok-1f1e37)](https://ngrok.com/download)
 
-## 👨‍🏫 Latest Blog Posts 
-<!-- BLOG-POST-LIST:START -->
-- [Hello world!](https://dev.to/kimmohito/hello-world-6lf)
-- [Test](https://dev.to/kimmohito/test-aml)
-<!-- BLOG-POST-LIST:END -->
 
-## 👨‍🚀 Latest Youtube Videos
-<!-- YOUTUBE:START -->
-- [Gosu.ai rampage moment | dog as Tidehunter](https://www.youtube.com/watch?v=hZgWxY_Q5Ns)
-- [Gosu.ai | dog as Faceless Void](https://www.youtube.com/watch?v=DdI3AXQv0uY)
-- [Gosu.ai | Rampage | dog as Faceless Void](https://www.youtube.com/watch?v=tZiFkE9gDmw)
-- [Gosu.ai | dog as Pudge](https://www.youtube.com/watch?v=QWw98O8_9uc)
-- [Gosu.ai | dog as Invoker](https://www.youtube.com/watch?v=j2MEW4BmHrY)
-<!-- YOUTUBE:END -->
 
-## 👨‍🔧 Things I've been working on
-<div align="center">
-<img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimmohito&hide_title=true&hide_border=true&langs_count=10&bg_color=0000&text_color=666">
-</div>
 
-## 🕵️ GitHub Stats
-[![](https://github-readme-stats.vercel.app/api?username=kimmohito&hide_title=true&hide_border=true&show_icons=true&icon_color=666&bg_color=0000&text_color=666)](#)
-
-## Profile Views
-[![](https://views.whatilearened.today/views/github/kimmohito/views.svg)](#)
-
-<img src="footer.jpg">
-</div>
-
-<!-- 
-<img src="https://pbs.twimg.com/profile_banners/1238171999010086912/1596616511/1500x500"> 
 
 **kimmohito/kimmohito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
