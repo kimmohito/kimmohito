@@ -62,6 +62,19 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
 <td><img title="Headset" alt="Headset" src="https://img.icons8.com/color/2x/headset.png" width=30/></td><td><a href="https://www.logitechg.com/en-my/products/gaming-audio/pro-gaming-headset.html">Logitech Pro</a></td></tr>
 <!-- Cooling Pad -->
 <td><img title="Cooling Pad" alt="Cooling Pad" src="https://img.icons8.com/color/2x/fan-speed.png" width=30/></td><td><a href="https://www.coolermaster.com/catalog/coolers/notebook-cooler/notepal-l1">Cooler Master NotePal L1 17"</a></td></tr>
+<!-- Network Attached Storage -->
+<td><img title="Network Attached Storage" alt="Network Attached Storage" src="https://img.icons8.com/color/2x/nas.png" width=30/></td>
+<td>
+    <a href="https://www.orico.cc/us/product/detail/3573.html">Orico NS500C3 5-Bay 3.5" Type-C</a>
+    <ul>
+    <li><a href="https://www.google.com/search?q=HDD+1TB+HGST+SATA+2.5%22&rlz=1C1CHBF_enMY920MY920&oq=HDD+1TB+HGST+SATA+2.5%22&aqs=chrome.0.69i59.319j0j9&sourceid=chrome&ie=UTF-8">HDD 1TB HGST SATA 2.5"</a></li>
+    <li><a href="https://www.google.com/search?q=HDD+500GB+HGST+SATA+2.5%22&rlz=1C1CHBF_enMY920MY920&oq=HDD+500GB+HGST+SATA+2.5%22&aqs=chrome..69i57.350j0j9&sourceid=chrome&ie=UTF-8">HDD 500GB HGST SATA 2.5"</a></li>
+    <li><a href="https://www.google.com/search?q=HDD+500GB+Toshiba+SATA+2.5%22&rlz=1C1CHBF_enMY920MY920&oq=HDD+500GB+Toshiba+SATA+2.5%22&aqs=chrome..69i57.419j0j9&sourceid=chrome&ie=UTF-8">HDD 500GB Toshiba SATA 2.5"</a></li>
+    <li><a href="https://www.google.com/search?q=HDD+500GB+Seagate+SATA+2.5%22&rlz=1C1CHBF_enMY920MY920&oq=HDD+500GB+Seagate+SATA+2.5%22&aqs=chrome..69i57.314j0j9&sourceid=chrome&ie=UTF-8">HDD 500GB Seagate SATA 2.5"</a></li>
+    <li><a href="https://www.google.com/search?q=HDD+500GB+Seagate+SATA+2.5%22&rlz=1C1CHBF_enMY920MY920&oq=HDD+500GB+Seagate+SATA+2.5%22&aqs=chrome..69i57.314j0j9&sourceid=chrome&ie=UTF-8">HDD 500GB Seagate SATA 2.5"</a></li>
+    <li><a href="https://www.google.com/search?q=HDD+80GB+Seagate+SATA+2.5%22&rlz=1C1CHBF_enMY920MY920&oq=HDD+80GB+Seagate+SATA+2.5%22&aqs=chrome.0.69i59.270j0j9&sourceid=chrome&ie=UTF-8">HDD 80GB Seagate SATA 2.5"</a></li>
+    </ul>
+</td></tr>
 </table>
 
 ## 👷 My Tech & Tools
