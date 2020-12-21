@@ -1,21 +1,174 @@
-# 👨‍💻 Hello World! <a href="https://kimmohito.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<div align="center">
+<img alt="ko" src="https://img.icons8.com/ios-filled/2x/hiragana-ko.png" height="40">
+<img alt="n" src="https://img.icons8.com/ios-filled/2x/hiragana-n.png" height="40">
+<img alt="ni" src="https://img.icons8.com/ios-filled/2x/hiragana-ni.png" height="40">
+<img alt="chi" src="https://img.icons8.com/ios-filled/2x/hiragana-chi.png" height="40">
+<img alt="ha" src="https://img.icons8.com/ios-filled/2x/hiragana-ha.png" height="40">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40">
+</div>
 
-<img src="header.jpg">
-
-<a href="me-when-i-add-a-meme-to-an-email.jpg"><img src="boromir-email.jpg" align="right" width="200"></a>
-
-My name is <b>[Kim Mohito](https://kimmohito.github.io)</b>. I'm a [Network Engineer](#) based in [Kuala Lumpur, Malaysia](https://www.google.com/maps/place/Kuala+Lumpur,+Federal+Territory+of+Kuala+Lumpur/data=!4m2!3m1!1s0x31cc49c701efeae7:0xf4d98e5b2f1c287d?sa=X&ved=2ahUKEwjp2te69e_sAhWozTgGHbhjCasQ8gEwK3oECAwQAQ) specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+Hello, my name is [Kim Mohito](https://kimmohito.github.io). I'm a certified [Network Engineer](#) by [Cisco](#), networking hardware company. Currently a part-time developer, based in [Kuala Lumpur, Malaysia](https://www.google.com/maps/place/Kuala+Lumpur,+Federal+Territory+of+Kuala+Lumpur/data=!4m2!3m1!1s0x31cc49c701efeae7:0xf4d98e5b2f1c287d?sa=X&ved=2ahUKEwjp2te69e_sAhWozTgGHbhjCasQ8gEwK3oECAwQAQ) specializing in building (and occasionally designing) exceptional websites, applications, and everything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
 Shortly after graduating from [Diploma in Network Security](#) at [German Malaysian Institute](#), I pursue my [Degree in Network System](#) at [Universiti Kuala Lumpur MIIT](https://www.unikl.edu.my). I started a programming community in Malaysia known as [RojakCube](https://rojakcube.com). I joined the engineering team at [SilverByte](https://silverbyte.my) where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
-If you have any enquiries, feel free to send me some meme to [kimmohito@gmail.com](mailto:kimmohito@gmail.com).
+### 🙋‍♂️ Catch me on
+
+<a href="https://kimmohito.github.io" title="Website" target="blank"><img alt="Website" src="https://img.icons8.com/ios/2x/domain.png" height=40/></a>
+<a href="mailto:kimmohito@gmail.com" title="Email" target="blank"><img alt="Email" src="https://img.icons8.com/ios/2x/new-post.png" height=40/></a>
+<a href="https://linkedin.com/in/kimmohito" title="LinkedIn" target="blank"><img alt="LinkedIn" src="https://img.icons8.com/ios/2x/linkedin.png" height=40/></a>
+<a href="https://twitter.com/kimmohito" title="Twitter" target="blank"><img alt="Twitter" src="https://img.icons8.com/ios/2x/twitter.png" height=40/></a>
+
+<a href="https://youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA" title="YouTube" target="blank"><img alt="YouTube" src="https://img.icons8.com/ios/2x/play-button.png" height=40/></a>
+
+
+
+<!-- Email -->
+<a href="" title="Email" target="blank">
+    <img alt="Email" src="https://img.icons8.com/ios/2x/new-post.png" height=40>
+</a>
+
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/kimmohito" title="LinkedIn">
+    <img alt="LinkedIn" src="https://img.icons8.com/ios/2x/linkedin.png" height=40>
+</a>
+
+<!-- Twitter -->
+<a href="https://twitter.com/kimmohito" title="Twitter">
+    <img alt="Twitter" src="https://img.icons8.com/ios/2x/twitter.png" height=40>
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/kimmohito" title="GitHub">
+    <img alt="GitHub" src="https://img.icons8.com/ios/2x/github.png" height=40>
+</a>
+
+<!-- Youtube -->
+<a href="https://youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA" title="Youtube">
+    <img alt="YouTube" src="https://img.icons8.com/ios/2x/youtube-play.png" height=40>
+</a>
+
+<!-- Discord -->
+<a href="" title="">
+    <img alt="" src="https://img.icons8.com/ios/2x/discord-logo.png" height=40>
+</a>
+
+<!-- Instagram -->
+<a href="" title="Instagram">
+    <img alt="Instagram" src="https://img.icons8.com/ios/2x/instagram.png" height=40>
+</a>
+
+<!--  -->
+<a href="" title="">
+    <img alt="" src="https://img.icons8.com/ios/2x/steam.png" height=40>
+</a>
+
+<!--  -->
+<a href="" title="">
+    <img alt="" src="https://img.icons8.com/ios/2x/reddit.png" height=40>
+</a>
+
+<!--  -->
+<a href="" title="">
+    <img alt="" src="https://img.icons8.com/ios/2x/steam.png" height=40>
+</a>
+
+
+
+
+
+### 👷 Tools & Tech
+
+<!-- Operating System -->
+<a href="" title="Windows"><img alt="Windows" src="https://img.icons8.com/ios/2x/windows8.png" height=30></a>
+<a href="" title="MacOS"><img alt="MacOS" src="https://img.icons8.com/ios/2x/mac-os.png" height=30></a>
+<a href="" title="Linux"><img alt="Linux" src="https://img.icons8.com/ios/2x/linux.png" height=30></a>
+<a href="" title="Ubuntu"><img alt="Ubuntu" src="https://img.icons8.com/ios/2x/ubuntu.png" height=30></a>
+<a href="" title="Debian"><img alt="Debian" src="https://img.icons8.com/ios/2x/debian.png" height=30></a>
+<a href="" title="CentOS"><img alt="CentOS" src="https://img.icons8.com/ios/2x/centos.png" height=30></a>
+<a href="" title="Fedora"><img alt="Fedora" src="https://img.icons8.com/ios/2x/fedora.png" height=30></a>
+<a href="" title="RedHat"><img alt="RedHat" src="https://img.icons8.com/ios/2x/red-hat.png" height=30></a>
+<a href="" title="RasberryPi"><img alt="RaspberryPi" src="https://img.icons8.com/ios/2x/raspberry-pi.png" height=30></a>
+<a href="" title="iOS"><img alt="iOS" src="https://img.icons8.com/ios/2x/ios-logo.png" height=30></a>
+<a href="" title="Android"><img alt="Android" src="https://img.icons8.com/ios/2x/android-os.png" height=30></a>
+
+<!-- Text Editor -->
+<a href="" title="Visual Studio Code" target="blank"><img alt="VSCode" src="https://img.icons8.com/ios/2x/visual-studio-logo.png" height=30></a>
+<a href="" title="Atom" target="blank"><img alt="Atom" src="https://img.icons8.com/ios/2x/atom-editor.png" height=30></a>
+<a href="" title="Arduino IDE" target="blank"><img alt="Arduino IDE" src="https://img.icons8.com/ios/2x/arduino.png" height=30></a>
+<a href="" title="Arduino IDE" target="blank"><img alt="Arduino IDE" src="https://img.icons8.com/ios/2x/sublime-text.png" height=30></a>
+
+
+<table>
+<tr>
+<td>
+
+<a href="" title="">
+    <img alt="x" src="https://img.icons8.com/ios/2x/windows8.png" height=50>
+</a>
+<a href="" title="">
+    <img alt="x" src="https://img.icons8.com/ios/2x/mac-os.png" height=50>
+</a>
+<a href="" title="">
+    <img alt="x" src="https://img.icons8.com/ios/2x/linux.png" height=50>
+</a>
+<a href="" title="">
+    <img alt="x" src="https://img.icons8.com/ios/2x/ubuntu.png" height=50>
+</a>
+<a href="" title="">
+    <img alt="x" src="https://img.icons8.com/ios/2x/debian.png" height=50>
+</a>
+<a href="" title="">
+    <img alt="x" src="https://img.icons8.com/ios/2x/centos.png" height=50>
+</a>
+
+</td>
+</tr>
+<tr>
+<td>
+
+</td>
+</tr>
+<tr>
+<td>
+
+</td>
+</tr>
+<tr>
+<td>
+
+</td>
+</tr>
+</table>
+
+
+
+## 🖥️ Text Editor
+
+<a href="" title="">
+    <img alt="x" src="https://img.icons8.com/ios/2x/visual-studio-logo.png" height=50>
+</a>
+<a href="" title="">
+    <img alt="x" src="https://img.icons8.com/ios/2x/atom-editor.png" height=50>
+</a>
+<a href="" title="">
+    <img alt="x" src="https://img.icons8.com/ios/2x/arduino.png" height=50>
+</a>
+
+
+### 🖥️ Language
+
+<a href="" title="">
+    <img alt="x" src="https://img.icons8.com/ios/2x/windows8.png" height=50>
+</a>
+
+
 
 ## 🙋‍♂️ Catch me on
 [![](https://img.shields.io/twitter/follow/kimmohito?label=Twitter&style=social)](https://twitter.com/kimmohito)
 [![](https://img.shields.io/badge/-fff?style=social&logo=linkedin&logoColor=0e76a8&label=LinkedIn)](https://linkedin.com/in/kimmohito)
 [![](https://img.shields.io/badge/-fff?style=social&logo=github&logoColor=111&label=GitHub)](https://github.com/kimmohito)
 [![](https://img.shields.io/badge/-fff?style=social&logo=dev.to&logoColor=111&label=Dev.to)](https://dev.to/kimmohito)
-[![](https://img.shields.io/badge/-fff?style=social&logo=youtube&logoColor=f00&label=YouTube)](https://youtube.com/channel/UCnsIaJK9zEXAqXJsexevOfA)
+[![](https://img.shields.io/badge/-fff?style=social&logo=youtube&logoColor=f00&label=YouTube)]()
 
 
 ## 👷 Tech & tools
@@ -118,12 +271,12 @@ If you have any enquiries, feel free to send me some meme to [kimmohito@gmail.co
 <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimmohito&hide_title=true&hide_border=true&langs_count=10&bg_color=0000&text_color=666">
 </div>
 
-## 🕵️ My GitHub Stats
+## 🕵️ GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kimmohito&hide_title=true&hide_border=true&show_icons=true&icon_color=666&bg_color=0000&text_color=666">
 </div>
 
-## 👀 Profile Views
+<img src="footer.jpg">
 <p align="center"><img src="https://views.whatilearened.today/views/github/kimmohito/views.svg"></p>
 
 <!-- 
