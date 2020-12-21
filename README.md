@@ -124,6 +124,24 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
         <a href="" title="Adobe Xd" target="blank"><img alt="Adobe Xd" src="https://img.icons8.com/color/2x/adobe-xd.png" width=30/></a>
         <!-- Adobe Dreamweaver -->
         <a href="" title="Adobe Dreamweaver" target="blank"><img alt="Adobe Dreamweaver" src="https://img.icons8.com/color/2x/adobe-dreamweaver.png" width=30/></a>
+        <!-- Adobe Fireworks -->
+        <a href="" title="Adobe Fireworks" target="blank"><img alt="Adobe Fireworks" src="https://img.icons8.com/color/2x/adobe-fireworks.png" width=30/></a>
+        <!-- Adobe InDesign -->
+        <a href="" title="Adobe InDesign" target="blank"><img alt="Adobe InDesign" src="https://img.icons8.com/color/2x/adobe-indesign.png" width=30/></a>
+        <!-- Adobe Lightroom -->
+        <a href="" title="Adobe Lightroom" target="blank"><img alt="Adobe Lightroom" src="https://img.icons8.com/color/2x/adobe-lightroom.png" width=30/></a>
+        <!-- Adobe Bridge -->
+        <a href="" title="Adobe Bridge" target="blank"><img alt="Adobe Bridge" src="https://img.icons8.com/color/2x/adobe-bridge.png" width=30/></a>
+        <!-- Adobe Premiere Pro -->
+        <a href="" title="Adobe Premiere Pro" target="blank"><img alt="Adobe Premiere Pro" src="https://img.icons8.com/color/2x/adobe-premiere-pro.png" width=30/></a>
+        <!-- Adobe After Effetcs -->
+        <a href="" title="Adobe After Effetcs" target="blank"><img alt="Adobe After Effetcs" src="https://img.icons8.com/color/2x/adobe-after-effects.png" width=30/></a>
+        <!-- Adobe Flash -->
+        <a href="" title="Adobe Flash" target="blank"><img alt="Adobe Flash" src="https://img.icons8.com/color/2x/adobe-flash.png" width=30/></a>
+        <!-- Adobe Animate -->
+        <a href="" title="Adobe Animate" target="blank"><img alt="Adobe Animate" src="https://img.icons8.com/color/2x/adobe-animate.png" width=30/></a>
+        <!-- Adobe Creative Cloud -->
+        <a href="" title="Adobe Creative Cloud" target="blank"><img alt="Adobe Creative Cloud" src="https://img.icons8.com/color/2x/adobe-creative-cloud.png" width=30/></a>
         <br>
         <!-- Microsoft Word -->
         <a href="" title="Microsoft Word" target="blank"><img alt="Microsoft Word" src="https://img.icons8.com/color/2x/microsoft-word-2019.png" width=30/></a>
@@ -141,6 +159,12 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
         <a href="" title="Microsoft Project" target="blank"><img alt="Microsoft Project" src="https://img.icons8.com/color/2x/microsoft-project-2019.png" width=30/></a>
         <!-- Microsoft Teams -->
         <a href="" title="Microsoft Teams" target="blank"><img alt="Microsoft Teams" src="https://img.icons8.com/color/2x/microsoft-team-2019.png" width=30/></a>
+        <!-- Microsoft OneNote -->
+        <a href="" title="Microsoft OneNote" target="blank"><img alt="Microsoft OneNote" src="https://img.icons8.com/color/2x/microsoft-onenote-2019.png" width=30/></a>
+        <!-- Microsoft Stream -->
+        <a href="" title="Microsoft Stream" target="blank"><img alt="Microsoft Stream" src="https://img.icons8.com/color/2x/microsoft-stream-2019.png" width=30/></a>
+        <!-- Microsoft OneDrive -->
+        <a href="" title="Microsoft OneDrive" target="blank"><img alt="Microsoft OneDrive" src="https://img.icons8.com/color/2x/microsoft-onedrive-2019.png" width=30/></a>
         <br>
         <!-- Visual Studio Code -->
         <a href="" title="Visual Studio Code" target="blank"><img alt="Visual Studio Code" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" width=30/></a>
