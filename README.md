@@ -206,15 +206,8 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
         <a href="" title="Wireshark" target="blank"><img alt="Wireshark" src="https://img.icons8.com/color/2x/shark.png" width=30/></a>
     </td>
 </tr>
-
-
-
 </table>
 
-
-</td>
-</tr>
-</table>
 
 
 ## 🦸 My Hobbies & Interest
@@ -226,11 +219,10 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
 
 
 
-
-
-
-
-
+</td>
+</tr>
+<tr>
+<td>
 
 
 
@@ -242,7 +234,8 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
 <!-- BLOG-POST-LIST:END -->
 
 
-
+</td>
+<td>
 
 
 ## 👨‍🚀 Latest Youtube Videos
@@ -254,8 +247,11 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
 - [Gosu.ai | dog as Invoker](https://www.youtube.com/watch?v=j2MEW4BmHrY)
 <!-- YOUTUBE:END -->
 
+</td>
+</tr>
 
-
+<tr>
+<td>
 
 
 <!--##### GITHUB STATS #####-->
@@ -263,15 +259,25 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
 <img alt="WakaTime Stats" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimmohito&hide_title=true&hide_border=true&langs_count=30&bg_color=0000&text_color=666">
 
 
+</td>
+<td>
+
 <!--##### GITHUB STATS #####-->
 ## 👨‍🔧 My GitHub Stats
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kimmohito&hide_title=true&hide_border=true&show_icons=true&icon_color=666&bg_color=0000&text_color=666">
 
+</td>
+</tr>
+<tr>
+<td colspan=2>
 
 <!--##### PROFILE VIEWS #####-->
 ## 🕵️ Profile Views
 <a href=""><img alt="Profile Views" src="https://views.whatilearened.today/views/github/kimmohito/views.svg"></a><br>
 
+</td>
+</tr>
+</table>
 
 <!--##### FOOTER #####-->
 <img src="footer.jpg">
