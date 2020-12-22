@@ -1,7 +1,7 @@
 <!-- Header -->
 <img src="banner.jpg">
 <!-- Main Table -->
-<table style="border-collapse: collapse;">
+<table  border="0" cellspacing="0" cellpadding="0">
     <!-- About Me -->
     <tr>
         <td colspan=2 align=center>
