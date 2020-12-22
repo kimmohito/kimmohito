@@ -316,17 +316,6 @@
 
 
 
-## 🦸 My Hobbies & Interest
-
-<a href="" title="Coding" target="blank"><img alt="Coding" src="https://img.icons8.com/color/2x/code.png" width=30/></a>
-<a href="#" title="Chess" target="blank"><img alt="Chess" src="https://img.icons8.com/color/2x/piano.png" width=30/></a>
-<a href="https://www.chess.com/member/kimmohito" title="Chess" target="blank"><img alt="Chess" src="https://img.icons8.com/color/2x/pawn.png" width=30/></a>
-<a href="#" title="Coffee" target="blank"><img alt="Coffee" src="https://img.icons8.com/color/2x/coffee-to-go.png" width=30/></a>
-
-
-
-
-
 <!-- 
 <img src="https://pbs.twimg.com/profile_banners/1238171999030086912/1596616511/1500x500"> 
 
