@@ -136,8 +136,6 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
         <a href="" title="Adobe InDesign" target="blank"><img alt="Adobe InDesign" src="https://img.icons8.com/color/2x/adobe-indesign.png" width=30/></a>
         <!-- Adobe Lightroom -->
         <a href="" title="Adobe Lightroom" target="blank"><img alt="Adobe Lightroom" src="https://img.icons8.com/color/2x/adobe-lightroom.png" width=30/></a>
-        <!-- Adobe Bridge -->
-        <a href="" title="Adobe Bridge" target="blank"><img alt="Adobe Bridge" src="https://img.icons8.com/color/2x/adobe-bridge.png" width=30/></a>
         <!-- Adobe Premiere Pro -->
         <a href="" title="Adobe Premiere Pro" target="blank"><img alt="Adobe Premiere Pro" src="https://img.icons8.com/color/2x/adobe-premiere-pro.png" width=30/></a>
         <!-- Adobe After Effetcs -->
