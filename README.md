@@ -38,7 +38,7 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
 <td>
 
 <!--##### RIGS A& GEARS #####-->
-## 👨‍💻 My RIGs & Gears
+## 👨‍💻 My Rigs & Gears
 <table>
 <!-- Desktop -->
 <tr><td><img title="Laptop" alt="Laptop" src="https://img.icons8.com/color/2x/4a90e2/laptop.png" width=30/></td><td><a href="https://www.msi.com/Laptop/GF63-Thin-9SX-GTX">MSI GF63 Thin 95c</a></td></tr>
@@ -146,8 +146,6 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
         <a href="" title="Adobe Flash" target="blank"><img alt="Adobe Flash" src="https://img.icons8.com/color/2x/adobe-flash.png" width=30/></a>
         <!-- Adobe Animate -->
         <a href="" title="Adobe Animate" target="blank"><img alt="Adobe Animate" src="https://img.icons8.com/color/2x/adobe-animate.png" width=30/></a>
-        <!-- Adobe Creative Cloud -->
-        <a href="" title="Adobe Creative Cloud" target="blank"><img alt="Adobe Creative Cloud" src="https://img.icons8.com/color/2x/adobe-creative-cloud.png" width=30/></a>
         <br>
         <!-- Microsoft Word -->
         <a href="" title="Microsoft Word" target="blank"><img alt="Microsoft Word" src="https://img.icons8.com/color/2x/microsoft-word-2019.png" width=30/></a>
