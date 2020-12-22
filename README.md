@@ -22,6 +22,9 @@
             <a href="https://facebook.com/kimmohito" title="Facebook" target="blank"><img alt="Facebook" src="https://img.icons8.com/color/2x/facebook.png" width=30/></a>
             <a href="https://discordapp.com/users/643484888892440578" title="Discord" target="blank"><img alt="Discord" src="https://img.icons8.com/color/2x/discord-logo.png" width=30/></a>
             <a href="https://steamcommunity.com/id/kimmohito/" title="Steam" target="blank"><img alt="Steam" src="https://img.icons8.com/color/2x/steam.png" width=30/></a>
+            <a href="https://steamcommunity.com/id/kimmohito/" title="Steam" target="blank"><img alt="Steam" src="https://img.icons8.com/color/2x/steam.png" width=30/></a>
+            <a href="https://steamcommunity.com/id/kimmohito/" title="Steam" target="blank"><img alt="Steam" src="https://img.icons8.com/color/2x/steam.png" width=30/></a>
+            <a href="https://steamcommunity.com/id/kimmohito/" title="Steam" target="blank"><img alt="Steam" src="https://img.icons8.com/color/2x/steam.png" width=30/></a>
             <a href="https://medium.com/@kimmohito" title="Medium" target="blank"><img alt="Medium" src="https://img.icons8.com/color/2x/medium.png" width=30/></a>
             <a href="https://codepen.io/kimmohito" title="Codepen" target="blank"><img alt="Codepen" src="https://img.icons8.com/color/2x/codepen.png" width=30/></a>
             <a href="https://stackoverflow.com/users/6735725/kim-mohito" title="Stack Overflow" target="blank"><img alt="Stack Overflow" src="https://img.icons8.com/color/2x/stack-overflow.png" width=30/></a>
