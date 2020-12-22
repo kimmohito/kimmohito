@@ -33,6 +33,9 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
 <a href="https://t.me/kimmohito" title="Telegram" target="blank"><img alt="Telegram" src="https://img.icons8.com/color/2x/telegram-app.png" width=30/></a>
 <a href="https://wa.me/601111110470" title="Whatsapp" target="blank"><img alt="Whatsapp" src="https://img.icons8.com/color/2x/whatsapp.png" width=30/></a>
 
+<table>
+<tr>
+<td>
 
 <!--##### RIGS A& GEARS #####-->
 ## 👨‍💻 My RIGs & Gears
@@ -75,6 +78,9 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
     </ul>
 </td></tr>
 </table>
+
+</td>
+<td>
 
 ## 👷 My Tech & Tools
 <table>
@@ -203,6 +209,11 @@ Shortly after graduating from [Diploma in Network Security](https://www.gmi.edu.
 
 
 
+</table>
+
+
+</td>
+</tr>
 </table>
 
 
