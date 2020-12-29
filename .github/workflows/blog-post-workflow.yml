@@ -1,7 +1,7 @@
 name: "Update blog post on kimmohito/README.md"
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '* * * * *'
   workflow_dispatch :
 jobs:
   update-readme-with-blog:
@@ -12,5 +12,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           commit_message: "Update blog post on kimmohito/README.md"
-          feed_list: "http://kimmohito.github.io/blog/" 
+          feed_list: "" 
           # feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
