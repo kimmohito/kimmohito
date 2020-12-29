@@ -12,5 +12,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           commit_message: "Update blog post on kimmohito/README.md"
-          feed_list: "https://dev.to/feed/kimmohito,https://kimmohito.github.io/blog/" 
+          feed_list: "https://dev.to/feed/kimmohito,https://kimmohito.github.io" 
           # feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
