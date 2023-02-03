@@ -1,12 +1,6 @@
 <!-- Header -->
 <div align="center">
-<a href="#"><img src="https://readme-typing-svg.demolab.com/?lines=
-Hello%20World!;
-I'm%20a%20Full-stack%20developer.;
-I%20design%20UI/UX.;
-I%20have%205%2B%20years%20of%20experience.;
-I'm%20a%20Founder%20of%20RojakCube.;
-I'm%20always%20Typing...&font=Fira%20Code&center=true&width=440&height=45&color=13da5a&vCenter=true&size=22&pause=2000"/></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com/?lines=Hello%20World!;I'm%20a%20Full-stack%20developer.;I%20design%20UI/UX.;I%20have%205%2B%20years%20of%20experience.;I'm%20a%20Founder%20of%20RojakCube.;I'm%20always%20Typing...&font=Fira%20Code&center=true&width=440&height=45&color=13da5a&vCenter=true&size=22&pause=2000"/></a>
 </div>
 
 <!-- About Me -->
@@ -27,7 +21,7 @@ I'm a versatile and experienced full-stack developer with years of track record 
 </div>
 
 <!-- Skills -->
-<div align="center"><br>
+<div align="center">
 
 ### Tech I use mostly
 ![](https://img.icons8.com/color/36/null/linux.png)
