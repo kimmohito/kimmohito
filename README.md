@@ -21,6 +21,9 @@ I'm a versatile and experienced full-stack developer with years of track record 
 <a href="https://instagram.com/kimmohito" target="_blank">![](https://img.icons8.com/stickers/48/null/instagram-new--v2.png)</a>
 <a href="https://instagram.com/kimmohito" target="_blank">![](https://img.icons8.com/stickers/48/null/instagram-new--v2.png)</a>
 
+
+<a href="https://instagram.com/kimmohito" target="_blank"><img src="https://img.icons8.com/stickers/48/null/instagram-new--v2.png"></a>
+
 </div>
 
 <!-- Skills -->
