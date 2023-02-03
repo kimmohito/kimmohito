@@ -16,7 +16,10 @@ I'm a versatile and experienced full-stack developer with years of track record 
 [![](https://img.icons8.com/stickers/48/null/domain--v1.png)](https://kimmohito.com)
 [![](https://img.icons8.com/stickers/48/null/linkedin.png)](https://linkedin.com/in/kimmohito)
 [![](https://img.icons8.com/stickers/48/null/twitter.png)](https://twitter.com/kimmohito)
-[![](https://img.icons8.com/stickers/48/null/instagram-new--v2.png)](https://instagram.com/kimmohito){:target="_blank"}
+[![](https://img.icons8.com/stickers/48/null/instagram-new--v2.png)](https://instagram.com/kimmohito)
+
+<a href="https://instagram.com/kimmohito" target="_blank">![](https://img.icons8.com/stickers/48/null/instagram-new--v2.png)</a>
+<a href="https://instagram.com/kimmohito" target="_blank">![](https://img.icons8.com/stickers/48/null/instagram-new--v2.png)</a>
 
 </div>
 
