@@ -1,14 +1,7 @@
-![](header.png)
 
 <!-- Header -->
 <div align="center">
-<a href="#"><img src="https://readme-typing-svg.demolab.com/?lines=
-Hello%20World!;
-I'm%20a%20Full-stack%20developer.;
-I%20design%20UI/UX.;
-I%20have%205%2B%20years%20of%20experience.;
-I'm%20a%20Founder%20of%20RojakCube.;
-I'm%20always%20Typing...&font=Fira%20Code&center=true&width=440&height=45&color=13da5a&vCenter=true&size=22&pause=2000"/></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com/?lines=Hello%20World!;I'm%20a%20Full-stack%20developer.;I%20design%20UI/UX.;I%20have%205%2B%20years%20of%20experience.;I'm%20a%20Founder%20of%20RojakCube.;I'm%20always%20Typing...&font=Fira%20Code&center=true&width=440&height=45&color=13da5a&vCenter=true&size=22&pause=2000"/></a>
 </div>
 
 
@@ -23,17 +16,14 @@ I'm a versatile and experienced full-stack developer with years of track record 
 
 
 
-[![](https://img.shields.io/badge/Follow-9k-fff?logo=linkedin&style=social)](#)
 
-[![](https://img.shields.io/badge/Follow-9k-fff?logo=instagram&style=social)](#)
-
-[![](https://img.shields.io/badge/Follow-9k-fff?logo=twitter&style=social)](#)
-
+[![](https://img.shields.io/badge/Follow-9k-fff?logo=instagram&style=social)](https://instagram.com/kimmohito)
+[![](https://img.shields.io/badge/Follow-3k-fff?logo=twitter&style=social)](https://twitter.com/kimmohito)
+[![](https://img.shields.io/badge/Follow-1k-fff?logo=linkedin&style=social)](https://linkedin.com/in/kimmohito)
 
 
-[![Twitter](https://img.shields.io/twitter/follow/kimmohito?label=Follow&style=social)](#)
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCnsIaJK9zEXAqXJsexevOfA?label=Subscribe&style=social)](#)
-
+<!-- [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCnsIaJK9zEXAqXJsexevOfA?label=Subscribe&style=social)](#)
+ -->
 
 </div>
 
@@ -71,7 +61,6 @@ I'm a versatile and experienced full-stack developer with years of track record 
 
 </div> -->
 
-![](footer.png)
 
 
 
