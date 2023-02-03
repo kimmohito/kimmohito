@@ -1,3 +1,5 @@
+![](header.png)
+
 <!-- Header -->
 <div align="center">
 <a href="#"><img src="https://readme-typing-svg.demolab.com/?lines=
@@ -9,22 +11,32 @@ I'm%20a%20Founder%20of%20RojakCube.;
 I'm%20always%20Typing...&font=Fira%20Code&center=true&width=440&height=45&color=13da5a&vCenter=true&size=22&pause=2000"/></a>
 </div>
 
+
+
 <!-- About Me -->
 <div align="left" style="text-align: justify;">
 I'm a versatile and experienced full-stack developer with years of track record of delivering impactful solutions. With experience in freelance projects and as a junior developer, I have honed my skills in creating robust and scalable systems that meet the unique needs of each client. I'm able to work independently and deliver results under tight deadlines, both remotely and without supervision, I'm confident in my ability to quickly adapt and excel for delivering high-quality work whether working in a fast-paced startup environment or contributing to a remote project. With my passion for innovation and commitment to delivering high-quality work, I am dedicated to leveraging my skills to make a positive impact in the world of technology. My combination of technical expertise and ability to adapt makes me a valuable asset to any team.
 </div><br>
 
-
 <!-- Skills -->
 <div align="center">
 
-[![](https://img.icons8.com/stickers/48/null/discord.png)](#)
-[![](https://img.icons8.com/stickers/48/null/domain--v1.png)](https://kimmohito.com)
-[![](https://img.icons8.com/stickers/48/null/linkedin.png)](https://linkedin.com/in/kimmohito)
-[![](https://img.icons8.com/stickers/48/null/twitter.png)](https://twitter.com/kimmohito)
-[![](https://img.icons8.com/stickers/48/null/instagram-new--v2.png)](https://instagram.com/kimmohito)
+
+
+[![](https://img.shields.io/badge/Follow-9k-fff?logo=linkedin&style=social)](#)
+
+[![](https://img.shields.io/badge/Follow-9k-fff?logo=instagram&style=social)](#)
+
+[![](https://img.shields.io/badge/Follow-9k-fff?logo=twitter&style=social)](#)
+
+
+
+[![Twitter](https://img.shields.io/twitter/follow/kimmohito?label=Follow&style=social)](#)
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCnsIaJK9zEXAqXJsexevOfA?label=Subscribe&style=social)](#)
+
 
 </div>
+
 
 <!-- Skills -->
 <div align="center">
@@ -59,6 +71,7 @@ I'm a versatile and experienced full-stack developer with years of track record 
 
 </div> -->
 
+![](footer.png)
 
 
 
