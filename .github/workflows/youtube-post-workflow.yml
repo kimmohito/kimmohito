@@ -1,0 +1,16 @@
+name: "Update YouTube video on kimmohito/README.md"
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch :
+jobs:
+  update-readme-with-youtube:
+    name: "Update YouTube video on kimmohito/README.md"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          commit_message: "Update YouTube video on kimmohito/README.md"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCnsIaJK9zEXAqXJsexevOfA"
