@@ -47,9 +47,6 @@ I'm a versatile and experienced full-stack developer with years of track record 
 ![](https://img.icons8.com/color/36/null/adobe-xd.png)
 ![](https://img.icons8.com/color/36/null/adobe-illustrator.png)
 ![](https://img.icons8.com/color/36/null/figma.png)
-![](https://img.icons8.com/color/36/null/mysql.png)
-![](https://img.icons8.com/color/36/null/postgreesql.png)
-![](https://img.icons8.com/color/36/null/redis.png)
 
 </div>
 
