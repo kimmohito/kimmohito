@@ -1,6 +1,12 @@
 <!-- Header -->
 <div align="center">
-<a href="#"><img src="https://readme-typing-svg.demolab.com/?lines=Hello%20World!;I'm%20a%20Full-stack%20developer.;I%20design%20UI/UX.;I%20have%205%2B%20years%20of%20experience.;I'm%20a%20Founder%20of%20RojakCube.;I'm%20always%20Typing...&font=Fira%20Code&center=true&width=440&height=45&color=13da5a&vCenter=true&size=22&pause=2000"/></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com/?lines=
+Hello%20World!;
+I'm%20a%20Full-stack%20developer.;
+I%20design%20UI/UX.;
+I%20have%205%2B%20years%20of%20experience.;
+I'm%20a%20Founder%20of%20RojakCube.;
+I'm%20always%20Typing...&font=Fira%20Code&center=true&width=440&height=45&color=13da5a&vCenter=true&size=22&pause=2000"/></a>
 </div>
 
 <!-- About Me -->
@@ -18,16 +24,10 @@ I'm a versatile and experienced full-stack developer with years of track record 
 [![](https://img.icons8.com/stickers/48/null/twitter.png)](https://twitter.com/kimmohito)
 [![](https://img.icons8.com/stickers/48/null/instagram-new--v2.png)](https://instagram.com/kimmohito)
 
-<a href="https://instagram.com/kimmohito" target="_blank">![](https://img.icons8.com/stickers/48/null/instagram-new--v2.png)</a>
-<a href="https://instagram.com/kimmohito" target="_blank">![](https://img.icons8.com/stickers/48/null/instagram-new--v2.png)</a>
-
-
-<a href="https://instagram.com/kimmohito" target="_blank"><img src="https://img.icons8.com/stickers/48/null/instagram-new--v2.png"></a>
-
 </div>
 
 <!-- Skills -->
-<div align="center">
+<div align="center"><br>
 
 ### Tech I use mostly
 ![](https://img.icons8.com/color/36/null/linux.png)
