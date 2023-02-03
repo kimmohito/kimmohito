@@ -27,7 +27,7 @@ I'm a versatile and experienced full-stack developer with years of track record 
 </div>
 
 <!-- Skills -->
-<div align="center"><br>
+<div align="center">
 
 ### Tech I use mostly
 ![](https://img.icons8.com/color/36/null/linux.png)
