@@ -13,18 +13,17 @@ I'm a versatile and experienced full-stack developer with years of track record 
 
 <!-- Skills
 <div align="center">
-
 [![](https://img.shields.io/badge/Follow-9k-fff?logo=instagram&style=social)](https://instagram.com/kimmohito)
 [![](https://img.shields.io/badge/Follow-3k-fff?logo=twitter&style=social)](https://twitter.com/kimmohito)
 [![](https://img.shields.io/badge/Follow-1k-fff?logo=linkedin&style=social)](https://linkedin.com/in/kimmohito)
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCnsIaJK9zEXAqXJsexevOfA?label=Subscribe&style=social)](#)
- 
 </div>
 -->
 
 <!-- Skills -->
 <div align="center">
-![](https://img.icons8.com/color/36/null/linux.png)
+
+ ![](https://img.icons8.com/color/36/null/linux.png)
 ![](https://img.icons8.com/color/36/null/bash.png)
 ![](https://img.icons8.com/color/36/null/git.png)
 ![](https://img.icons8.com/color/36/null/visual-studio-code-2019.png)
