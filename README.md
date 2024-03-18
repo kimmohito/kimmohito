@@ -64,6 +64,12 @@ Code. Laugh. Repeat.
 [![Composer](https://img.shields.io/badge/-composer-111?style=for-the-badge&logo=composer)]()
 [![Symfony](https://img.shields.io/badge/-Symfony-111?style=for-the-badge&logo=symfony)]()
 [![CakePHP](https://img.shields.io/badge/-CakePhp-111?style=for-the-badge&logo=cakephp)]()
+[![codeigniter](https://img.shields.io/badge/-codeigniter-111?style=for-the-badge&logo=codeigniter)]()
+[![Svelte](https://img.shields.io/badge/-svelte-111?style=for-the-badge&logo=svelte)]()
+[![Astro](https://img.shields.io/badge/-Astro-111?style=for-the-badge&logo=Astro)]()
+[![Jekyll](https://img.shields.io/badge/-Jekyll-111?style=for-the-badge&logo=Jekyll)]()
+[![Hugo](https://img.shields.io/badge/-hugo-111?style=for-the-badge&logo=Hugo)]()
+[![Gatsby](https://img.shields.io/badge/-Gatsby-111?style=for-the-badge&logo=Gatsby)]()
 
 #### Frontend/UI
 
@@ -82,10 +88,19 @@ Code. Laugh. Repeat.
 [![AlpineJs](https://img.shields.io/badge/-alpine.js-111?style=for-the-badge&logo=alpine.js)]()
 [![ChartJs](https://img.shields.io/badge/-chart.js-111?style=for-the-badge&logo=chart.js)]()
 [![Plotly](https://img.shields.io/badge/-plotly.js-111?style=for-the-badge&logo=plotly)]()
-[![Astro](https://img.shields.io/badge/-Astro-111?style=for-the-badge&logo=Astro)]()
+[![ThreeJS](https://img.shields.io/badge/-three.js-111?style=for-the-badge&logo=three.js)]()
+[![Jekyll](https://img.shields.io/badge/-Jekyll-111?style=for-the-badge&logo=Jekyll)]()
 [![HTMX](https://img.shields.io/badge/-htmx-111?style=for-the-badge&logo=htmx)]()
 [![HTML](https://img.shields.io/badge/-html-111?style=for-the-badge&logo=html5)]()
 [![Markdown](https://img.shields.io/badge/-markdown-111?style=for-the-badge&logo=markdown)]()
+[![tabler](https://img.shields.io/badge/-tabler_icons-111?style=for-the-badge&logo=educative)]()
+[![fontawesome](https://img.shields.io/badge/-fontawesome_icons-111?style=for-the-badge&logo=fontawesome)]()
+[![materialdesign](https://img.shields.io/badge/-material_design-111?style=for-the-badge&logo=materialdesign)]()
+[![materialdesignicons](https://img.shields.io/badge/-material_design_icons-111?style=for-the-badge&logo=materialdesignicons)]()
+[![mui](https://img.shields.io/badge/-material_design_ui-111?style=for-the-badge&logo=mui)]()
+[![icons8](https://img.shields.io/badge/-icons8-111?style=for-the-badge&logo=icons8)]()
+[![simpleicons](https://img.shields.io/badge/-simple_icons-111?style=for-the-badge&logo=simpleicons)]()
+[![iconify](https://img.shields.io/badge/-iconify-111?style=for-the-badge&logo=iconify)]()
 
 #### Backend
 
@@ -116,14 +131,21 @@ Code. Laugh. Repeat.
 [![graphql](https://img.shields.io/badge/-graphql-111?style=for-the-badge&logo=graphql)]()
 [![Jenkins](https://img.shields.io/badge/-Jenkins-111?style=for-the-badge&logo=jenkins)]()
 [![travis](https://img.shields.io/badge/-travis-111?style=for-the-badge&logo=travis)]()
+[![ElasticStack](https://img.shields.io/badge/-ElasticStack-111?style=for-the-badge&logo=ElasticStack)]()
+[![ElasticSearch](https://img.shields.io/badge/-elasticsearch-111?style=for-the-badge&logo=elasticsearch)]()
+[![LogStash](https://img.shields.io/badge/-LogStash-111?style=for-the-badge&logo=LogStash)]()
+[![Kibana](https://img.shields.io/badge/-Kibana-111?style=for-the-badge&logo=Kibana)]()
 
 [![Git](https://img.shields.io/badge/-Git-111?style=for-the-badge&logo=git)]()
 [![Github](https://img.shields.io/badge/-Github-111?style=for-the-badge&logo=github)]()
-[![GithubActions](https://img.shields.io/badge/-github_actions-111?style=for-the-badge&logo=githubactions)]()[![GithubCopilot](https://img.shields.io/badge/-github_copilot-111?style=for-the-badge&logo=githubcopilot)]()
+[![GithubPages](https://img.shields.io/badge/-Github_Pages-111?style=for-the-badge&logo=githubpages)]()
+[![GithubActions](https://img.shields.io/badge/-github_actions-111?style=for-the-badge&logo=githubactions)]()
+[![GithubCopilot](https://img.shields.io/badge/-github_copilot-111?style=for-the-badge&logo=githubcopilot)]()
 [![GitLFS](https://img.shields.io/badge/-Git_LFS-111?style=for-the-badge&logo=gitlfs)]()
 [![Gitpod](https://img.shields.io/badge/-Gitpod-111?style=for-the-badge&logo=gitpod)]()
 [![Gitbook](https://img.shields.io/badge/-Gitbook-111?style=for-the-badge&logo=gitbook)]()
 [![GitKraken](https://img.shields.io/badge/-GitKraken-111?style=for-the-badge&logo=gitkraken)]()
+[![gitea](https://img.shields.io/badge/-gitea-111?style=for-the-badge&logo=gitea)]()
 [![Gitlab](https://img.shields.io/badge/-Gitlab-111?style=for-the-badge&logo=gitlab)]()
 [![BitBucket](https://img.shields.io/badge/-BitBucket-111?style=for-the-badge&logo=bitbucket)]()
 
@@ -131,7 +153,6 @@ Code. Laugh. Repeat.
 [![Pnpm](https://img.shields.io/badge/-Npm-111?style=for-the-badge&logo=pnpm)]()
 [![Bun](https://img.shields.io/badge/-Bun-111?style=for-the-badge&logo=bun)]()
 [![Yarn](https://img.shields.io/badge/-Yarn-111?style=for-the-badge&logo=yarn)]()
-
 [![Vite](https://img.shields.io/badge/-vite-111?style=for-the-badge&logo=vite)]()
 [![Webpack](https://img.shields.io/badge/-Webpack-111?style=for-the-badge&logo=webpack)]()
 [![PostCSS](https://img.shields.io/badge/-PostCSS-111?style=for-the-badge&logo=postcss)]()
@@ -145,11 +166,9 @@ Code. Laugh. Repeat.
 [![heroku](https://img.shields.io/badge/-heroku-111?style=for-the-badge&logo=heroku)]()
 [![netlify](https://img.shields.io/badge/-netlify-111?style=for-the-badge&logo=netlify)]()
 [![cloudflare](https://img.shields.io/badge/-cloudflare-111?style=for-the-badge&logo=cloudflare)]()
-
 [![AWS](https://img.shields.io/badge/-AWS-111?style=for-the-badge&logo=amazonaws)]()
 [![AWSLambda](https://img.shields.io/badge/-AWSLambda-111?style=for-the-badge&logo=awslambda)]()
 [![AWSS3](https://img.shields.io/badge/-AWSS3-111?style=for-the-badge&logo=amazons3)]()
-
 [![Nginx](https://img.shields.io/badge/-Nginx-111?style=for-the-badge&logo=nginx)]()
 [![Apache](https://img.shields.io/badge/-Apache-111?style=for-the-badge&logo=apache)]()
 [![ApacheHadoop](https://img.shields.io/badge/-Apache_Hadoop-111?style=for-the-badge&logo=apachehadoop)]()
@@ -167,7 +186,7 @@ Code. Laugh. Repeat.
 [![tensorflow](https://img.shields.io/badge/-tensorflow-111?style=for-the-badge&logo=tensorflow)]()
 [![pytorch](https://img.shields.io/badge/-pytorch-111?style=for-the-badge&logo=pytorch)]()
 
-#### Testing/Security
+#### Testing/Security/Analyst
 
 [![postman](https://img.shields.io/badge/-postman-111?style=for-the-badge&logo=postman)]()
 [![Selenium](https://img.shields.io/badge/-Selenium-111?style=for-the-badge&logo=Selenium)]()
@@ -179,6 +198,7 @@ Code. Laugh. Repeat.
 #### Content Management System (CMS)
 
 [![WordPress](https://img.shields.io/badge/-WordPress-111?style=for-the-badge&logo=wordpress)]()
+[![elementor](https://img.shields.io/badge/-elementor-111?style=for-the-badge&logo=elementor)]()
 [![WooCommerce](https://img.shields.io/badge/-WooCommerce-111?style=for-the-badge&logo=woocommerce)]()
 [![Joomla](https://img.shields.io/badge/-Joomla-111?style=for-the-badge&logo=joomla)]()
 [![Drupal](https://img.shields.io/badge/-Drupal-111?style=for-the-badge&logo=drupal)]()
