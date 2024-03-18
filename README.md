@@ -35,6 +35,7 @@ Code. Laugh. Repeat.
 
 [![excalidraw](https://img.shields.io/badge/-excalidraw-111?style=for-the-badge&logo=excalidraw)]()
 [![Figma](https://img.shields.io/badge/-Figma-111?style=for-the-badge&logo=figma)]()
+[![Canva](https://img.shields.io/badge/-canva-111?style=for-the-badge&logo=canva)]()
 [![Xd](https://img.shields.io/badge/-Xd-111?style=for-the-badge&logo=adobexd)]()
 [![Illustrator](https://img.shields.io/badge/-Illustrator-111?style=for-the-badge&logo=adobeillustrator)]()
 [![Dreamweaver](https://img.shields.io/badge/-Dreamweaver-111?style=for-the-badge&logo=adobedreamweaver)]()
