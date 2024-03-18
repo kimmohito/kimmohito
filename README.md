@@ -98,6 +98,7 @@ Code. Laugh. Repeat.
 [![materialdesign](https://img.shields.io/badge/-material_design-111?style=for-the-badge&logo=materialdesign)]()
 [![materialdesignicons](https://img.shields.io/badge/-material_design_icons-111?style=for-the-badge&logo=materialdesignicons)]()
 [![mui](https://img.shields.io/badge/-material_design_ui-111?style=for-the-badge&logo=mui)]()
+[![uikit](https://img.shields.io/badge/-material_design_uikit-111?style=for-the-badge&logo=uikit)]()
 [![icons8](https://img.shields.io/badge/-icons8-111?style=for-the-badge&logo=icons8)]()
 [![simpleicons](https://img.shields.io/badge/-simple_icons-111?style=for-the-badge&logo=simpleicons)]()
 [![iconify](https://img.shields.io/badge/-iconify-111?style=for-the-badge&logo=iconify)]()
@@ -135,6 +136,8 @@ Code. Laugh. Repeat.
 [![ElasticSearch](https://img.shields.io/badge/-elasticsearch-111?style=for-the-badge&logo=elasticsearch)]()
 [![LogStash](https://img.shields.io/badge/-LogStash-111?style=for-the-badge&logo=LogStash)]()
 [![Kibana](https://img.shields.io/badge/-Kibana-111?style=for-the-badge&logo=Kibana)]()
+[![Unsplash](https://img.shields.io/badge/-Unsplash-111?style=for-the-badge&logo=Unsplash)]()
+[![Gravatar](https://img.shields.io/badge/-Gravatar-111?style=for-the-badge&logo=Gravatar)]()
 
 [![Git](https://img.shields.io/badge/-Git-111?style=for-the-badge&logo=git)]()
 [![Github](https://img.shields.io/badge/-Github-111?style=for-the-badge&logo=github)]()
@@ -175,6 +178,7 @@ Code. Laugh. Repeat.
 [![ApacheKafka](https://img.shields.io/badge/-Apache_Kafka-111?style=for-the-badge&logo=apachekafka)]()
 [![ApacheCordova](https://img.shields.io/badge/-Apache_Cordova-111?style=for-the-badge&logo=apachecordova)]()
 
+[![curl](https://img.shields.io/badge/-curl-111?style=for-the-badge&logo=curl)]()
 [![SSH](https://img.shields.io/badge/-SSH-111?style=for-the-badge&logo=ftp)]()
 [![FTP](https://img.shields.io/badge/-FTP-111?style=for-the-badge&logo=ftp)]()
 [![cyberduck](https://img.shields.io/badge/-cyberduck-111?style=for-the-badge&logo=cyberduck)]()
@@ -200,6 +204,7 @@ Code. Laugh. Repeat.
 [![WordPress](https://img.shields.io/badge/-WordPress-111?style=for-the-badge&logo=wordpress)]()
 [![elementor](https://img.shields.io/badge/-elementor-111?style=for-the-badge&logo=elementor)]()
 [![WooCommerce](https://img.shields.io/badge/-WooCommerce-111?style=for-the-badge&logo=woocommerce)]()
+[![shopify](https://img.shields.io/badge/-shopify-111?style=for-the-badge&logo=shopify)]()
 [![Joomla](https://img.shields.io/badge/-Joomla-111?style=for-the-badge&logo=joomla)]()
 [![Drupal](https://img.shields.io/badge/-Drupal-111?style=for-the-badge&logo=drupal)]()
 
