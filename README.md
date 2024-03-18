@@ -4,14 +4,14 @@ Code. Laugh. Repeat.
 
 
 <table>
-<tr>
-<td>
-<img width="16" height="16" src="https://img.icons8.com/color/48/monitor--v1.png" alt="monitor--v1"/>
-</td>
-<td>
-Test
-</td>
-</tr>
+    <tr>
+        <td>
+            <img width="18" height="18" src="https://img.icons8.com/color/48/monitor--v1.png" alt="monitor--v1"/>
+        </td>
+        <td>
+        Test
+        </td>
+    </tr>
 <table>
 
 
