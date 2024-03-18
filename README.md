@@ -31,7 +31,7 @@ Code. Laugh. Repeat.
 [![clickup](https://img.shields.io/badge/-clickup-111?style=for-the-badge&logo=clickup)]()
 [![anydesk](https://img.shields.io/badge/-anydesk-111?style=for-the-badge&logo=anydesk)]()
 
-#### Graphic Design & Multimedia
+#### Design
 
 [![Figma](https://img.shields.io/badge/-Figma-111?style=for-the-badge&logo=figma)]()
 [![Xd](https://img.shields.io/badge/-Xd-111?style=for-the-badge&logo=adobexd)]()
@@ -44,7 +44,7 @@ Code. Laugh. Repeat.
 [![AfterEffects](https://img.shields.io/badge/-AfterEffects-111?style=for-the-badge&logo=adobeaftereffects)]()
 [![SketchUp](https://img.shields.io/badge/-SketchUp-111?style=for-the-badge&logo=sketchup)]()
 
-#### Mobile Development
+#### Mobile
 
 [![Capacitor](https://img.shields.io/badge/-capacitor-111?style=for-the-badge&logo=capacitor)]()
 [![ReactNative](https://img.shields.io/badge/-React_Native-111?style=for-the-badge&logo=react)]()
@@ -52,7 +52,7 @@ Code. Laugh. Repeat.
 [![Dart](https://img.shields.io/badge/-Dart-111?style=for-the-badge&logo=Dart)]()
 [![pwa](https://img.shields.io/badge/-pwa-111?style=for-the-badge&logo=pwa)]()
 
-#### Web Development Frameworks
+#### Frameworks
 
 [![NuxtJS](https://img.shields.io/badge/-Nuxt-111?style=for-the-badge&logo=nuxt.js)]()
 [![NextJS](https://img.shields.io/badge/-Next-111?style=for-the-badge&logo=next.js)]()
@@ -62,7 +62,7 @@ Code. Laugh. Repeat.
 [![Symfony](https://img.shields.io/badge/-Symfony-111?style=for-the-badge&logo=symfony)]()
 [![CakePHP](https://img.shields.io/badge/-CakePhp-111?style=for-the-badge&logo=cakephp)]()
 
-#### Frontend/UI Development
+#### Frontend/UI
 
 [![Vue](https://img.shields.io/badge/-vue-111?style=for-the-badge&logo=vue.js)]()
 [![Vuetify](https://img.shields.io/badge/-vuetify-111?style=for-the-badge&logo=vuetify)]()
@@ -84,15 +84,14 @@ Code. Laugh. Repeat.
 [![HTML](https://img.shields.io/badge/-html-111?style=for-the-badge&logo=html5)]()
 [![Markdown](https://img.shields.io/badge/-markdown-111?style=for-the-badge&logo=markdown)]()
 
-
-#### Backend Development
+#### Backend
 
 [![NodeJS](https://img.shields.io/badge/-NodeJs-111?style=for-the-badge&logo=node.js)]()
 [![Php](https://img.shields.io/badge/-Php-111?style=for-the-badge&logo=php)]()
 [![Python](https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=python)]()
 [![Go](https://img.shields.io/badge/-go-111?style=for-the-badge&logo=go)]()
 
-#### Databases & Database Management
+#### Databases
 
 [![Firebase](https://img.shields.io/badge/-firebase-111?style=for-the-badge&logo=firebase)]()
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111?style=for-the-badge&logo=postgresql)]()
@@ -108,7 +107,7 @@ Code. Laugh. Repeat.
 [![adminer](https://img.shields.io/badge/-adminer-111?style=for-the-badge&logo=adminer)]()
 [![MongoDBcompass](https://img.shields.io/badge/-mongodb_compass-111?style=for-the-badge&logo=mongodb)]()
 
-#### Development & DevOps Tools
+#### DevOps
 
 [![Axios](https://img.shields.io/badge/-Axios-111?style=for-the-badge&logo=axios)]()
 [![graphql](https://img.shields.io/badge/-graphql-111?style=for-the-badge&logo=graphql)]()
@@ -147,28 +146,24 @@ Code. Laugh. Repeat.
 [![AWSLambda](https://img.shields.io/badge/-AWSLambda-111?style=for-the-badge&logo=awslambda)]()
 [![AWSS3](https://img.shields.io/badge/-AWSS3-111?style=for-the-badge&logo=amazons3)]()
 
-#### Server & Deployment Technologies
-
 [![Nginx](https://img.shields.io/badge/-Nginx-111?style=for-the-badge&logo=nginx)]()
 [![Apache](https://img.shields.io/badge/-Apache-111?style=for-the-badge&logo=apache)]()
 [![ApacheHadoop](https://img.shields.io/badge/-Apache_Hadoop-111?style=for-the-badge&logo=apachehadoop)]()
 [![ApacheKafka](https://img.shields.io/badge/-Apache_Kafka-111?style=for-the-badge&logo=apachekafka)]()
 [![ApacheCordova](https://img.shields.io/badge/-Apache_Cordova-111?style=for-the-badge&logo=apachecordova)]()
 
-#### File Transfer & FTP
-
 [![SSH](https://img.shields.io/badge/-SSH-111?style=for-the-badge&logo=ftp)]()
 [![FTP](https://img.shields.io/badge/-FTP-111?style=for-the-badge&logo=ftp)]()
 [![cyberduck](https://img.shields.io/badge/-cyberduck-111?style=for-the-badge&logo=cyberduck)]()
 [![FileZilla](https://img.shields.io/badge/-FileZilla-111?style=for-the-badge&logo=filezilla)]()
 
-#### Image Processing & Machine Learning
+#### Machine Learning
 
 [![opencv](https://img.shields.io/badge/-opencv-111?style=for-the-badge&logo=opencv)]()
 [![tensorflow](https://img.shields.io/badge/-tensorflow-111?style=for-the-badge&logo=tensorflow)]()
 [![pytorch](https://img.shields.io/badge/-pytorch-111?style=for-the-badge&logo=pytorch)]()
 
-#### Testing & Security
+#### Testing/Security
 
 [![postman](https://img.shields.io/badge/-postman-111?style=for-the-badge&logo=postman)]()
 [![Selenium](https://img.shields.io/badge/-Selenium-111?style=for-the-badge&logo=Selenium)]()
