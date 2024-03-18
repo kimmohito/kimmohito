@@ -6,7 +6,7 @@ Code. Laugh. Repeat.
 <table>
     <tr>
         <td>
-            <img width="18" height="18" src="https://img.icons8.com/color/48/monitor--v1.png" alt="monitor--v1"/>
+            <img width="20" height="20" src="https://img.icons8.com/color/48/monitor--v1.png" alt="monitor--v1"/>
         </td>
         <td>
         Test
