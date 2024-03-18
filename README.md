@@ -3,16 +3,10 @@ Code. Laugh. Repeat.
 ### My Workstation:
 
 
-<table>
-    <tr>
-        <td>
-            <img width="20" height="20" src="https://img.icons8.com/color/48/monitor--v1.png" alt="monitor--v1"/>
-        </td>
-        <td>
-        Test
-        </td>
-    </tr>
-<table>
+
+|   |   |
+| - | - |
+| ![](https://img.icons8.com/color/24/monitor--v1.png) | [ASUS ROG Strix XG49VQ](https://shope.ee/8f4vp0Tmx1) |
 
 
 
@@ -20,7 +14,7 @@ Code. Laugh. Repeat.
   
 - External GPU : [ASUS ROG XG Mobile RTX 4090](https://shope.ee/8zhmO2vx18)
 
-- <img width="16" height="16" src="https://img.icons8.com/color/48/monitor--v1.png" alt="monitor--v1"/> [ASUS ROG Strix XG49VQ](https://shope.ee/8f4vp0Tmx1)
+- Monitor : 
 
 - Keyboard : [ASUS ROG Claymore II MA02](https://shope.ee/9zaJPCMJ8d)
 
