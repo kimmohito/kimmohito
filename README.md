@@ -3,6 +3,16 @@ Code. Laugh. Repeat.
 ### My Workstation:
 
 
+<table>
+<tr>
+<td>
+<img width="16" height="16" src="https://img.icons8.com/color/48/monitor--v1.png" alt="monitor--v1"/>
+</td>
+<td>
+Test
+</td>
+</tr>
+<table>
 
 
 
