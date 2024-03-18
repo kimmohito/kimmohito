@@ -2,11 +2,15 @@ Code. Laugh. Repeat.
 
 ### My Workstation:
 
+
+
+
+
 - Laptop : [ASUS ROG Z13 FLow](https://shope.ee/8f4vnwyqgh) | CPU Intel i9-13900H | SSD 1TB | RAM 16GB | GPU Nvidia GeForce RTX 4050
   
 - External GPU : [ASUS ROG XG Mobile RTX 4090](https://shope.ee/8zhmO2vx18)
 
-- Monitor : [ASUS ROG Strix XG49VQ](https://shope.ee/8f4vp0Tmx1)
+- <img width="16" height="16" src="https://img.icons8.com/color/48/monitor--v1.png" alt="monitor--v1"/> [ASUS ROG Strix XG49VQ](https://shope.ee/8f4vp0Tmx1)
 
 - Keyboard : [ASUS ROG Claymore II MA02](https://shope.ee/9zaJPCMJ8d)
 
