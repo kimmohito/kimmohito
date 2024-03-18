@@ -29,6 +29,7 @@ Code. Laugh. Repeat.
 [![Notion](https://img.shields.io/badge/-Notion-111?style=for-the-badge&logo=notion)]()
 [![1Password](https://img.shields.io/badge/-1Password-111?style=for-the-badge&logo=1password)]()
 [![clickup](https://img.shields.io/badge/-clickup-111?style=for-the-badge&logo=clickup)]()
+[![trello](https://img.shields.io/badge/-trello-111?style=for-the-badge&logo=trello)]()
 [![anydesk](https://img.shields.io/badge/-anydesk-111?style=for-the-badge&logo=anydesk)]()
 
 #### Design
@@ -143,6 +144,7 @@ Code. Laugh. Repeat.
 [![DigitalOcean](https://img.shields.io/badge/-Digital_Ocean-111?style=for-the-badge&logo=digitalocean)]()
 [![heroku](https://img.shields.io/badge/-heroku-111?style=for-the-badge&logo=heroku)]()
 [![netlify](https://img.shields.io/badge/-netlify-111?style=for-the-badge&logo=netlify)]()
+[![cloudflare](https://img.shields.io/badge/-cloudflare-111?style=for-the-badge&logo=cloudflare)]()
 
 [![AWS](https://img.shields.io/badge/-AWS-111?style=for-the-badge&logo=amazonaws)]()
 [![AWSLambda](https://img.shields.io/badge/-AWSLambda-111?style=for-the-badge&logo=awslambda)]()
