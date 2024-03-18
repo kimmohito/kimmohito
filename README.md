@@ -2,31 +2,26 @@ Code. Laugh. Repeat.
 
 ### My Workstation:
 
+|  Icon | Name | Price (MYR) |
+| - | - | - |
+| ![](https://img.icons8.com/color/24/laptop.png) | [ASUS ROG FLow Z13 2023 (i9-13900H/1TB M.2/16GB DDR5/RTX4050)](https://shope.ee/8f4vnwyqgh) | 8,999.00 |
+| ![](https://img.icons8.com/color/24/video-card.png) | [ASUS ROG XG Mobile 2023 (16G GDDR6/RTX4090)](https://shope.ee/8zhmO2vx18) | 9,999.00 |
+| ![](https://img.icons8.com/color/24/monitor.png) | [ASUS ROG Strix XG49VQ (49"/144Hz/Curved)](https://shope.ee/8f4vp0Tmx1) | 4,842.00 |
+| ![](https://img.icons8.com/color/24/keyboard.png) | [ASUS ROG Claymore II MA02](https://shope.ee/9zaJPCMJ8d) | 1,099.00 |
+| ![](https://img.icons8.com/color/24/mouse.png) | [ASUS Rog Chakram X Origin P708](https://shope.ee/8KS5QXrkfZ) | 719.00 |
+| ![](https://img.icons8.com/color/24/keyboard.png) | [ASUS ROG Claymore II MA02](https://shope.ee/9zaJPCMJ8d) | 1,099.00 |
+| ![](https://img.icons8.com/color/24/nintendo-switch-pro-controller.png) | [ASUS ROG Raikiri PRO](https://shope.ee/5fRKI5g23B) | 799.00 |
+| ![](https://img.icons8.com/color/24/visual-game-boy.png) | [ASUS ROG Ally Z1](https://shope.ee/9exT22I5WV) <br> + [2TB NVMe WD Black SN770M](https://shope.ee/6V0RH0WD93) | 3,999.00 <br> 1,139.00 |
+| ![](https://img.icons8.com/color/24/ssd.png) | [ASUS ROG Strix Arion](https://shope.ee/3VMpeeQnid) <br> + [4TB NVMe WD Black SN850X](https://shope.ee/4KvweShEDz) | 249.00 <br> 2,609.00 |
+| ![](https://img.icons8.com/color/24/office-chair-2.png) | [ASUS ROG SL300C Chariot](https://shope.ee/9exT3ZsVaK) | 2,600.00 |
+| ![](https://img.icons8.com/color/24/smartphone.png) | [ASUS ROG Phone 8 Pro (1TB/24GB)](https://shope.ee/B6O60YoTH) | 5,999.00 |
+| ![](https://img.icons8.com/color/24/earbud-headphones.png) | [ASUS ROG Cetra Wireless Gaming Earbuds]() | 599.00 |
+| ![](https://img.icons8.com/color/24/fan-speed.png) | [ASUS ROG AeroActive Cooler X for 8/8 Pro](https://shope.ee/9exTPQv3Uv) | 349.00 |
+| ![](https://img.icons8.com/color/24/iphone-x.png) | [Apple iPhone 15 Pro Black Titanium (1TB)]() | 6,999.00 |
+| ![](https://img.icons8.com/color/24/apple-watch-apps.png) | [Apple Watch Ultra 2 (49mm/GPS+Cellular)](https://shope.ee/5V7uRjYCGM) | 3,799.00 |
+| ![](https://img.icons8.com/color/24/earbud-headphones.png) | [Apple AirPods Pro 2nd-Gen (USB-C)](https://shope.ee/9KKd19jNBp) | 1,099.00 |
 
 
-|   |   |
-| - | - |
-| ![](https://img.icons8.com/color/24/monitor--v1.png) | [ASUS ROG Strix XG49VQ](https://shope.ee/8f4vp0Tmx1) |
-
-
-
-- Laptop : [ASUS ROG Z13 FLow](https://shope.ee/8f4vnwyqgh) | CPU Intel i9-13900H | SSD 1TB | RAM 16GB | GPU Nvidia GeForce RTX 4050
-  
-- External GPU : [ASUS ROG XG Mobile RTX 4090](https://shope.ee/8zhmO2vx18)
-
-- Monitor : 
-
-- Keyboard : [ASUS ROG Claymore II MA02](https://shope.ee/9zaJPCMJ8d)
-
-- Mouse : [ASUS Rog Chakram X Origin P708](https://shope.ee/8KS5QXrkfZ)
-
-- Console : [ASUS ROG Raikiri PRO](https://shope.ee/5fRKI5g23B)
-
-- Gaming Console : [ASUS ROG Ally Z1](https://shope.ee/9exT22I5WV) + [2TB NVMe WD Black SN770M](https://shope.ee/6V0RH0WD93)
-
-- Portable SSD : [ASUS ROG Strix Arion](https://shope.ee/3VMpeeQnid) + [4TB NVMe WD Black SN850X](https://shope.ee/4KvweShEDz)
-
-- Gaming Chair : [ASUS ROG SL300C Chariot](https://shope.ee/9exT3ZsVaK)
 
 ### My Tools:
 
