@@ -1,6 +1,6 @@
 Code. Laugh. Repeat.
 
-### My Workstation & Gaming:
+### My Workstation:
 
 - Laptop : [ASUS ROG Z13 FLow](https://shope.ee/8f4vnwyqgh) | CPU Intel i9-13900H | SSD 1TB | RAM 16GB | GPU Nvidia GeForce RTX 4050
   
@@ -20,7 +20,7 @@ Code. Laugh. Repeat.
 
 - Gaming Chair : [ASUS ROG SL300C Chariot](https://shope.ee/9exT3ZsVaK)
 
-### My Software & Tools:
+### My Tools:
 
 #### Productivity
 
@@ -33,6 +33,7 @@ Code. Laugh. Repeat.
 
 #### Design
 
+[![excalidraw](https://img.shields.io/badge/-excalidraw-111?style=for-the-badge&logo=excalidraw)]()
 [![Figma](https://img.shields.io/badge/-Figma-111?style=for-the-badge&logo=figma)]()
 [![Xd](https://img.shields.io/badge/-Xd-111?style=for-the-badge&logo=adobexd)]()
 [![Illustrator](https://img.shields.io/badge/-Illustrator-111?style=for-the-badge&logo=adobeillustrator)]()
