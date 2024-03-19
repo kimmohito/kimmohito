@@ -280,10 +280,17 @@
 [![ApacheCordova](https://img.shields.io/badge/-Apache_Cordova-111?style=for-the-badge&logo=apachecordova)](https://cordova.apache.org/)
 
 [![curl](https://img.shields.io/badge/-curl-111?style=for-the-badge&logo=curl)](https://curl.se/)
-[![SSH](https://img.shields.io/badge/-SSH-111?style=for-the-badge&logo=ftp)](#)
+[![SSH](https://img.shields.io/badge/-SSH-111?style=for-the-badge&logo=educative)](#)
+[![](https://img.shields.io/badge/-bash-111?style=for-the-badge&logo=educative)](https://filezilla-project.org/)
+[![](https://img.shields.io/badge/-shell-111?style=for-the-badge&logo=educative)](https://filezilla-project.org/)
+[![](https://img.shields.io/badge/-fish-111?style=for-the-badge&logo=educative)](https://filezilla-project.org/)
+[![zsh](https://img.shields.io/badge/-zsh-111?style=for-the-badge&logo=educative)](https://filezilla-project.org/)
+[![ohmyzsh](https://img.shields.io/badge/-ohmyzsh-111?style=for-the-badge&logo=ohmyzsh)](https://filezilla-project.org/)
+[![p10k](https://img.shields.io/badge/-p10k-111?style=for-the-badge&logo=p10k)](https://filezilla-project.org/)
 [![FTP](https://img.shields.io/badge/-FTP-111?style=for-the-badge&logo=ftp)](#)
 [![cyberduck](https://img.shields.io/badge/-cyberduck-111?style=for-the-badge&logo=cyberduck)](https://cyberduck.io/)
 [![FileZilla](https://img.shields.io/badge/-FileZilla-111?style=for-the-badge&logo=filezilla)](https://filezilla-project.org/)
+
 
 </td>
 </tr>
