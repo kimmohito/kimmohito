@@ -49,18 +49,12 @@
 <table>
 <!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -->
 <tr>
-<th>
-hihi
-</th>
-</tr>
-<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -->
-<tr>
 <td>
 
 #### Productivity
 
 </td>
-<td><br>
+<td>
 
 [![edge](https://img.shields.io/badge/-edge-111?style=for-the-badge&logo=microsoftedge)](https://microsoft.com/en-us/edge/download)
 [![vscode](https://img.shields.io/badge/-VSCODE-111?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
@@ -94,7 +88,8 @@ hihi
 [![PremierePro](https://img.shields.io/badge/-PremierePro-111?style=for-the-badge&logo=adobepremierepro)](https://creativecloud.adobe.com/apps/download/premiere-pro)
 [![AfterEffects](https://img.shields.io/badge/-AfterEffects-111?style=for-the-badge&logo=adobeaftereffects)](https://creativecloud.adobe.com/apps/download/after-effects)
 [![SketchUp](https://img.shields.io/badge/-SketchUp-111?style=for-the-badge&logo=sketchup)](https://sketchup.com/)
-[![SketchUp](https://img.shields.io/badge/-SketchUp-111?style=for-the-badge&logo=lumion)](https://sketchup.com/)
+[![Lumion](https://img.shields.io/badge/-Lumion_Pro-111?style=for-the-badge&logo=lumion)](https://lumion.com/product/buy)
+[![AutoCad](https://img.shields.io/badge/-AutoCad-111?style=for-the-badge&logo=autocad)](https://autodesk.com/products/autocad/overview)
 
 
 </td>
@@ -103,7 +98,7 @@ hihi
 <tr>
 <td>
 
-#### Mobile Dev
+#### Mobile
 
 </td>
 <td><br>
@@ -191,8 +186,8 @@ hihi
 <td>
 
 [![NodeJS](https://img.shields.io/badge/-NodeJs-111?style=for-the-badge&logo=node.js)](https://nodejs.org/en/download)
-[![Php](https://img.shields.io/badge/-Php-111?style=for-the-badge&logo=php)](https://www.php.net/downloads.php)
-[![Python](https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=python)](https://www.python.org/downloads/)
+[![Php](https://img.shields.io/badge/-Php-111?style=for-the-badge&logo=php)](https://php.net/downloads.php)
+[![Python](https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=python)](https://python.org/downloads/)
 [![Go](https://img.shields.io/badge/-go-111?style=for-the-badge&logo=go)](https://go.dev/dl/)
 [![C#](https://img.shields.io/badge/-c%23-111?style=for-the-badge&logo=csharp)](https://w3schools.com/c#/)
 [![C++](https://img.shields.io/badge/-c%2B%2B-111?style=for-the-badge&logo=Cplusplus)](https://w3schools.com/c++/)
@@ -266,10 +261,10 @@ hihi
 [![PostCSS](https://img.shields.io/badge/-PostCSS-111?style=for-the-badge&logo=postcss)](https://postcss.org/)
 [![Babel](https://img.shields.io/badge/-Babel-111?style=for-the-badge&logo=babel)](https://babeljs.io/)
 
-[![Xampp](https://img.shields.io/badge/-Xampp-111?style=for-the-badge&logo=xampp)](https://www.apachefriends.org/download.html)
+[![Xampp](https://img.shields.io/badge/-Xampp-111?style=for-the-badge&logo=xampp)](https://apachefriends.org/download.html)
 [![laragon](https://img.shields.io/badge/-laragon-111?style=for-the-badge&logo=laragon)](https://laragon.org/download/)
 [![Ngrok](https://img.shields.io/badge/-Ngrok-111?style=for-the-badge&logo=ngrok)](https://ngrok.com/download)
-[![Docker](https://img.shields.io/badge/-Docker-111?style=for-the-badge&logo=docker)](https://www.docker.com/get-started/)
+[![Docker](https://img.shields.io/badge/-Docker-111?style=for-the-badge&logo=docker)](https://docker.com/get-started/)
 [![Vercel](https://img.shields.io/badge/-Vercel-111?style=for-the-badge&logo=vercel)](https://vercel.com/)
 [![DigitalOcean](https://img.shields.io/badge/-Digital_Ocean-111?style=for-the-badge&logo=digitalocean)](https://digitalocean.com)
 [![heroku](https://img.shields.io/badge/-heroku-111?style=for-the-badge&logo=heroku)](https://heroku.com/)
@@ -363,8 +358,8 @@ hihi
 [![centos](https://img.shields.io/badge/-centos-111?style=for-the-badge&logo=centos)](https://centos.org/download/)
 [![redhat](https://img.shields.io/badge/-redhat-111?style=for-the-badge&logo=redhat)](https://redhat.com/en/technologies/linux-platforms/enterprise-linux)
 [![fedora](https://img.shields.io/badge/-fedora-111?style=for-the-badge&logo=fedora)](https://fedoraproject.org/)
-[![suse](https://img.shields.io/badge/-suse-111?style=for-the-badge&logo=suse)](https://www.suse.com/products/)
-[![LinuxMint](https://img.shields.io/badge/-mint-111?style=for-the-badge&logo=linuxmint)](https://www.linuxmint.com/download.php)
+[![suse](https://img.shields.io/badge/-suse-111?style=for-the-badge&logo=suse)](https://suse.com/products/)
+[![LinuxMint](https://img.shields.io/badge/-mint-111?style=for-the-badge&logo=linuxmint)](https://linuxmint.com/download.php)
 [![LineageOS](https://img.shields.io/badge/-lineageos-111?style=for-the-badge&logo=lineageos)](https://download.lineageos.org/changes)
 
 </td>
