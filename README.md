@@ -74,7 +74,7 @@
 #### Graphic Design
 
 </td>
-<td><br>
+<td>
 
 [![excalidraw](https://img.shields.io/badge/-excalidraw-111?style=for-the-badge&logo=excalidraw)](https://excalidraw.com/)
 [![Figma](https://img.shields.io/badge/-Figma-111?style=for-the-badge&logo=figma)](https://figma.com/)
@@ -101,7 +101,7 @@
 #### Mobile
 
 </td>
-<td><br>
+<td>
 
 [![Capacitor](https://img.shields.io/badge/-capacitor-111?style=for-the-badge&logo=capacitor)](https://capacitorjs.com/)
 [![ReactNative](https://img.shields.io/badge/-React_Native-111?style=for-the-badge&logo=react)](https://reactnative.dev/)
@@ -118,7 +118,7 @@
 #### Frameworks
 
 </td>
-<td><br>
+<td>
 
 [![NuxtJS](https://img.shields.io/badge/-Nuxt-111?style=for-the-badge&logo=nuxt.js)](https://nuxt.com/)
 [![NextJS](https://img.shields.io/badge/-Next-111?style=for-the-badge&logo=next.js)](https://nextjs.org/)
@@ -143,7 +143,7 @@
 #### Frontend/UI
 
 </td>
-<td><br>
+<td>
 
 [![Vue](https://img.shields.io/badge/-vue-111?style=for-the-badge&logo=vue.js)](https://vuejs.org/)
 [![Vuetify](https://img.shields.io/badge/-vuetify-111?style=for-the-badge&logo=vuetify)](https://vuetifyjs.com/)
