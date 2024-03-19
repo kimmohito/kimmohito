@@ -151,7 +151,8 @@
 [![Intertia](https://img.shields.io/badge/-intertia-111?style=for-the-badge&logo=inertia)](https://inertiajs.com/)
 [![Livewire](https://img.shields.io/badge/-livewire-111?style=for-the-badge&logo=livewire)](https://laravel-livewire.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-111?style=for-the-badge&logo=typescript)](https://typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-111?style=for-the-badge&logo=javascript)](https://w3schools.com/js/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-111?style=for-the-badge&logo=javascript)]
+[![jquery](https://img.shields.io/badge/-jquery-111?style=for-the-badge&logo=jquery)](https://w3schools.com/js/)
 [![Tailwind](https://img.shields.io/badge/-Tailwind-111?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-111?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 [![Sass](https://img.shields.io/badge/-Sass-111?style=for-the-badge&logo=sass)](https://sass-lang.com/)
@@ -172,7 +173,11 @@
 [![uikit](https://img.shields.io/badge/-material_design_uikit-111?style=for-the-badge&logo=uikit)](https://getuikit.com/)
 [![icons8](https://img.shields.io/badge/-icons8-111?style=for-the-badge&logo=icons8)](https://icons8.com/)
 [![simpleicons](https://img.shields.io/badge/-simple_icons-111?style=for-the-badge&logo=simpleicons)](https://simpleicons.org/)
-[![iconify](https://img.shields.io/badge/-iconify-111?style=for-the-badge&logo=iconify)](https://icons8.com/)
+[![iconify](https://img.shields.io/badge/-iconify-111?style=for-the-badge&logo=iconify)](https://iconify.design/)
+[![heroicons](https://img.shields.io/badge/-heroicons-111?style=for-the-badge&logo=sheild)](https://heroicons.com/)
+[![shieldsdotio](https://img.shields.io/badge/-shields.io-111?style=for-the-badge&logo=shieldsdotio)](https://sheilds.io/)
+[![gravatar](https://img.shields.io/badge/-gravatar-111?style=for-the-badge&logo=gravatar)](https://sheilds.io/)
+[![unsplash](https://img.shields.io/badge/-unsplash-111?style=for-the-badge&logo=unsplash)](https://unsplash.com/)
 
 </td>
 </tr>
