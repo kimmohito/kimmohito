@@ -51,53 +51,6 @@
 <tr>
 <td>
 
-#### Productivity
-
-</td>
-<td>
-
-[![edge](https://img.shields.io/badge/-edge-111?style=for-the-badge&logo=microsoftedge)](https://microsoft.com/en-us/edge/download)
-[![vscode](https://img.shields.io/badge/-VSCODE-111?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
-[![Wakatime](https://img.shields.io/badge/-Wakatime-111?style=for-the-badge&logo=wakatime)](https://wakatime.com/)
-[![Notion](https://img.shields.io/badge/-Notion-111?style=for-the-badge&logo=notion)](https://notion.so/)
-[![1Password](https://img.shields.io/badge/-1Password-111?style=for-the-badge&logo=1password)](https://1password.com/)
-[![clickup](https://img.shields.io/badge/-clickup-111?style=for-the-badge&logo=clickup)](https://clickup.com/)
-[![trello](https://img.shields.io/badge/-trello-111?style=for-the-badge&logo=trello)](https://trello.com/)
-[![anydesk](https://img.shields.io/badge/-anydesk-111?style=for-the-badge&logo=anydesk)](https://anydesk.com/)
-
-</td>
-</tr>
-<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -->
-<tr>
-<td>
-
-#### Graphic Design
-
-</td>
-<td>
-
-[![excalidraw](https://img.shields.io/badge/-excalidraw-111?style=for-the-badge&logo=excalidraw)](https://excalidraw.com/)
-[![Figma](https://img.shields.io/badge/-Figma-111?style=for-the-badge&logo=figma)](https://figma.com/)
-[![Canva](https://img.shields.io/badge/-canva-111?style=for-the-badge&logo=canva)](https://canva.com/)
-[![Xd](https://img.shields.io/badge/-Xd-111?style=for-the-badge&logo=adobexd)](https://creativecloud.adobe.com/apps/download/xd)
-[![Illustrator](https://img.shields.io/badge/-Illustrator-111?style=for-the-badge&logo=adobeillustrator)](https://creativecloud.adobe.com/apps/download/illustrator)
-[![Dreamweaver](https://img.shields.io/badge/-Dreamweaver-111?style=for-the-badge&logo=adobedreamweaver)](https://creativecloud.adobe.com/apps/download/dreamweaver)
-[![InDesign](https://img.shields.io/badge/-InDesign-111?style=for-the-badge&logo=adobeindesign)](https://creativecloud.adobe.com/apps/download/indesign)
-[![Photoshop](https://img.shields.io/badge/-Photoshop-111?style=for-the-badge&logo=adobephotoshop)](https://creativecloud.adobe.com/apps/download/photoshop)
-[![Lightroom](https://img.shields.io/badge/-Lightroom-111?style=for-the-badge&logo=adobelightroom)](https://creativecloud.adobe.com/apps/download/lightroom-classic)
-[![PremierePro](https://img.shields.io/badge/-PremierePro-111?style=for-the-badge&logo=adobepremierepro)](https://creativecloud.adobe.com/apps/download/premiere-pro)
-[![AfterEffects](https://img.shields.io/badge/-AfterEffects-111?style=for-the-badge&logo=adobeaftereffects)](https://creativecloud.adobe.com/apps/download/after-effects)
-[![SketchUp](https://img.shields.io/badge/-SketchUp-111?style=for-the-badge&logo=sketchup)](https://sketchup.com/)
-[![Lumion](https://img.shields.io/badge/-Lumion_Pro-111?style=for-the-badge&logo=lumion)](https://lumion.com/product/buy)
-[![AutoCad](https://img.shields.io/badge/-AutoCad-111?style=for-the-badge&logo=autocad)](https://autodesk.com/products/autocad/overview)
-
-
-</td>
-</tr>
-<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -->
-<tr>
-<td>
-
 #### Mobile
 
 </td>
@@ -373,6 +326,53 @@
 [![suse](https://img.shields.io/badge/-suse-111?style=for-the-badge&logo=suse)](https://suse.com/products/)
 [![LinuxMint](https://img.shields.io/badge/-mint-111?style=for-the-badge&logo=linuxmint)](https://linuxmint.com/download.php)
 [![LineageOS](https://img.shields.io/badge/-lineageos-111?style=for-the-badge&logo=lineageos)](https://download.lineageos.org/changes)
+
+</td>
+</tr>
+<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -->
+<tr>
+<td>
+
+#### Productivity
+
+</td>
+<td>
+
+[![edge](https://img.shields.io/badge/-edge-111?style=for-the-badge&logo=microsoftedge)](https://microsoft.com/en-us/edge/download)
+[![vscode](https://img.shields.io/badge/-VSCODE-111?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
+[![Wakatime](https://img.shields.io/badge/-Wakatime-111?style=for-the-badge&logo=wakatime)](https://wakatime.com/)
+[![Notion](https://img.shields.io/badge/-Notion-111?style=for-the-badge&logo=notion)](https://notion.so/)
+[![1Password](https://img.shields.io/badge/-1Password-111?style=for-the-badge&logo=1password)](https://1password.com/)
+[![clickup](https://img.shields.io/badge/-clickup-111?style=for-the-badge&logo=clickup)](https://clickup.com/)
+[![trello](https://img.shields.io/badge/-trello-111?style=for-the-badge&logo=trello)](https://trello.com/)
+[![anydesk](https://img.shields.io/badge/-anydesk-111?style=for-the-badge&logo=anydesk)](https://anydesk.com/)
+
+</td>
+</tr>
+<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -->
+<tr>
+<td>
+
+#### Graphic Design
+
+</td>
+<td>
+
+[![excalidraw](https://img.shields.io/badge/-excalidraw-111?style=for-the-badge&logo=excalidraw)](https://excalidraw.com/)
+[![Figma](https://img.shields.io/badge/-Figma-111?style=for-the-badge&logo=figma)](https://figma.com/)
+[![Canva](https://img.shields.io/badge/-canva-111?style=for-the-badge&logo=canva)](https://canva.com/)
+[![Xd](https://img.shields.io/badge/-Xd-111?style=for-the-badge&logo=adobexd)](https://creativecloud.adobe.com/apps/download/xd)
+[![Illustrator](https://img.shields.io/badge/-Illustrator-111?style=for-the-badge&logo=adobeillustrator)](https://creativecloud.adobe.com/apps/download/illustrator)
+[![Dreamweaver](https://img.shields.io/badge/-Dreamweaver-111?style=for-the-badge&logo=adobedreamweaver)](https://creativecloud.adobe.com/apps/download/dreamweaver)
+[![InDesign](https://img.shields.io/badge/-InDesign-111?style=for-the-badge&logo=adobeindesign)](https://creativecloud.adobe.com/apps/download/indesign)
+[![Photoshop](https://img.shields.io/badge/-Photoshop-111?style=for-the-badge&logo=adobephotoshop)](https://creativecloud.adobe.com/apps/download/photoshop)
+[![Lightroom](https://img.shields.io/badge/-Lightroom-111?style=for-the-badge&logo=adobelightroom)](https://creativecloud.adobe.com/apps/download/lightroom-classic)
+[![PremierePro](https://img.shields.io/badge/-PremierePro-111?style=for-the-badge&logo=adobepremierepro)](https://creativecloud.adobe.com/apps/download/premiere-pro)
+[![AfterEffects](https://img.shields.io/badge/-AfterEffects-111?style=for-the-badge&logo=adobeaftereffects)](https://creativecloud.adobe.com/apps/download/after-effects)
+[![SketchUp](https://img.shields.io/badge/-SketchUp-111?style=for-the-badge&logo=sketchup)](https://sketchup.com/)
+[![Lumion](https://img.shields.io/badge/-Lumion_Pro-111?style=for-the-badge&logo=lumion)](https://lumion.com/product/buy)
+[![AutoCad](https://img.shields.io/badge/-AutoCad-111?style=for-the-badge&logo=autocad)](https://autodesk.com/products/autocad/overview)
+
 
 </td>
 </tr>
