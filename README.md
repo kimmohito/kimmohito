@@ -234,10 +234,6 @@
 [![graphql](https://img.shields.io/badge/-graphql-111?style=for-the-badge&logo=graphql)](https://graphql.org/)
 [![Jenkins](https://img.shields.io/badge/-Jenkins-111?style=for-the-badge&logo=jenkins)](https://jenkins.io/)
 [![travis](https://img.shields.io/badge/-travis-111?style=for-the-badge&logo=travis)](https://travis-ci.com/)
-[![ElasticStack](https://img.shields.io/badge/-ElasticStack-111?style=for-the-badge&logo=ElasticStack)](https://elastic.co/elastic-stack/)
-[![ElasticSearch](https://img.shields.io/badge/-elasticsearch-111?style=for-the-badge&logo=elasticsearch)](https://elastic.co/elasticsearch)
-[![LogStash](https://img.shields.io/badge/-LogStash-111?style=for-the-badge&logo=LogStash)](https://elastic.co/logstash)
-[![Kibana](https://img.shields.io/badge/-Kibana-111?style=for-the-badge&logo=Kibana)](https://elastic.co/kibana)
 
 [![Git](https://img.shields.io/badge/-Git-111?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![Github](https://img.shields.io/badge/-Github-111?style=for-the-badge&logo=github)](https://github.com/)
@@ -324,6 +320,10 @@
 [![laraveldusk](https://img.shields.io/badge/-laravel_dusk-111?style=for-the-badge&logo=laraveldusk)](https://laravel.com/docs/10.x/dusk)
 [![zap](https://img.shields.io/badge/-zap-111?style=for-the-badge&logo=zap)](https://zaproxy.org/)
 [![burpsuite](https://img.shields.io/badge/-burpsuite-111?style=for-the-badge&logo=burpsuite)](https://portswigger.net/burp)
+[![ElasticStack](https://img.shields.io/badge/-ElasticStack-111?style=for-the-badge&logo=ElasticStack)](https://elastic.co/elastic-stack/)
+[![ElasticSearch](https://img.shields.io/badge/-elasticsearch-111?style=for-the-badge&logo=elasticsearch)](https://elastic.co/elasticsearch)
+[![LogStash](https://img.shields.io/badge/-LogStash-111?style=for-the-badge&logo=LogStash)](https://elastic.co/logstash)
+[![Kibana](https://img.shields.io/badge/-Kibana-111?style=for-the-badge&logo=Kibana)](https://elastic.co/kibana)
 
 </td>
 </tr>
