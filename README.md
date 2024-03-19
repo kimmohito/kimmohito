@@ -1,32 +1,68 @@
-> "Code. Laugh. Repeat."
+> Code. Laugh. Repeat.
 
-### My Workstation:
+### My Gaming & Dev Workstation:
 
-|  Icon | Name | Price (MYR) |
+| Icon | Item | Price (MYR) |
 | - | - | - |
-| ![](https://img.icons8.com/color/24/laptop.png) | [ASUS ROG FLow Z13 2023 (i9-13900H/1TB M.2/16GB DDR5/RTX4050)](https://shope.ee/8f4vnwyqgh) | 8,999.00 |
-| ![](https://img.icons8.com/color/24/video-card.png) | [ASUS ROG XG Mobile 2023 (16G GDDR6/RTX4090)](https://shope.ee/8zhmO2vx18) | 9,999.00 |
-| ![](https://img.icons8.com/color/24/monitor.png) | [ASUS ROG Strix XG49VQ (49"/144Hz/Curved)](https://shope.ee/8f4vp0Tmx1) | 4,842.00 |
-| ![](https://img.icons8.com/color/24/keyboard.png) | [ASUS ROG Claymore II MA02](https://shope.ee/9zaJPCMJ8d) | 1,099.00 |
-| ![](https://img.icons8.com/color/24/mouse.png) | [ASUS Rog Chakram X Origin P708](https://shope.ee/8KS5QXrkfZ) | 719.00 |
-| ![](https://img.icons8.com/color/24/keyboard.png) | [ASUS ROG Claymore II MA02](https://shope.ee/9zaJPCMJ8d) | 1,099.00 |
-| ![](https://img.icons8.com/color/24/nintendo-switch-pro-controller.png) | [ASUS ROG Raikiri PRO](https://shope.ee/5fRKI5g23B) | 799.00 |
-| ![](https://img.icons8.com/color/24/visual-game-boy.png) | [ASUS ROG Ally Z1](https://shope.ee/9exT22I5WV) <br> + [2TB NVMe WD Black SN770M](https://shope.ee/6V0RH0WD93) | 3,999.00 <br> 1,139.00 |
-| ![](https://img.icons8.com/color/24/ssd.png) | [ASUS ROG Strix Arion](https://shope.ee/3VMpeeQnid) <br> + [4TB NVMe WD Black SN850X](https://shope.ee/4KvweShEDz) | 249.00 <br> 2,609.00 |
-| ![](https://img.icons8.com/color/24/office-chair-2.png) | [ASUS ROG SL300C Chariot](https://shope.ee/9exT3ZsVaK) | 2,600.00 |
-| ![](https://img.icons8.com/color/24/smartphone.png) | [ASUS ROG Phone 8 Pro (1TB/24GB)](https://shope.ee/B6O60YoTH) | 5,999.00 |
-| ![](https://img.icons8.com/color/24/earbud-headphones.png) | [ASUS ROG Cetra Wireless Gaming Earbuds]() | 599.00 |
-| ![](https://img.icons8.com/color/24/fan-speed.png) | [ASUS ROG AeroActive Cooler X for 8/8 Pro](https://shope.ee/9exTPQv3Uv) | 349.00 |
-| ![](https://img.icons8.com/color/24/iphone-x.png) | [Apple iPhone 15 Pro Black Titanium (1TB)]() | 6,999.00 |
+| ![](https://img.icons8.com/color/24/laptop.png) | [ROG FLow Z13 2023 (i9-13900H/1TB M.2/16GB DDR5/RTX4050)](https://shope.ee/8f4vnwyqgh) <br> + [2TB NVMe WD Black SN770M](https://shope.ee/6V0RH0WD93) | 8,999.00 <br> 1,139.00 |
+| ![](https://img.icons8.com/color/24/video-card.png) | [ROG XG Mobile 2023 (16G GDDR6/RTX4090)](https://shope.ee/8zhmO2vx18) | 9,999.00 |
+| ![](https://img.icons8.com/color/24/monitor.png) | [ROG Strix XG49VQ (49"/144Hz/Curved)](https://shope.ee/8f4vp0Tmx1) | 4,842.00 |
+| ![](https://img.icons8.com/color/24/keyboard.png) | [ROG Claymore II MA02](https://shope.ee/9zaJPCMJ8d) | 1,099.00 |
+| ![](https://img.icons8.com/color/24/mouse.png) | [ROG Chakram X Origin P708](https://shope.ee/8KS5QXrkfZ) | 719.00 |
+| ![](https://img.icons8.com/color/24/nintendo-switch-pro-controller.png) | [ROG Raikiri PRO](https://shope.ee/5fRKI5g23B) | 799.00 |
+| ![](https://img.icons8.com/color/24/ssd.png) | [ROG Strix Arion](https://shope.ee/3VMpeeQnid) <br> + [4TB NVMe WD Black SN850X](https://shope.ee/4KvweShEDz) | 249.00 <br> 2,609.00 |
+| ![](https://img.icons8.com/color/24/earbud-headphones.png) | [ROG Cetra Wireless Gaming Earbuds](https://shope.ee/B6O60YoTH) | 599.00 |
+
+<!-- |  Icon | Name | Price (MYR) |
+| - | - | - |
+
+| ![](https://img.icons8.com/color/24/visual-game-boy.png) | [ROG Ally Z1](https://shope.ee/9exT22I5WV) <br> + [2TB NVMe WD Black SN770M](https://shope.ee/6V0RH0WD93) | 3,999.00 <br> 1,139.00 |
+
+| ![](https://img.icons8.com/color/24/office-chair-2.png) | [ROG SL300C Chariot](https://shope.ee/9exT3ZsVaK) | 2,600.00 |
+
+| ![](https://img.icons8.com/color/24/smartphone.png) | [ROG Phone 8 Pro (1TB/24GB)](https://shope.ee/g2eguXFEl) | 5,999.00 |
+
+| ![](https://img.icons8.com/color/24/fan-speed.png) | [ROG AeroActive Cooler X for 8/8 Pro](https://shope.ee/9exTPQv3Uv) | 349.00 |
+
+
 | ![](https://img.icons8.com/color/24/apple-watch-apps.png) | [Apple Watch Ultra 2 (49mm/GPS+Cellular)](https://shope.ee/5V7uRjYCGM) | 3,799.00 |
+
 | ![](https://img.icons8.com/color/24/earbud-headphones.png) | [Apple AirPods Pro 2nd-Gen (USB-C)](https://shope.ee/9KKd19jNBp) | 1,099.00 |
 
+-->
+
+
+### My Camera Gears:
+
+| Icon | Item | Price (MYR) |
+| - | - | - |
+| ![](https://img.icons8.com/color/24/iphone-x.png) | [Apple iPhone 15 Pro Black Titanium (1TB)](https://shope.ee/9A1CoUkETL) | 6,999.00 |
+| ![](https://img.icons8.com/color/24/slr-large-lens.png) | [Canon EOS 80D + 18-55mm STM Lens](https://shope.ee/8KS6uPN3J2) | 5,299.00 |
+| ![](https://img.icons8.com/color/24/compact-camera.png) | [Canon EOS M50 Mark II + 15-45mm Kit Lens](https://shope.ee/2q7AMNoq4O) | 3,199.00 |
+| ![](https://img.icons8.com/color/24/small-lens.png) | [Canon 50mm F/1.4 USM Ultrasonic Lens](https://shope.ee/5fRLjUP5FJ) | 1,999.00 |
+| ![](https://img.icons8.com/color/24/charge-battery.png) | [Canon BG-E14 Battery Grip](https://shope.ee/3fgHLm2V87) | 249.00 |
+| ![](https://img.icons8.com/color/24/flash-on.png) | [Godox TT520II Camera Flash Speedlite](https://shope.ee/g2fmHZaLY) | 182.90 |
 
 
 ### My Tools:
 
+<table>
+<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -->
+<tr>
+<th>
+hihi
+</th>
+</tr>
+<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -->
+<tr>
+<td>
+
 #### Productivity
 
+</td>
+<td><br>
+
+[![edge](https://img.shields.io/badge/-edge-111?style=for-the-badge&logo=microsoftedge)](https://microsoft.com/en-us/edge/download)
 [![vscode](https://img.shields.io/badge/-VSCODE-111?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
 [![Wakatime](https://img.shields.io/badge/-Wakatime-111?style=for-the-badge&logo=wakatime)](https://wakatime.com/)
 [![Notion](https://img.shields.io/badge/-Notion-111?style=for-the-badge&logo=notion)](https://notion.so/)
@@ -35,7 +71,16 @@
 [![trello](https://img.shields.io/badge/-trello-111?style=for-the-badge&logo=trello)](https://trello.com/)
 [![anydesk](https://img.shields.io/badge/-anydesk-111?style=for-the-badge&logo=anydesk)](https://anydesk.com/)
 
-#### Design
+</td>
+</tr>
+<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -->
+<tr>
+<td>
+
+#### Graphic Design
+
+</td>
+<td><br>
 
 [![excalidraw](https://img.shields.io/badge/-excalidraw-111?style=for-the-badge&logo=excalidraw)](https://excalidraw.com/)
 [![Figma](https://img.shields.io/badge/-Figma-111?style=for-the-badge&logo=figma)](https://figma.com/)
@@ -49,8 +94,19 @@
 [![PremierePro](https://img.shields.io/badge/-PremierePro-111?style=for-the-badge&logo=adobepremierepro)](https://creativecloud.adobe.com/apps/download/premiere-pro)
 [![AfterEffects](https://img.shields.io/badge/-AfterEffects-111?style=for-the-badge&logo=adobeaftereffects)](https://creativecloud.adobe.com/apps/download/after-effects)
 [![SketchUp](https://img.shields.io/badge/-SketchUp-111?style=for-the-badge&logo=sketchup)](https://sketchup.com/)
+[![SketchUp](https://img.shields.io/badge/-SketchUp-111?style=for-the-badge&logo=lumion)](https://sketchup.com/)
 
-#### Mobile
+
+</td>
+</tr>
+<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -->
+<tr>
+<td>
+
+#### Mobile Dev
+
+</td>
+<td><br>
 
 [![Capacitor](https://img.shields.io/badge/-capacitor-111?style=for-the-badge&logo=capacitor)](https://capacitorjs.com/)
 [![ReactNative](https://img.shields.io/badge/-React_Native-111?style=for-the-badge&logo=react)](https://reactnative.dev/)
@@ -58,7 +114,16 @@
 [![Dart](https://img.shields.io/badge/-Dart-111?style=for-the-badge&logo=Dart)](https://dart.dev/)
 [![pwa](https://img.shields.io/badge/-pwa-111?style=for-the-badge&logo=pwa)](https://web.dev/learn/pwa/)
 
+</td>
+</tr>
+<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -->
+<tr>
+<td>
+
 #### Frameworks
+
+</td>
+<td><br>
 
 [![NuxtJS](https://img.shields.io/badge/-Nuxt-111?style=for-the-badge&logo=nuxt.js)](https://nuxt.com/)
 [![NextJS](https://img.shields.io/badge/-Next-111?style=for-the-badge&logo=next.js)](https://nextjs.org/)
@@ -74,7 +139,16 @@
 [![Hugo](https://img.shields.io/badge/-hugo-111?style=for-the-badge&logo=Hugo)](https://gohugo.io/)
 [![Gatsby](https://img.shields.io/badge/-Gatsby-111?style=for-the-badge&logo=Gatsby)](https://gatsbyjs.com/)
 
+</td>
+</tr>
+<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -->
+<tr>
+<td>
+
 #### Frontend/UI
+
+</td>
+<td><br>
 
 [![Vue](https://img.shields.io/badge/-vue-111?style=for-the-badge&logo=vue.js)](https://vuejs.org/)
 [![Vuetify](https://img.shields.io/badge/-vuetify-111?style=for-the-badge&logo=vuetify)](https://vuetifyjs.com/)
@@ -101,11 +175,20 @@
 [![materialdesignicons](https://img.shields.io/badge/-material_design_icons-111?style=for-the-badge&logo=materialdesignicons)](https://mui.com/material-ui/material-icons/)
 [![mui](https://img.shields.io/badge/-material_design_ui-111?style=for-the-badge&logo=mui)](https://mui.com/)
 [![uikit](https://img.shields.io/badge/-material_design_uikit-111?style=for-the-badge&logo=uikit)](https://getuikit.com/)
-[![icons8](https://img.shields.io/badge/-icons8-111?style=for-the-badge&logo=icons8)]()
+[![icons8](https://img.shields.io/badge/-icons8-111?style=for-the-badge&logo=icons8)](https://icons8.com/)
 [![simpleicons](https://img.shields.io/badge/-simple_icons-111?style=for-the-badge&logo=simpleicons)](https://simpleicons.org/)
 [![iconify](https://img.shields.io/badge/-iconify-111?style=for-the-badge&logo=iconify)](https://icons8.com/)
 
+</td>
+</tr>
+<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -->
+<tr>
+<td>
+
 #### Backend
+
+</td>
+<td>
 
 [![NodeJS](https://img.shields.io/badge/-NodeJs-111?style=for-the-badge&logo=node.js)](https://nodejs.org/en/download)
 [![Php](https://img.shields.io/badge/-Php-111?style=for-the-badge&logo=php)](https://www.php.net/downloads.php)
@@ -115,7 +198,16 @@
 [![C++](https://img.shields.io/badge/-c%2B%2B-111?style=for-the-badge&logo=Cplusplus)](https://w3schools.com/c++/)
 [![C](https://img.shields.io/badge/-c-111?style=for-the-badge&logo=c)](https://w3schools.com/c/)
 
+</td>
+</tr>
+<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -->
+<tr>
+<td>
+
 #### Databases
+
+</td>
+<td>
 
 [![Firebase](https://img.shields.io/badge/-firebase-111?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111?style=for-the-badge&logo=postgresql)](https://postgresql.org/)
@@ -132,7 +224,16 @@
 [![adminer](https://img.shields.io/badge/-adminer-111?style=for-the-badge&logo=adminer)](https://adminer.org/)
 [![MongoDBcompass](https://img.shields.io/badge/-mongodb_compass-111?style=for-the-badge&logo=mongodb)](https://mongodb.com/docs/compass/master/)
 
+</td>
+</tr>
+<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -->
+<tr>
+<td>
+
 #### DevOps
+
+</td>
+<td>
 
 [![Axios](https://img.shields.io/badge/-Axios-111?style=for-the-badge&logo=axios)](https://axios-http.com/docs/intro)
 [![graphql](https://img.shields.io/badge/-graphql-111?style=for-the-badge&logo=graphql)](https://graphql.org/)
@@ -189,13 +290,31 @@
 [![cyberduck](https://img.shields.io/badge/-cyberduck-111?style=for-the-badge&logo=cyberduck)](https://cyberduck.io/)
 [![FileZilla](https://img.shields.io/badge/-FileZilla-111?style=for-the-badge&logo=filezilla)](https://filezilla-project.org/)
 
+</td>
+</tr>
+<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -->
+<tr>
+<td>
+
 #### Machine Learning
+
+</td>
+<td>
 
 [![opencv](https://img.shields.io/badge/-opencv-111?style=for-the-badge&logo=opencv)](https://opencv.org/)
 [![tensorflow](https://img.shields.io/badge/-tensorflow-111?style=for-the-badge&logo=tensorflow)](https://tensorflow.org/)
 [![pytorch](https://img.shields.io/badge/-pytorch-111?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
 
+</td>
+</tr>
+<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -->
+<tr>
+<td>
+
 #### Testing/Security/Analyst
+
+</td>
+<td>
 
 [![postman](https://img.shields.io/badge/-postman-111?style=for-the-badge&logo=postman)](https://postman.com/)
 [![Selenium](https://img.shields.io/badge/-Selenium-111?style=for-the-badge&logo=Selenium)](https://selenium.dev/)
@@ -204,7 +323,16 @@
 [![zap](https://img.shields.io/badge/-zap-111?style=for-the-badge&logo=zap)](https://zaproxy.org/)
 [![burpsuite](https://img.shields.io/badge/-burpsuite-111?style=for-the-badge&logo=burpsuite)](https://portswigger.net/burp)
 
+</td>
+</tr>
+<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -->
+<tr>
+<td>
+
 #### Content Management System (CMS)
+
+</td>
+<td>
 
 [![WordPress](https://img.shields.io/badge/-WordPress-111?style=for-the-badge&logo=wordpress)](https://wordpress.com/)
 [![elementor](https://img.shields.io/badge/-elementor-111?style=for-the-badge&logo=elementor)](https://elementor.com/)
@@ -213,7 +341,16 @@
 [![Joomla](https://img.shields.io/badge/-Joomla-111?style=for-the-badge&logo=joomla)](https://joomla.org/)
 [![Drupal](https://img.shields.io/badge/-Drupal-111?style=for-the-badge&logo=drupal)](https://drupal.org/)
 
+</td>
+</tr>
+<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -->
+<tr>
+<td>
+
 #### Operating System
+
+</td>
+<td>
 
 [![MacOS](https://img.shields.io/badge/-macos-111?style=for-the-badge&logo=macos)](https://support.apple.com/macos)
 [![Windows](https://img.shields.io/badge/-windows-111?style=for-the-badge&logo=windows11)](https://microsoft.com/software-download/windows11)
@@ -229,3 +366,8 @@
 [![suse](https://img.shields.io/badge/-suse-111?style=for-the-badge&logo=suse)](https://www.suse.com/products/)
 [![LinuxMint](https://img.shields.io/badge/-mint-111?style=for-the-badge&logo=linuxmint)](https://www.linuxmint.com/download.php)
 [![LineageOS](https://img.shields.io/badge/-lineageos-111?style=for-the-badge&logo=lineageos)](https://download.lineageos.org/changes)
+
+</td>
+</tr>
+<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -->
+</table>
