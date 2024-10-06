@@ -1,5 +1,9 @@
 > Code. Laugh. Repeat.
 
+### Join The Republic
+
+(![rog-wallpaper](rog-wallpaper.jpg))[https://rog.asus.com/elite/]
+
 ### My Gaming & Dev Workstation:
 
 <table>
