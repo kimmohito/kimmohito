@@ -2,7 +2,182 @@
 
 ### My Gaming & Dev Workstation:
 
-| Icon | Item | Price (MYR) |
+<table>
+<tr>
+<th>
+Image
+</th>
+<th>
+Name
+</th>
+<th>
+Price
+</th>
+</tr>
+
+<tr>
+<td>
+<a href="https://rog.asus.com/my/laptops/rog-flow/rog-flow-z13-2023-series/gallery">
+<img src="https://dlcdnwebimgs.asus.com/gain/A6FFDB90-34C7-4971-84D8-DEFCBCF8137B/w1000/h732" width="200px" />
+</a>
+</td>
+<td>
+<a href="https://rog.asus.com/my/laptops/rog-flow/rog-flow-z13-2023-series/spec">
+ROG Flow Z13 (2023) GZ301
+</a><br/>
+Intel® Core™ i9-13900H Windows 11 Home 13.4-inch / QHD+ 16:10 (2560 x 1600, WQXGA) / 165Hz / 89 / IPS-level / 500 / Glossy display RTX4050 6GB GDDR6 LPDDR5 16GB 1TB PCIe® 4.0 NVMe™ M.2 SSD (2230) Wi-Fi 6E(802.11ax)
+</td>
+<td>
+<a href="https://shope.ee/8f4vnwyqgh">
+RM8,999.00
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://rog.asus.com/us/external-graphic-docks/rog-xg-mobile-2023-model/gallery">
+<img src="https://dlcdnwebimgs.asus.com/gain/FB7E5111-795C-40AF-A35E-EF512D4F96C3/w1000/h732" width="100px" />
+</a>
+</td>
+<td>
+<a href="https://rog.asus.com/us/external-graphic-docks/rog-xg-mobile-2023-model/spec">
+ROG XG Mobile (2023)
+</a><br/>
+NVIDIA® GeForce RTX™  4090, GDDR6 16G / 1.3kg
+</td>
+<td>
+<a href="https://shope.ee/8zhmO2vx18">
+RM9,999.00
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://rog.asus.com/us/monitors/above-34-inches/rog-strix-xg49vq-model/gallery">
+<img src="https://dlcdnwebimgs.asus.com/gain/9821F63C-0D6C-4E16-A22C-227B24133C7F/w1000/h732" width="100px" />
+</a>
+</td>
+<td>
+<a href="https://rog.asus.com/us/monitors/above-34-inches/rog-strix-xg49vq-model/spec">
+ROG Strix XG49VQ
+</a><br/>
+ROG Strix XG49VQ Super Ultra-Wide HDR Gaming Monitor — 49-inch 32:9 (3840 x 1080) / 144Hz / FreeSync™ 2 HDR / DisplayHDR™ 400 / DCI-P3: 90% / Shadow Boost
+</td>
+<td>
+<a href="https://s.shopee.com.my/1B47dMoZqv">
+RM5,199.00
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://rog.asus.com/keyboards/keyboards/aura-rgb/rog-claymore-ii-model/gallery">
+<img src="https://dlcdnwebimgs.asus.com/gain/028832F6-C093-4CA9-9EE5-44ADD745A45F/w1000/h732" width="100px" />
+</a>
+</td>
+<td>
+<a href="https://rog.asus.com/keyboards/keyboards/aura-rgb/rog-claymore-ii-model/spec">
+ROG Claymore II
+</a><br/>
+ROG Claymore II modular TKL 80%/100% gaming mechanical keyboard with ROG RX Optical Mechanical Switches, detachable numpad & wrist rest, wired & wireless 2.4G modes, extra customizable clicky hotkeys, volume control wheel and wireless Aura Sync
+</td>
+<td>
+<a href="https://shope.ee/9zaJPCMJ8d">
+RM1,099.00
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://rog.asus.com/mice-mouse-pads/mice/ergonomic-right-handed/rog-chakram-x-origin-model/gallery">
+<img src="https://dlcdnwebimgs.asus.com/gain/34B2A58F-073E-4C8C-8AF9-8A44D7870BEF/w1000/h732" width="100px" />
+</a>
+</td>
+<td>
+<a href="https://rog.asus.com/mice-mouse-pads/mice/ergonomic-right-handed/rog-chakram-x-origin-model/spec">
+ROG Chakram X Origin
+</a><br/>
+ROG Chakram X wireless RGB gaming mouse with next-gen 36,000 dpi ROG AimPoint optical sensor, 8000 Hz polling rate, low-latency tri-mode connectivity (RF 2.4 GHz / Bluetooth / wired), 11 programmable buttons, an analog joystick and hot-swappable micro switch sockets (mechanical / optical ).
+</td>
+<td>
+<a href="https://shope.ee/8KS5QXrkfZ">
+RM719.00
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://rog.asus.com/controllers/rog-raikiri-pro-model/gallery">
+<img src="https://dlcdnwebimgs.asus.com/gain/F5E3C845-396B-41B3-B549-7B8C5FCA0802/w1000/h732" width="100px" />
+</a>
+</td>
+<td>
+<a href="https://rog.asus.com/controllers/rog-raikiri-pro-model/spec">
+ROG Raikiri Pro
+</a><br/>
+The ROG Raikiri Pro PC Controller features an OLED display, four rear buttons, selectable triggers, ESS DAC, customizable joystick sensitivity and response curves, and tri-mode connectivity. It’s ideal to play in wired USB-C, 2.4GHz, or Bluetooth on PCs
+</td>
+<td>
+<a href="https://shope.ee/5fRKI5g23B">
+RM799.00
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://rog.asus.com/storage/rog-strix-arion-model/gallery">
+<img src="https://dlcdnwebimgs.asus.com/gain/31262020-38B0-4E35-8B9A-FE7642924EC5/w1000/h732" width="100px" />
+</a>
+</td>
+<td>
+<a href="https://rog.asus.com/storage/rog-strix-arion-model/spec">
+ROG STRIX ARION
+</a><br/>
+ROG Strix Arion M.2 NVMe SSD Enclosure—USB3.2 Gen 2x1 Type-C (10 Gbps), Dual USB-C to C and USB-C to A Cables, Screwdriver-Free, Thermal Pads Included, Fits PCIe 2280/2260/2242/2230 M key/B+M Key
+</td>
+<td>
+<a href="https://shope.ee/3VMpeeQnid">
+RM249.00
+</a>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<a href="https://rog.asus.com/headsets-audio/in-ear-headphone/rog-cetra-true-wireless-model/gallery">
+<img src="https://dlcdnwebimgs.asus.com/gain/BD86E831-A8C1-40B9-AA17-288F972AD9E7/w1000/h732" width="100px" />
+</a>
+</td>
+<td>
+<a href="https://rog.asus.com/headsets-audio/in-ear-headphone/rog-cetra-true-wireless-model/spec">
+ROG Cetra True Wireless
+</a><br/>
+ROG Cetra True Wireless gaming headphones with low-latency wireless connection, ANC, up to 27-hour battery with wireless-charging case, IPX4 water resistance and support for EQ/virtual 7.1 via Armoury Crate
+</td>
+<td>
+<a href="https://shope.ee/B6O60YoTH">
+RM599.00
+</a>
+</td>
+</tr>
+
+</table>
+
+* Click on the Image to see more in galley
+* Click on the Name to learn more about the specs
+* Click on the Price to buy
+
+
+
+
+<!-- | Icon | Item | Price (MYR) |
 | - | - | - |
 | ![](https://img.icons8.com/color/24/laptop.png) | [ROG FLow Z13 2023 (i9-13900H/1TB M.2/16GB DDR5/RTX4050)](https://shope.ee/8f4vnwyqgh) <br> + [2TB NVMe WD Black SN770M](https://shope.ee/6V0RH0WD93) | 8,999.00 <br> 1,139.00 |
 | ![](https://img.icons8.com/color/24/video-card.png) | [ROG XG Mobile 2023 (16G GDDR6/RTX4090)](https://shope.ee/8zhmO2vx18) | 9,999.00 |
@@ -11,7 +186,7 @@
 | ![](https://img.icons8.com/color/24/mouse.png) | [ROG Chakram X Origin P708](https://shope.ee/8KS5QXrkfZ) | 719.00 |
 | ![](https://img.icons8.com/color/24/nintendo-switch-pro-controller.png) | [ROG Raikiri PRO](https://shope.ee/5fRKI5g23B) | 799.00 |
 | ![](https://img.icons8.com/color/24/ssd.png) | [ROG Strix Arion](https://shope.ee/3VMpeeQnid) <br> + [4TB NVMe WD Black SN850X](https://shope.ee/4KvweShEDz) | 249.00 <br> 2,609.00 |
-| ![](https://img.icons8.com/color/24/earbud-headphones.png) | [ROG Cetra Wireless Gaming Earbuds](https://shope.ee/B6O60YoTH) | 599.00 |
+| ![](https://img.icons8.com/color/24/earbud-headphones.png) | [ROG Cetra Wireless Gaming Earbuds](https://shope.ee/B6O60YoTH) | 599.00 | -->
 
 <!-- |  Icon | Name | Price (MYR) |
 | - | - | - |
@@ -32,7 +207,7 @@
 -->
 
 
-### My Camera Gears:
+<!-- ### My Camera Gears:
 
 | Icon | Item | Price (MYR) |
 | - | - | - |
@@ -41,7 +216,7 @@
 | ![](https://img.icons8.com/color/24/compact-camera.png) | [Canon EOS M50 Mark II + 15-45mm Kit Lens](https://shope.ee/2q7AMNoq4O) | 3,199.00 |
 | ![](https://img.icons8.com/color/24/small-lens.png) | [Canon 50mm F/1.4 USM Ultrasonic Lens](https://shope.ee/5fRLjUP5FJ) | 1,999.00 |
 | ![](https://img.icons8.com/color/24/charge-battery.png) | [Canon BG-E14 Battery Grip](https://shope.ee/3fgHLm2V87) | 249.00 |
-| ![](https://img.icons8.com/color/24/flash-on.png) | [Godox TT520II Camera Flash Speedlite](https://shope.ee/g2fmHZaLY) | 182.90 |
+| ![](https://img.icons8.com/color/24/flash-on.png) | [Godox TT520II Camera Flash Speedlite](https://shope.ee/g2fmHZaLY) | 182.90 | -->
 
 
 ### My Tools:
