@@ -1,6 +1,6 @@
 > Code. Laugh. Repeat.
 
-### Join The Republic
+### Join The Republic:
 
 [![rog-wallpaper](rog-wallpaper.jpg)](https://rog.asus.com/elite/)
 
