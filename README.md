@@ -170,9 +170,9 @@ RM599.00
 
 </table>
 
-* Click on the Image to see more in galley
-* Click on the Name to learn more about the specs
-* Click on the Price to buy
+* Click on the [Image] to see more in galley
+* Click on the [Name] to learn more about the specs
+* Click on the [Price] to buy from shopee
 
 
 
