@@ -1,5 +1,10 @@
 > Code. Laugh. Repeat.
 
+<h3 align="left"><a href="https://wakatime.com/@kimmohito" target="blank"><img align="center" src="https://wakatime.com/static/img/wakatime.svg" alt="kimmohito" height="30" width="30" /></a>
+ WakaTime Activity: <img align="center" src="https://wakatime.com/badge/user/fa21cba0-5bd8-4134-8f3f-c29a31483e3f.svg" alt="kimmohito" />
+ </h3>
+<img align="center" src="https://wakatime.com/share/@kimmohito/2f1286b7-02ff-4f7a-aba7-584e757cb465.svg" alt="kimmohito" />
+
 ### Join The Republic:
 
 [![rog-wallpaper](rog-wallpaper.jpg)](https://rog.asus.com/elite/)
