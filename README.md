@@ -1,4 +1,21 @@
-> Code. Laugh. Repeat.
+## <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" width="22" alt="waving-hand"> Hello world! Please be seated. <img src="https://em-content.zobj.net/source/microsoft-teams/337/clinking-glasses_1f942.png" width="22" alt="clinking-glasses">
+
+- 👨‍💻 I'm the result `10years+` of `code`, `laugh`, `repeat`.
+- 🚧 I `build` stuff on `internet`.
+- 💻 I run `vscode` on `windows`.
+- 📦 My stack `flutter/dart`, `capacitor/cordova`, `nextjs/react`, `nuxtjs/vue`, `javascript/typescript`, `laravel`, `tailwind`, `docker`, `kubernetes`.
+- 🐈 Currently `exploring` the depth of `webassembly`, `rust`, `godot`.
+
+### Time I've wasted:
+[![wakatime](https://wakatime.com/badge/user/fa21cba0-5bd8-4134-8f3f-c29a31483e3f.svg)](https://wakatime.com/@kimmohito)
+[![wakatime](https://wakatime.com/share/@kimmohito/2f1286b7-02ff-4f7a-aba7-584e757cb465.svg)](https://wakatime.com/@kimmohito)
+
+> "I’m not lucky. I’m just determined and I keep showing up"
+
+### Try me:
+```
+npx kimmohito-card
+```
 
 ### Join The Republic:
 
