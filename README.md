@@ -1,6 +1,6 @@
 ## <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" width="22" alt="waving-hand"> Hello world! Please be seated. <img src="https://em-content.zobj.net/source/microsoft-teams/337/clinking-glasses_1f942.png" width="22" alt="clinking-glasses">
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d9/1a/d7/d91ad79a3f6b1075fc48d63fd5f71afb.gif">
+<img align="right" alt="Coding" width="200" src="./kimmohito-card.gif">
 
 - 👨‍💻 I'm the result `10years+` of `code`, `laugh`, `repeat`.
 - 🚧 I `build` stuff on `internet`.
