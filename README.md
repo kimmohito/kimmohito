@@ -14,9 +14,9 @@
 npx kimmohito-card
 ```
 ### Time I've wasted:
-[![wakatime](https://wakatime.com/badge/user/fa21cba0-5bd8-4134-8f3f-c29a31483e3f.svg)](https://wakatime.com/@kimmohito)
-[![wakatime](https://wakatime.com/share/@kimmohito/2f1286b7-02ff-4f7a-aba7-584e757cb465.svg)](https://wakatime.com/@kimmohito)
 
+[![wakatime](https://wakatime.com/share/@kimmohito/2f1286b7-02ff-4f7a-aba7-584e757cb465.svg)](https://wakatime.com/@kimmohito)
+<img align="right" alt="wakatime" src="https://wakatime.com/badge/user/fa21cba0-5bd8-4134-8f3f-c29a31483e3f.svg">
 "I’m not lucky. I’m just determined and I keep showing up"
 
 ### Join The Republic:
