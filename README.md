@@ -40,75 +40,184 @@ Price
 
 <tr>
 <td>
-<a href="https://rog.asus.com/my/laptops/rog-flow/rog-flow-z13-2023-series/gallery">
-<img src="https://dlcdnwebimgs.asus.com/gain/A6FFDB90-34C7-4971-84D8-DEFCBCF8137B/w1000/h732" width="200px" />
+<a  target="_blank" href="https://rog.asus.com/laptops/rog-strix/rog-strix-scar-18-2025/">
+<img src="https://dlcdnwebimgs.asus.com/gain/FD29C296-8E47-4CD5-BEED-1EE961073619/w1000/h732" width="200px" />
 </a>
 </td>
 <td>
-<a href="https://rog.asus.com/my/laptops/rog-flow/rog-flow-z13-2023-series/spec">
-ROG Flow Z13 (2023) GZ301
+<a  target="_blank" href="https://rog.asus.com/my/laptops/rog-flow/rog-flow-z13-2023-series/spec">
+ROG Strix Scar 18 (2025)
 </a><br/>
-Intel® Core™ i9-13900H Windows 11 Home 13.4-inch / QHD+ 16:10 (2560 x 1600, WQXGA) / 165Hz / 89 / IPS-level / 500 / Glossy display RTX4050 6GB GDDR6 LPDDR5 16GB 1TB PCIe® 4.0 NVMe™ M.2 SSD (2230) Wi-Fi 6E(802.11ax)
+CPU: Intel® Core™ Ultra 9<br/>
+NPU: Intel® AI Boost NPU<br/>
+GPU: NVIDIA® GeForce RTX™ 5090<br/>
+RAM: 32GB + <a  target="_blank" href="https://s.shopee.com.my/1BBhFFKPos">32GB Kingston DDR5-5600 SO-DIMM (RM 469.00)</a><br/>
+SSD: 4TB + <a  target="_blank" href="https://s.shopee.com.my/9zn5lSin8D">4TB Samsung 9100 PRO M.2 PCIe® 4.0 NVMe™ Performance SSD (RM 2,999)</a><br/>
 </td>
 <td>
-<a href="https://shope.ee/8f4vnwyqgh">
-RM8,999.00
+<a  target="_blank" href="https://s.shopee.com.my/6VDDahNdoG">
+RM25,999.00
 </a>
 </td>
 </tr>
 
 <tr>
 <td>
-<a href="https://rog.asus.com/us/external-graphic-docks/rog-xg-mobile-2023-model/gallery">
-<img src="https://dlcdnwebimgs.asus.com/gain/FB7E5111-795C-40AF-A35E-EF512D4F96C3/w1000/h732" width="100px" />
+<a  target="_blank" href="https://rog.asus.com/my/laptops/rog-flow/rog-flow-z13-2023-series/gallery">
+<img src="https://dlcdnwebimgs.asus.com/gain/17DDDDE7-F179-477D-A63B-0B1D78B53E06/w1000/h732" width="200px" />
 </a>
 </td>
 <td>
-<a href="https://rog.asus.com/us/external-graphic-docks/rog-xg-mobile-2023-model/spec">
-ROG XG Mobile (2023)
+<a  target="_blank" href="https://rog.asus.com/laptops/rog-flow/rog-flow-z13-2025/spec">
+ROG Flow Z13 (2025) GZ302
 </a><br/>
-NVIDIA® GeForce RTX™  4090, GDDR6 16G / 1.3kg
+CPU: AMD Ryzen™ AI MAX+ 395</br>
+NPU: AMD XDNA™<br/>
+GPU: AMD Radeon™ 8060S<br/>
+RAM: 32GB LPDDR5X 8000 on board<br/>
+SSD: 1TB PCIe® 4.0 NVMe™ M.2 (2230)<br/>
+Weight: 1.20 Kg (2.65 lbs)
 </td>
 <td>
-<a href="https://shope.ee/8zhmO2vx18">
+<a  target="_blank" href="https://s.shopee.com.my/3LGBoup2lk">
+RM10,999.00
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a  target="_blank" href="https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-x-2024/gallery/">
+<img src="https://dlcdnwebimgs.asus.com/gain/50330F83-D727-4822-ACB4-33B3A0AECA0C/w1000/h732" width="200px" />
+</a>
+</td>
+<td>
+<a  target="_blank" href="https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-x-2024/spec/" target="_blank">
+ROG Ally X (2024) RC72LA
+</a><br/>
+CPU: AMD Ryzen™ Z1 Extreme</br>
+GPU: AMD Radeon™ Graphics<br/>
+RAM: 12GB*2 LPDDR5 on board<br/>
+SSD: 1TB PCIe® 4.0 NVMe™ M.2 SSD (2280)<br/>
+Weight: 678 g (1.49 lbs)
+</td>
+<td>
+<a  target="_blank" href="https://s.shopee.com.my/1VoXdZwnQo">
+RM4,299.00
+</a>
+</td>
+</tr>
+
+<!-- <tr>
+<td>
+<a  target="_blank" href="https://rog.asus.com/external-graphic-docks/rog-xg-mobile-2025/gallery/">
+<img src="https://dlcdnwebimgs.asus.com/gain/F26E974A-523A-4B3B-8954-CD0BAD788558/w1000/h732" width="100px" />
+</a>
+</td>
+<td>
+<a  target="_blank" href="https://rog.asus.com/us/external-graphic-docks/rog-xg-mobile-2023-model/spec">
+ROG XG Mobile (2025)
+</a><br/>
+The XG Mobile combines the power of an external GPU with the expandability of a Thunderbolt Dock and puts it all into an extremely portable package the size of a hardcover novel. Boasting up to an NVIDIA® GeForce RTX™ 5090 Laptop GPU, this portable powerhouse is designed to game at the highest levels. By leveraging the incredible bandwidth of Thunderbolt™ 5, the XG Mobile not only boosts your gaming performance, but also offers a host of connectivity options including wired ethernet and high-speed USB ports in one slim package. For gamers that need serious power without sacrificing their setup’s portability, or creators that need flagship rendering power from a single Thunderbolt™ connection, the ROG XG Mobile has arrived.
+</td>
+<td>
+<a  target="_blank" href="https://shope.ee/8zhmO2vx18">
 RM9,999.00
 </a>
 </td>
+</tr> -->
+
+<tr>
+<td>
+<a  target="_blank" href="https://rog.asus.com/monitors/above-34-inches/rog-swift-oled-pg49wcd/gallery/">
+<img src="https://dlcdnwebimgs.asus.com/gain/96968569-8BA4-4F7E-8948-AE952B5BA124/w1000/h732" width="100px" />
+</a>
+</td>
+<td>
+<a  target="_blank" href="https://rog.asus.com/monitors/above-34-inches/rog-swift-oled-pg49wcd/spec/">
+ROG Swift OLED PG49WCD
+</a>x2<br/>
+ROG Swift OLED PG49WCD gaming monitor ― 49-inch (5120x1440) curved QD-OLED panel, 144 Hz, 0.03 ms, G-SYNC® compatible, custom heatsink, uniform brightness, ROG Smart KVM, 90 W Type-C, ASUS DisplayWidget Center
+</td>
+<td>
+<a  target="_blank" href="https://s.shopee.com.my/1LV7RJ0swD">
+RM8,900.00
+</a>
+</td>
 </tr>
 
 <tr>
 <td>
-<a href="https://rog.asus.com/us/monitors/above-34-inches/rog-strix-xg49vq-model/gallery">
-<img src="https://dlcdnwebimgs.asus.com/gain/9821F63C-0D6C-4E16-A22C-227B24133C7F/w1000/h732" width="100px" />
+<a  target="_blank" href="https://rog.asus.com/us/monitors/accessories/rog-ergo-monitor-arm-aas01/gallery/">
+<img src="https://thearyl.com/wp-content/uploads/2025/01/13-1.png" width="100px" />
 </a>
 </td>
 <td>
-<a href="https://rog.asus.com/us/monitors/above-34-inches/rog-strix-xg49vq-model/spec">
-ROG Strix XG49VQ
+<a  target="_blank" href="https://thearyl.com/product/fabulous-pole-mounted-heavy-duty-gas-spring-dual-monitor-arm/">
+The Aryl™ Fabulous Pole-Mounted Heavy-Duty Gas Spring Dual Monitor Arm
 </a><br/>
-ROG Strix XG49VQ Super Ultra-Wide HDR Gaming Monitor — 49-inch 32:9 (3840 x 1080) / 144Hz / FreeSync™ 2 HDR / DisplayHDR™ 400 / DCI-P3: 90% / Shadow Boost
+Compatible with most QLED, OLED, LED flat, and curved computer monitors ranging from 17'' to 49''. It can hold monitors up to 44 lbs for each arm. Compatible with the Samsung Odyssey G9, LG, and other 49" ultrawide monitors, you need to prepare a VESA mount adapter if your monitor does not have VESA holes.
 </td>
 <td>
-<a href="https://s.shopee.com.my/1B47dMoZqv">
-RM5,199.00
+<a  target="_blank" href="https://s.shopee.com.my/4flZRh1crA">
+RM899.90
+</a>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<a  target="_blank" href="https://rog.asus.com/monitors/32-to-34-inches/rog-swift-oled-pg34wcdm/gallery/">
+<img src="https://dlcdnwebimgs.asus.com/gain/45C772CC-4DBB-4CD3-992E-35ACC70F74EF/w1000/h732" width="100px" />
+</a>
+</td>
+<td>
+<a  target="_blank" href="https://rog.asus.com/monitors/32-to-34-inches/rog-swift-oled-pg34wcdm/spec/">
+ROG Swift OLED PG34WCDM
+</a>x2<br/>
+ROG Swift OLED PG34WCDM gaming monitor ― 34-inch (33.9 inch viewable, 3440 x 1440) 800R curved OLED panel, 240 Hz, 0.03 ms (GTG) response time, G-SYNC® compatible, custom heatsink, uniform brightness, ROG Smart KVM, 90 W Type-C®, and ASUS DisplayWidget Center
+</td>
+<td>
+<a  target="_blank" href="https://s.shopee.com.my/1VoXddXFzs">
+RM7,099.00
 </a>
 </td>
 </tr>
 
 <tr>
 <td>
-<a href="https://rog.asus.com/keyboards/keyboards/aura-rgb/rog-claymore-ii-model/gallery">
+<a  target="_blank" href="https://rog.asus.com/us/monitors/accessories/rog-ergo-monitor-arm-aas01/gallery/">
+<img src="https://dlcdnwebimgs.asus.com/gain/F00A3823-6CF2-491E-8309-6298ECF7853F/w1000/h732" width="100px" />
+</a>
+</td>
+<td>
+<a  target="_blank" href="https://rog.asus.com/monitors/32-to-34-inches/rog-swift-oled-pg34wcdm/spec/">
+ROG Ergo Monitor Arm AAS01
+</a>x2<br/>
+ROG Ergo Monitor Arm AAS01 – A monitor mount that features cable management channels, allowing gamers to create a more ergonomic, neater gaming setup.
+</td>
+<td>
+<a  target="_blank" href="https://s.shopee.com.my/9pTfYynrxg">
+RM860.00
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a  target="_blank" href="https://rog.asus.com/keyboards/keyboards/aura-rgb/rog-claymore-ii-model/gallery">
 <img src="https://dlcdnwebimgs.asus.com/gain/028832F6-C093-4CA9-9EE5-44ADD745A45F/w1000/h732" width="100px" />
 </a>
 </td>
 <td>
-<a href="https://rog.asus.com/keyboards/keyboards/aura-rgb/rog-claymore-ii-model/spec">
-ROG Claymore II
+<a  target="_blank" href="https://rog.asus.com/keyboards/keyboards/aura-rgb/rog-claymore-ii-model/spec">
+ROG Claymore II Gaming Keyboard
 </a><br/>
-ROG Claymore II modular TKL 80%/100% gaming mechanical keyboard with ROG RX Optical Mechanical Switches, detachable numpad & wrist rest, wired & wireless 2.4G modes, extra customizable clicky hotkeys, volume control wheel and wireless Aura Sync
+ROG Claymore II modular TKL 80%/100% gaming mechanical keyboard with ROG RX Optical Mechanical Switches, detachable numpad & wrist rest, wired & wireless 2.4G modes, extra customizable clicky hotkeys, volume control wheel and wireless Aura Sync.
 </td>
 <td>
-<a href="https://shope.ee/9zaJPCMJ8d">
+<a  target="_blank" href="https://s.shopee.com.my/4ApIoavR1V">
 RM1,099.00
 </a>
 </td>
@@ -116,18 +225,18 @@ RM1,099.00
 
 <tr>
 <td>
-<a href="https://rog.asus.com/mice-mouse-pads/mice/ergonomic-right-handed/rog-chakram-x-origin-model/gallery">
+<a  target="_blank" href="https://rog.asus.com/mice-mouse-pads/mice/ergonomic-right-handed/rog-chakram-x-origin-model/gallery">
 <img src="https://dlcdnwebimgs.asus.com/gain/34B2A58F-073E-4C8C-8AF9-8A44D7870BEF/w1000/h732" width="100px" />
 </a>
 </td>
 <td>
-<a href="https://rog.asus.com/mice-mouse-pads/mice/ergonomic-right-handed/rog-chakram-x-origin-model/spec">
+<a  target="_blank" href="https://rog.asus.com/mice-mouse-pads/mice/ergonomic-right-handed/rog-chakram-x-origin-model/spec">
 ROG Chakram X Origin
 </a><br/>
 ROG Chakram X wireless RGB gaming mouse with next-gen 36,000 dpi ROG AimPoint optical sensor, 8000 Hz polling rate, low-latency tri-mode connectivity (RF 2.4 GHz / Bluetooth / wired), 11 programmable buttons, an analog joystick and hot-swappable micro switch sockets (mechanical / optical ).
 </td>
 <td>
-<a href="https://shope.ee/8KS5QXrkfZ">
+<a  target="_blank" href="https://s.shopee.com.my/AUjMMGAWAb">
 RM719.00
 </a>
 </td>
@@ -135,18 +244,37 @@ RM719.00
 
 <tr>
 <td>
-<a href="https://rog.asus.com/controllers/rog-raikiri-pro-model/gallery">
+<a  target="_blank" href="https://rog.asus.com/us/mice-mouse-pads/mouse-pads/rog-hone-ace-xxl/gallery/">
+<img src="https://dlcdnwebimgs.asus.com/gain/4E5279B8-0C4D-4D97-B9BA-1A472A52592B/w1000/h732" width="100px" />
+</a>
+</td>
+<td>
+<a  target="_blank" href="https://rog.asus.com/us/mice-mouse-pads/mouse-pads/rog-hone-ace-xxl/spec/">
+ROG Hone Ace XXL
+</a><br/>
+L 900 x W 400 x H 3 mm
+</td>
+<td>
+<a  target="_blank" href="https://s.shopee.com.my/1BBhFChQ3N">
+RM249.00
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a  target="_blank" href="https://rog.asus.com/controllers/rog-raikiri-pro-model/gallery">
 <img src="https://dlcdnwebimgs.asus.com/gain/F5E3C845-396B-41B3-B549-7B8C5FCA0802/w1000/h732" width="100px" />
 </a>
 </td>
 <td>
-<a href="https://rog.asus.com/controllers/rog-raikiri-pro-model/spec">
+<a  target="_blank" href="https://rog.asus.com/controllers/rog-raikiri-pro-model/spec">
 ROG Raikiri Pro
 </a><br/>
 The ROG Raikiri Pro PC Controller features an OLED display, four rear buttons, selectable triggers, ESS DAC, customizable joystick sensitivity and response curves, and tri-mode connectivity. It’s ideal to play in wired USB-C, 2.4GHz, or Bluetooth on PCs
 </td>
 <td>
-<a href="https://shope.ee/5fRKI5g23B">
+<a  target="_blank" href="https://s.shopee.com.my/AUjMMHehoe">
 RM799.00
 </a>
 </td>
@@ -154,42 +282,71 @@ RM799.00
 
 <tr>
 <td>
-<a href="https://rog.asus.com/storage/rog-strix-arion-model/gallery">
-<img src="https://dlcdnwebimgs.asus.com/gain/31262020-38B0-4E35-8B9A-FE7642924EC5/w1000/h732" width="100px" />
-</a>
-</td>
-<td>
-<a href="https://rog.asus.com/storage/rog-strix-arion-model/spec">
-ROG STRIX ARION
-</a><br/>
-ROG Strix Arion M.2 NVMe SSD Enclosure—USB3.2 Gen 2x1 Type-C (10 Gbps), Dual USB-C to C and USB-C to A Cables, Screwdriver-Free, Thermal Pads Included, Fits PCIe 2280/2260/2242/2230 M key/B+M Key
-</td>
-<td>
-<a href="https://shope.ee/3VMpeeQnid">
-RM249.00
-</a>
-</td>
-</tr>
-
-
-<tr>
-<td>
-<a href="https://rog.asus.com/headsets-audio/in-ear-headphone/rog-cetra-true-wireless-model/gallery">
+<a  target="_blank" href="https://rog.asus.com/headsets-audio/in-ear-headphone/rog-cetra-true-wireless-model/gallery">
 <img src="https://dlcdnwebimgs.asus.com/gain/BD86E831-A8C1-40B9-AA17-288F972AD9E7/w1000/h732" width="100px" />
 </a>
 </td>
 <td>
-<a href="https://rog.asus.com/headsets-audio/in-ear-headphone/rog-cetra-true-wireless-model/spec">
+<a  target="_blank" href="https://rog.asus.com/headsets-audio/in-ear-headphone/rog-cetra-true-wireless-model/spec">
 ROG Cetra True Wireless
 </a><br/>
 ROG Cetra True Wireless gaming headphones with low-latency wireless connection, ANC, up to 27-hour battery with wireless-charging case, IPX4 water resistance and support for EQ/virtual 7.1 via Armoury Crate
 </td>
 <td>
-<a href="https://shope.ee/B6O60YoTH">
+<a  target="_blank" href="https://s.shopee.com.my/7ASuOBD3i6">
 RM599.00
 </a>
 </td>
 </tr>
+
+<tr>
+<td>
+<a  target="_blank" href="https://rog.asus.com/storage/rog-strix-arion-model/gallery">
+<img src="https://dlcdnwebimgs.asus.com/gain/31262020-38B0-4E35-8B9A-FE7642924EC5/w1000/h732" width="100px" />
+</a>
+</td>
+<td>
+<a  target="_blank" href="https://rog.asus.com/storage/rog-strix-arion-model/spec">
+ROG STRIX ARION
+</a><br/>
+ROG Strix Arion M.2 NVMe SSD Enclosure—USB3.2 Gen 2x1 Type-C (10 Gbps), Dual USB-C to C and USB-C to A Cables, Screwdriver-Free, Thermal Pads Included, Fits PCIe 2280/2260/2242/2230 M key/B+M Key
+</td>
+<td>
+<a  target="_blank" href="https://shope.ee/3VMpeeQnid">
+RM249.00
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<a  target="_blank" href="https://rog.asus.com/networking/rog-rapture-gt-be98-pro/gallery/">
+<img src="https://dlcdnwebimgs.asus.com/gain/A93C5F9C-914F-4DDC-B043-F56DD087BF56/w1000/h732" width="100px" />
+</a>
+</td>
+<td>
+<a  target="_blank" href="https://rog.asus.com/networking/rog-rapture-gt-be98-pro/spec/">
+ROG Rapture GT-BE98 Pro
+</a><br/>
+GT-BE98 Pro Quad-band WiFi 7 (802.11be) Gaming Router, support new 320MHz bandwidth & 4096-QAM, dual 10G ports, backup WAN, Triple-level Game Acceleration, Mobile Game Mode, AURA RGB, AiMesh support, subscription-free network security and comprehensive VPN features
+</td>
+<td>
+<a  target="_blank" href="https://s.shopee.com.my/20koFdqtNZ">
+RM3,988.00
+</a>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" style="text-align: right; font-weight: bold;">
+Total
+</td>
+<td style="font-weight: bold;">
+RM90,000.00~
+</td>
+</tr>
+
+
 
 </table>
 
