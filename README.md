@@ -52,11 +52,11 @@ CPU: Intel® Core™ Ultra 9<br/>
 NPU: Intel® AI Boost NPU<br/>
 GPU: NVIDIA® GeForce RTX™ 5090<br/>
 RAM: 32GB + <a  target="_blank" href="https://s.shopee.com.my/1BBhFFKPos">32GB Kingston DDR5-5600 SO-DIMM (RM 469.00)</a><br/>
-SSD: 4TB + <a  target="_blank" href="https://s.shopee.com.my/9zn5lSin8D">4TB Samsung 9100 PRO M.2 PCIe® 4.0 NVMe™ Performance SSD (RM 2,999)</a><br/>
+SSD: 4TB + <a  target="_blank" href="https://s.shopee.com.my/9zn5lSin8D">4TB Samsung 9100 PRO M.2 PCIe® 4.0 NVMe™ Performance SSD (RM 2,999.00)</a><br/>
 </td>
 <td>
 <a  target="_blank" href="https://s.shopee.com.my/6VDDahNdoG">
-RM25,999.00
+RM 25,999.00
 </a>
 </td>
 </tr>
@@ -80,7 +80,7 @@ Weight: 1.20 Kg (2.65 lbs)
 </td>
 <td>
 <a  target="_blank" href="https://s.shopee.com.my/3LGBoup2lk">
-RM10,999.00
+RM 10,999.00
 </a>
 </td>
 </tr>
@@ -103,7 +103,7 @@ Weight: 678 g (1.49 lbs)
 </td>
 <td>
 <a  target="_blank" href="https://s.shopee.com.my/1VoXdZwnQo">
-RM4,299.00
+RM 4,299.00
 </a>
 </td>
 </tr>
@@ -141,7 +141,7 @@ ROG Swift OLED PG49WCD gaming monitor ― 49-inch (5120x1440) curved QD-OLED pan
 </td>
 <td>
 <a  target="_blank" href="https://s.shopee.com.my/1LV7RJ0swD">
-RM8,900.00
+RM 8,900.00
 </a>
 </td>
 </tr>
@@ -160,7 +160,7 @@ Compatible with most QLED, OLED, LED flat, and curved computer monitors ranging 
 </td>
 <td>
 <a  target="_blank" href="https://s.shopee.com.my/4flZRh1crA">
-RM899.90
+RM 899.90
 </a>
 </td>
 </tr>
@@ -180,7 +180,7 @@ ROG Swift OLED PG34WCDM gaming monitor ― 34-inch (33.9 inch viewable, 3440 x 1
 </td>
 <td>
 <a  target="_blank" href="https://s.shopee.com.my/1VoXddXFzs">
-RM7,099.00
+RM 7,099.00
 </a>
 </td>
 </tr>
@@ -199,7 +199,7 @@ ROG Ergo Monitor Arm AAS01 – A monitor mount that features cable management ch
 </td>
 <td>
 <a  target="_blank" href="https://s.shopee.com.my/9pTfYynrxg">
-RM860.00
+RM 860.00
 </a>
 </td>
 </tr>
@@ -218,7 +218,7 @@ ROG Claymore II modular TKL 80%/100% gaming mechanical keyboard with ROG RX Opti
 </td>
 <td>
 <a  target="_blank" href="https://s.shopee.com.my/4ApIoavR1V">
-RM1,099.00
+RM 1,099.00
 </a>
 </td>
 </tr>
@@ -237,7 +237,7 @@ ROG Chakram X wireless RGB gaming mouse with next-gen 36,000 dpi ROG AimPoint op
 </td>
 <td>
 <a  target="_blank" href="https://s.shopee.com.my/AUjMMGAWAb">
-RM719.00
+RM 719.00
 </a>
 </td>
 </tr>
@@ -256,7 +256,7 @@ L 900 x W 400 x H 3 mm
 </td>
 <td>
 <a  target="_blank" href="https://s.shopee.com.my/1BBhFChQ3N">
-RM249.00
+RM 249.00
 </a>
 </td>
 </tr>
@@ -275,7 +275,7 @@ The ROG Raikiri Pro PC Controller features an OLED display, four rear buttons, s
 </td>
 <td>
 <a  target="_blank" href="https://s.shopee.com.my/AUjMMHehoe">
-RM799.00
+RM 799.00
 </a>
 </td>
 </tr>
@@ -294,7 +294,7 @@ ROG Cetra True Wireless gaming headphones with low-latency wireless connection, 
 </td>
 <td>
 <a  target="_blank" href="https://s.shopee.com.my/7ASuOBD3i6">
-RM599.00
+RM 599.00
 </a>
 </td>
 </tr>
@@ -313,7 +313,7 @@ ROG Strix Arion M.2 NVMe SSD Enclosure—USB3.2 Gen 2x1 Type-C (10 Gbps), Dual U
 </td>
 <td>
 <a  target="_blank" href="https://shope.ee/3VMpeeQnid">
-RM249.00
+RM 249.00
 </a>
 </td>
 </tr>
@@ -332,7 +332,7 @@ GT-BE98 Pro Quad-band WiFi 7 (802.11be) Gaming Router, support new 320MHz bandwi
 </td>
 <td>
 <a  target="_blank" href="https://s.shopee.com.my/20koFdqtNZ">
-RM3,988.00
+RM 3,988.00
 </a>
 </td>
 </tr>
@@ -342,7 +342,7 @@ RM3,988.00
 Total
 </td>
 <td style="font-weight: bold;">
-RM90,000.00~
+RM 90,000.00~
 </td>
 </tr>
 
