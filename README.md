@@ -7,7 +7,7 @@
 - 🎓 I'm graduated from `Master in Cybersecurity`, `Bachenor Degree in Network System` and `Diploma in Network Security`
 - 🐛 I'm OSCP Certified
 - ☕ I'm just a reverse coffee machine `input: coffee`, `output: code`.
-- 💻 I run `vscode` on `windows`, `linux`, `mac`, `raspberrypi`, `debian`, `centos`, `redhat`, `suse`, `arch`, ``.
+- 💻 I run `vscode` on `windows`, `linux`, `mac`, `raspberrypi`, `debian`, `centos`, `redhat`, `suse`, `arch`.
 - 🏗️ I `architect`, `design`, and `build` robust solutions for the `internet`.
 - 🚀 DevOps-friendly. `code` > `commit` > `merge` > `fix` > `push` > `deploy`.
 - 🕹️ Currently `exploring` the depth of `FlareVM`, `RootKit`, `Malware Analysis`.
