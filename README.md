@@ -3,8 +3,8 @@
 <img align="right" alt="Coding" width="200" src="./kimmohito-card.gif" style="border-radius: 4px;">
 
 - ✨ I'm the result `10years+` of `code`, `laugh`, `repeat`.
-- 👨🏻‍💻 I'm `Tech Lead at NDA` and `CTO at @rojakcube`
-- 🎓 I'm `OSCP`, `CISSP`, `CPT`, `CSAP`, `CDSP`, `CHFI`, `CCSK` Certified`, graduated from `Master in Cybersecurity`, `Bachenor Degree in Network System` and `Diploma in Network Security`
+- 👨🏻‍💻 I'm `Tech Lead at NDA` and `CTO at @rojakcube`.
+- 🎓 I'm `OSCP`, `CISSP`, `CPT`, `CSAP`, `CDSP`, `CHFI`, `CCSK` Certified, graduated from `Master in Cybersecurity`, `Bachenor Degree in Network System` and `Diploma in Network Security`.
 - ☕ I'm just a reverse coffee machine `input: coffee`, `output: code`.
 - 💻 I run `vscode` on `windows`, `linux`, `mac`, `raspberrypi`, `debian`, `centos`, `redhat`, `suse`, `arch`.
 - 🏗️ I `architect`, `design`, and `build` robust solutions for the `internet`.
