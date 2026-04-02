@@ -4,10 +4,10 @@
 
 - ✨ I'm the result `10years+` of `code`, `laugh`, `repeat`.
 - 👨🏻‍💻 I'm `Tech Lead at NDA` and `CTO at @rojakcube`.
-- 🎓 I'm `OSCP`, `CISSP`, `CPT`, `CSAP`, `CDSP`, `CHFI`, `CCSK` Certified, graduated from `Master in Cybersecurity`, `Bachenor Degree in Network System` and `Diploma in Network Security`.
+- 🎓 I'm `OSCP`, `CISSP`, `CPT`, `CSAP`, `CDSP`, `CHFI`, `CCSK` Certified, graduated from `Master in Cybersecurity`, `Bachelor Degree in Network System` and `Diploma in Network Security`.
 - ☕ I'm just a reverse coffee machine `input: coffee`, `output: code`.
 - 💻 I run `vscode` on `windows`, `linux`, `mac`, `raspberrypi`, `debian`, `centos`, `redhat`, `suse`, `arch`.
-- 🏗️ I `architect`, `design`, and `build` robust solutions for the `internet`.
+- 🏗️ I `architect`, `design`, `build`, ``, `hack it`, `security hardening`, and `release` robust solutions for the `internet`.
 - 🚀 DevOps-friendly. `code` > `commit` > `merge` > `fix` > `push` > `deploy`.
 - 🕹️ Currently `exploring` the depth of `FlareVM`, `RootKit`, `Malware Analysis`.
 - 📦 My dev stack`flutter/dart`, `capacitor/cordova`, `nextjs/react`, `nuxtjs/vue`, `javascript/typescript`, `laravel`, `tailwind`, `docker`, `kubernetes`.
