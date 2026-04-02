@@ -9,9 +9,10 @@
 - ☕ I'm just a reverse coffee machine `input: coffee`, `output: code`.
 - 💻 I run `vscode` on `windows`, `linux`, `mac`, `raspberrypi`, `debian`, `centos`, `redhat`, `suse`, `arch`, ``.
 - 🏗️ I `architect`, `design`, and `build` robust solutions for the `internet`.
-- 📦 My stack `flutter/dart`, `capacitor/cordova`, `nextjs/react`, `nuxtjs/vue`, `javascript/typescript`, `laravel`, `tailwind`, `docker`, `kubernetes`.
 - 🚀 DevOps-friendly. `code` > `commit` > `merge` > `fix` > `push` > `deploy`.
 - 🕹️ Currently `exploring` the depth of `FlareVM`, `RootKit`, `Malware Analysis`.
+- 📦 My dev stack`flutter/dart`, `capacitor/cordova`, `nextjs/react`, `nuxtjs/vue`, `javascript/typescript`, `laravel`, `tailwind`, `docker`, `kubernetes`.
+- 📦 My pentest tools `FlareVm`, `KaliLinux`, `ParrotOS`, `BlackArch`, `Nmap`, `Masscan`, `Amass`, `theHarvester`, `Recon-ng`, `Metasploit`, `ExploitDB`, `Searchsploit`, `BeEF`, `Burp Suite`, `OWASP ZAP`, `SQLmap`, `Nikto`, `ffuf`, `dirsearch`, `Hashcat`, `John the Ripper`, `Hydra`, `CeWL`, `Wireshark`, `tcpdump`, `Ettercap`, `Bettercap`, `Responder`,  `IDA Free`, `Ghidra`, `x64dbg`, `Radare2`, `PEStudio`, `Cutter`, `LinPEAS`, `WinPEAS`, `GTFOBins`, `LOLBAS`, `Trivy`, `kube-hunter`, `kube-bench`, `ScoutSuite`, `Cobalt Strike (lab)`, `Sliver`, `Empire`, `Mimikatz`.
 
 ### Try me:
 ```
