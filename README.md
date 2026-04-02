@@ -2,12 +2,16 @@
 
 <img align="right" alt="Coding" width="200" src="./kimmohito-card.gif" style="border-radius: 4px;">
 
-- 👨‍💻 I'm the result `10years+` of `code`, `laugh`, `repeat`.
-- 💻 I run `vscode` on `windows`.
+- ✨ I'm the result `10years+` of `code`, `laugh`, `repeat`.
+- 👨🏻‍💻 I'm `Tech Lead at NDA` and `CTO at @rojakcube`
+- 🎓 I'm graduated from `Master in Cybersecurity`, `Bachenor Degree in Network System` and `Diploma in Network Security`
+- 🐛 I'm OSCP Certified
+- ☕ I'm just a reverse coffee machine `input: coffee`, `output: code`.
+- 💻 I run `vscode` on `windows`, `linux`, `mac`, `raspberrypi`, `debian`, `centos`, `redhat`, `suse`, `arch`, ``.
 - 🏗️ I `architect`, `design`, and `build` robust solutions for the `internet`.
 - 📦 My stack `flutter/dart`, `capacitor/cordova`, `nextjs/react`, `nuxtjs/vue`, `javascript/typescript`, `laravel`, `tailwind`, `docker`, `kubernetes`.
-- 🚀 DevOps-friendly. `code` > `commit` > `push` > `deploy`.
-- 🕹️ Currently `exploring` the depth of `webassembly`, `rust`, `godot`.
+- 🚀 DevOps-friendly. `code` > `commit` > `merge` > `fix` > `push` > `deploy`.
+- 🕹️ Currently `exploring` the depth of `FlareVM`, `RootKit`, `Malware Analysis`.
 
 ### Try me:
 ```
